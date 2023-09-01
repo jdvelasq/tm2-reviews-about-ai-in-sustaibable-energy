@@ -1,0 +1,723 @@
+Abualigah L, 2022, ENERGIES, V15
+    Abualigah L., Zitar R.A., Almotairi K.H., Hussein A.M., Elaziz M.A., Nikoo M.R., Gandomi A.H., Wind, solar, and photovoltaic renewable energy systems with and without energy storage optimization: a survey of advanced machine learning and deep learning techniques, Energies, 15, (2022)
+Abubakar A, 2021, MACH, V9
+    Abubakar A., Almeida C.F.M., Gemignani M., Review of Artificial Intelligence-Based Failure Detection and Diagnosis Methods for Solar Photovoltaic Systems, Machines, 9, (2021)
+Aghbashlo M, 2021, PROG ENERGY COMBUST SCI, V85
+    Aghbashlo M., Peng W., Tabatabaei M., Kalogirou S.A., Soltanian S., Hosseinzadeh-Bandbafha H., Et al., Machine learning technology in biodiesel research: A review, Prog. Energy Combust. Sci, 85, (2021)
+    Aghbashlo M., Peng W., Tabatabaei M., Kalogirou S.A., Soltanian S., Hosseinzadeh-Bandbafha H., Mahian O., Lam S.S., Machine Learning Technology in Biodiesel Research: A Review, Prog. Energy Combust. Sci, 85, (2021)
+    Aghbashlo M., Peng W., Tabatabaei M., Kalogirou S.A., Soltanian S., Hosseinzadeh-Bandbafha H., Mahian O., Lam S.S., Machine Learning Technology in Biodiesel Research: A Review, Prog. Energy Combust. Sci., 85, (2021)
+    Aghbashlo M., Peng W., Tabatabaei M., Kalogirou S.A., Soltanian S., Hosseinzadeh-Bandbafha H., Mahian O., Lam S.S., Machine learning technology in biodiesel research: a review, Prog. Energy Combust. Sci., 85, (2021)
+    Aghbashlo M., Peng W., Tabatabaei M., Machine learning technology in biodiesel research: A review, Progress in Energy and Combustion Science, 85, (2021)
+Ahmad T, 2021, J CLEAN PROD, V289
+    Ahmad T., Zhang D., Huang C., Et al., Artificial intelligence in sustainable energy industry: status Quo, challenges and opportunities, J Clean Prod, 289, (2021)
+    Ahmad T., Zhang D., Huang C., Et al., Artificial intelligence in sustainable energy industry: status quo, challenges and opportunities, J Clean Prod, 289, (2021)
+    Ahmad T., Zhang D., Huang C., Et al., Artificial intelligence in sustainable energy industry: status quo, challenges and opportunities, J Clean Prod, 289, March, (2021)
+    Ahmad T., Zhang D., Huang C., Zhang H., Dai N., Song Y., Chen H., Artificial Intelligence in Sustainable Energy Industry: Status Quo, Challenges and Opportunities, J. Clean. Prod., 289, (2021)
+    Ahmad T., Zhang D., Huang C., Zhang H., Dai N., Song Y., Chen H., Artificial Intelligence in Sustainable Energy Industry: Status Quo, Challenges and Opportunities, Journal of Cleaner Production, 289, March, (2021)
+    Ahmad T., Zhang D., Huang C., Zhang H., Dai N., Song Y., Chen H., Artificial intelligence in sustainable energy industry: status quo, challenges and opportunities, J. Clean. Prod., 289, (2021)
+    Ahmad T., Zhang D., Huang C., Zhang H., Dai N., Song Y., Et al., Artificial intelligence in sustainable energy industry: status quo, challenges and opportunities, J Clean Prod, 289, (2021)
+Ahmad T, 2022, RENEWABLE SUSTAINABLE ENERGY , V160
+    Ahmad T., Madonski R., Zhang D., Huang C., Mujeeb A., Data-driven probabilistic machine learning in sustainable smart energy/smart energy systems: Key developments, challenges, and future research opportunities in the context of smart grid paradigm, Renewable Sustainable Energy Rev., 160, (2022)
+    Ahmad T., Madonski R., Zhang D., Huang C., Mujeeb A., Data-driven probabilistic machine learning in sustainable smart energy/smart energy systems: key developments, challenges, and future research opportunities in the context of smart grid paradigm, Renew. Sust. Energ. Rev., 160, (2022)
+Akhter MN, 2019, IET RENEW POWER GENER, V13, P1009
+    Akhter M. N., Mekhilef S., Mokhlis H., Shah N. M., Review on forecasting of photovoltaic power generation based on machine learning and metaheuristic techniques, IET Renewable Power Generation, 13, 7, pp. 1009-1023, (2019)
+    Akhter M.N., Mekhilef S., Mokhlis H., Mohamed Shah N., Review on Forecasting of Photovoltaic Power Generation Based on Machine Learning and Metaheuristic Techniques, IET Renew. Power Gener, 13, pp. 1009-1023, (2019)
+    Akhter M.N., Mekhilef S., Mokhlis H., Mohamed Shah N., Review on Forecasting of Photovoltaic Power Generation Based on Machine Learning and Metaheuristic Techniques, IET Renew. Power Gener., 13, 7, pp. 1009-1023, (2019)
+    Akhter M.N., Mekhilef S., Mokhlis H., Mohamed Shah N., Review on forecasting of photovoltaic power generation based on machine learning and Metaheuristic techniques, IET Renew. Power Gener., 13, 7, pp. 1009-1023, (2019)
+    Akhter M.N., Mekhilef S., Mokhlis H., Shah N.M., Review on forecasting of photovoltaic power generation based on machine learning and metaheuristic techniques, IET Renew Power Gener, 13, 7, pp. 1009-1023, (2019)
+    Akhter M.N., Mekhilef S., Mokhlis H., Shah N.M., Review on forecasting of photovoltaic power generation based on machine learning and metaheuristic techniques, IET Renew. Power Gener, 13, pp. 1009-1023, (2019)
+    Akhter M.N., Mekhilef S., Mokhlis H., Shah N.M., Review on forecasting of photovoltaic power generation based on machine learning and metaheuristic techniques, IET Renew. Power Gener., 13, 7, pp. 1009-1023, (2019)
+    Akhter M.N., Mekhilef S., Mokhlis H., Shah N.M., Review on forecasting of photovoltaic power generation based on machine learning and metaheuristic techniques, IET Renewable Power Gener., 13, 7, pp. 1009-1023, (2019)
+Al Tarhuni B, 2019, ENERGY EFFIC, V12, P2055
+    Al Tarhuni B., Naji A., Brodrick P.G., Hallinan K.P., Brecha R.J., Yao Z., Large scale residential energy efficiency prioritization enabled by machine learning, Energy Effic, 12, pp. 2055-2078, (2019)
+AlKandari M, 2019, APPL COMPUT  INF
+    AlKandari M., Ahmad I., Solar power generation forecasting using ensemble approach based on deep learning and statistical methods, Appl. Comput. Inform., (2019)
+Alcaniz A, 2023, ENERGY REP, V9, P447
+    Alcaniz A., Grzebyk D., Ziar H., Isabella O., Trends and Gaps in Photovoltaic Power Forecasting with Machine Learning, Energy Rep, 9, pp. 447-471, (2023)
+Alegre S, 2017, RENEWABLE SUSTAINABLE ENERGY , V74, P1020
+    Alegre S., Miguez J.V., Carpio J., Modelling of electric and parallel-hybrid electric vehicle using Matlab/Simulink environment and planning of charging stations through a geographic information system and genetic algorithms, Renew Sustain Energy Rev, 74, pp. 1020-1027, (2017)
+Alkhayat G, 2021, ENERGY AI, V4
+    Alkhayat G., Mehmood R., A review and taxonomy of wind and solar energy forecasting methods based on deep learning, Energy AI, 4, (2021)
+Almonacid F, 2009, RENEW ENERGY, V34, P941
+    Almonacid F., Rus C., Hontoria L., Fuentes M., Nofuentes G., Characterisation of Si-crystalline PV modules by artificial neural networks, Renew Energy, 34, pp. 941-949, (2009)
+    Almonacid F., Rus C., Hontoria L., Fuentes M., Nofuentes G., Characterisation of Si-crystalline PV modules by artificial neural networks, Renewable Energy, 34, pp. 941-949, (2009)
+Almonacid F, 2017, RENEWABLE SUSTAINABLE ENERGY , V75, P938
+    Almonacid F., Fernandez E.F., Mellit A., Kalogirou S., Review of techniques based on artificial neural networks for the electrical characterization of concentrator photovoltaic technology, Renew Sust Energ Rev, 75, pp. 938-953, (2017)
+    Almonacid F., Fernandez E.F., Mellit A., Kalogirou S., Review of techniques based on artificial neural networks for the electrical characterization of concentrator photovoltaic technology, Renew Sustain Energy Rev, 75, pp. 938-953, (2017)
+    Almonacid F., Fernandez E.F., Mellit A., Kalogirou S., Review of techniques based on artificial neural networks for the electrical characterization of concentrator photovoltaic technology, Renew. Sustain. Energy Rev., 75, pp. 938-953, (2017)
+Ascher S, 2022, RENEWABLE SUSTAINABLE ENERGY , V155
+    Ascher S., Watson I., You S., Machine learning methods for modelling the gasification and pyrolysis of biomass and waste, Renew. Sust. Energ. Rev., 155, (2022)
+    Ascher S., Watson I., You S., Machine learning methods for modelling the gasification and pyrolysis of biomass and waste, Renew. Sustain. Energy Rev., 155, (2022)
+    Ascher S., Watson I., You S., Machine learning methods for modelling the gasification and pyrolysis of biomass and waste, Renewable and Sustainable Energy Reviews, 155, 80, (2022)
+    Ascher S., Watson I., You S.M., Machine learning methods for modelling the gasification and pyrolysis of biomass and waste, Renewable Sustain Energy Rev, (2022)
+Aslam S, 2021, RENEWABLE SUSTAINABLE ENERGY , V144
+    Aslam S., Herodotou H., Mohsin S.M., Javaid N., Ashraf N., Aslam S., A Survey on Deep Learning Methods for Power Load and Renewable Energy Forecasting in Smart Microgrids, Renew. Sustain. Energy Rev, 144, (2021)
+    Aslam S., Herodotou H., Mohsin S.M., Javaid N., Ashraf N., Aslam S., A survey on deep learning methods for power load and renewable energy forecasting in smart microgrids, Renew. Sustain. Energy Rev, 144, (2021)
+    Aslam S., Herodotou H., Mohsin S.M., Javaid N., Ashraf N., Aslam S., A survey on deep learning methods for power load and renewable energy forecasting in smart microgrids, Renew. Sustain. Energy Rev., 144, (2021)
+    Aslam S., Herodotou H., Mohsin S.M., Javaid N., Ashraf N., Aslam S., A survey on deep learning methods for power load and renewable energy forecasting in smart microgrids, Renew. Sustain. Energy Rev., 144, 2021
+    Aslam S., Herodotou H., Mohsin S.M., Javaid N., Ashraf N., Aslam S., A survey on deep learning methods for power load and renewable energy forecasting in smart microgrids, Renewable Sustainable Energy Rev., 144, (2021)
+    Aslam S., Herodotou H., Mohsin S.M., Javaid N., Ashraf N., Aslam S., A survey on deep learning methods for power load and renewable energy forecasting in smart microgrids, Renewable and Sustainable Energy Reviews, 144, (2021)
+Assareh E, 2015, RENEWABLE SUSTAINABLE ENERGY , V51, P1023
+    Assareh E., Biglari M., A novel approach to capture the maximum power from variable speed wind turbines using PI controller, RBF neural network and GSA evolutionary algorithm, Renew Sustain Energy Rev, 51, pp. 1023-1037, (2015)
+Azadeh A, 2013, RENEWABLE SUSTAINABLE ENERGY , V27, P605
+    Azadeh A., Babazadeh R., Asadzadeh S.M., Optimum estimation and forecasting of renewable energy consumption by artificial neural networks, Renew Sustain Energy Rev, 27, pp. 605-612, (2013)
+Barrett DH, 2020, CURR OPIN  ELECTROCHEM, V21, P160
+    Barrett D.H., Aderemi H., Artificial intelligence and machine learning for targeted energy storage solutions, Cur Opin Electrochem, 21, pp. 160-166, (2020)
+    Barrett D.H., Haruna A., Artificial Intelligence and Machine Learning for Targeted Energy Storage Solutions, Curr. Opin. Electrochem., 21, pp. 160-166, (2020)
+    Barrett D.H., Haruna A., Artificial intelligence and machine learning for targeted energy storage solutions, Curr. Opin. Electrochem., 21, pp. 160-166, (2020)
+    Barrett D.H., Haruna A., Artificial intelligence and machine learning for targeted energy storage solutions, Current Opinion in Electrochemistry, 21, pp. 160-166, (2020)
+Berghout T, 2021, ENERGIES, V14
+    Berghout T., Benbouzid M., Bentrcia T., Ma X., Djurovic S., Mouss L.-H., Machine learning-based condition monitoring for PV systems: state of the art and future prospects, Energies, 14, 19, (2021)
+Berghout T, 2022, INT J CRIT INFRASTRUCT PROT, V38
+    Berghout T., Benbouzid M., Muyeen S., Machine learning for cybersecurity in smart grids: A comprehensive review-based study on methods, solutions, and prospects, Int. J. Crit. Infrastruct. Prot, 38, (2022)
+Bermejo JF, 2019, APPL SCI, V9
+    Bermejo J.F., Et al., A review of the use of artificial neural network models for energy and reliability prediction. A study of the solar PV, hydraulic and wind energy sources, Appl Sci (Switzerland), 9, 9, (2019)
+    Bermejo J.F., Fernandez J.F.G., Polo F.O., Marquez A.C., A review of the use of artificial neural network models for energy and reliability prediction. A study of the solar PV, hydraulic and wind energy sources, Appl Sci, 9, (2019)
+    Bermejo J.F., Fernandez J.F.G., Polo F.O., Marquez A.C., A review of the use of artificial neural network models for energy and reliability prediction. A study of the solar PV, hydraulic and wind energy sources, Appl. Sci., 9, 9, (2019)
+    Bermejo J.F., Fernandez J.F.G., Polo F.O., Marquez A.C., A review of the use of artificial neural network models for energy and reliability prediction. a study of the solar PV, hydraulic and wind energy sources, Appl. Sci., 9, (2019)
+    Ferrero Bermejo J., Gomez Fernandez J.F., Olivencia Polo F., Crespo Marquez A., A review of the use of artificial neural network models for energy and reliability prediction. A study of the solar PV, hydraulic and wind energy sources, Appl Sci, 9, (2019)
+    Ferrero Bermejo J., Gomez Fernandez J.F., Olivencia Polo F., Crespo Marquez A., A review of the use of artificial neural network models for energy and reliability prediction. A study of the solar PV, hydraulic and wind energy sources, Appl. Sci, 9, (2019)
+Betiku E, 2015, RENEW ENERGY, V76, P408
+    Betiku E., Okunsolawo S.S., Ajala S.O., Odedele O.S., Performance evaluation of artificial neural network coupled with generic algorithm and response surface methodology in modeling and optimization of biodiesel production process parameters from shea tree (Vitellaria paradoxa) nut butter, Renew. Energy, 76, pp. 408-417, (2015)
+    Betiku E., Okunsolawo S.S., Ajala S.O., Odedele O.S., Performance evaluation of artificial neural network coupled with generic algorithm and response surface methodology in modeling and optimization of biodiesel production process parameters from shea tree (Vitellaria paradoxa) nut butter, Renewable Energy, 76, pp. 408-417, (2015)
+Bhattarai BP, 2019, IET SMART GRID, V2, P141
+    Bhattarai B.P., Paudyal S., Luo Y., Mohanpurkar M., Cheung K., Tonkoski R., Et al., Big data analytics in smart grids: state-of-theart, challenges, opportunities, and future directions, IET Smart Grid, 2, pp. 141-154, (2019)
+Bhowmik A, 2019, ENERGY STORAGE MATER, V21, P446
+    Bhowmik A, Castelli I E, Garcia-Lastra J M, Jrgensen P B, Winther O, Vegge T., A perspective on inverse design of battery interphases using multi-scale modelling, experiments and generative deep learning, Energy Storage Mater, 21, pp. 446-456, (2019)
+    Bhowmik A., Castelli I.E., Garcia-Lastra J.M., Jorgensen P.B., Winther O., Vegge T., A Perspective on Inverse Design of Battery Interphases Using Multi-Scale Modelling, Experiments and Generative Deep Learning, Energy Storage Mater., 21, pp. 446-456, (2019)
+    Bhowmik A., Castelli I.E., Garcia-Lastra J.M., Jorgensen P.B., Winther O., Vegge T., A perspective on inverse design of battery interphases using multi-scale modelling, experiments and generative deep learning, Energy Storage Mater, 21, pp. 446-456, (2019)
+    Bhowmik A., Castelli I.E., Garcia-Lastra J.M., Jorgensen P.B., Winther O., Vegge T., A perspective on inverse design of battery interphases using multi-scale modelling, experiments and generative deep learning, Energy Storage Materials, 21, pp. 446-456, (2019)
+    Bhowmik A., Castelli I.E., Garcia-Lastra J.M., Jorgensenb P.B., Winthe O., Vegge T., A perspective on inverse design of battery interphases using multi-scale modelling, experiments and generative deep learning, Energy Storage Mater., 21, pp. 446-456, (2019)
+Borunda M, 2016, RENEWABLE SUSTAINABLE ENERGY , V62, P32
+    Borunda M., Jaramillo O.A., Reyes A., Ibarguengoytia P.H., Bayesian networks in renewable energy systems: A bibliographical survey, Renewable and Sustainable Energy Reviews, 62, pp. 32-45, (2016)
+    Borunda M., Jaramillo O.A., Reyes A., Ibarguengoytia P.H., Bayesian networks in renewable energy systems: a bibliographical survey, Renew Sustain Energy Rev, 62, pp. 32-45, (2016)
+Bouaouda A, 2022, ARCH COMPUT METHODS ENG, V29, P4049
+    Bouaouda A., Sayouti Y., Hybrid Meta-Heuristic Algorithms for Optimal Sizing of Hybrid Renewable Energy System: A Review of the State-of-the-Art, Arch Computat Methods Eng, 29, 6, pp. 4049-4083, (2022)
+Cao B, 2018, ACS NANO, V12, P7434
+    Cao B., Adutwum L.A., Oliynyk A.O., Luber E.J., Olsen B.C., Mar A., Buriak J.M., How to Optimize Materials and Devices via Design of Experiments and Machine Learning: Demonstration Using Organic Photovoltaics, ACS Nano, 12, pp. 7434-7444, (2018)
+    Cao B., Adutwum L.A., Oliynyk A.O., Luber E.J., Olsen B.C., Mar A., Buriak J.M., How to optimize materials and devices via design of experiments and machine learning: Demonstration using organic photovoltaics, ACS Nano, 12, pp. 7434-7444, (2018)
+Chan CW, 2012, CARBON MANAGE, V3, P69
+    Chan C.W., Zhou Q., Tontiwachiwuthikul P., Part 4a: applications of knowledge-based system technology for the CO2 capture process system, Carbon Manag., 3, pp. 69-79, (2012)
+Chatterjee J, 2021, RENEWABLE SUSTAINABLE ENERGY , V144
+    Chatterjee J., Dethlefs N., Scientometric review of artificial intelligence for operations & maintenance of wind turbines: The past, present and future, Renew. Sustain. Energy Rev, 144, (2021)
+    Chatterjee J., Dethlefs N., Scientometric review of artificial intelligence for operations & maintenance of wind turbines: the past, present and future, Renew Sustain Energy Rev, 144, (2021)
+Chehri A, 2021, SUSTAINABILITY, V13
+    Chehri A., Fofana I., Yang X., Security Risk Modeling in Smart Grid Critical Infrastructures in the Era of Big Data and Artificial Intelligence, Sustainability, 13, (2021)
+Chen X/2, 2021, ANGEW CHEM INT ED, V60, P24354
+    Chen X., Liu X.Y., Shen X., Zhang Q., Applying machine learning to rechargeable batteries: from the microscale to the macroscale, Angew Chem  Int Ed, 60, 46, pp. 24354-24366, (2021)
+Chis A, 2017, IEEE TRANS VEH TECHNOL, V66, P3674
+    Chis A., Lunden J., Koivunen V., Reinforcement learning-based plug-in electric vehicle charging with forecasted price, IEEE Trans Veh Technol, 66, 5, pp. 3674-3684, (2017)
+    Chis A., Lunden J., Koivunen V., Reinforcement learning-based plug-in electric vehicle charging with forecasted price, IEEE Trans Veh Technol, 66, pp. 3674-3684, (2017)
+    Chis A., Lunden J., Koivunen V., Reinforcement learning-based plug-in electric vehicle charging with forecasted price, IEEE Transactions on Vehicular Technology, 66, 5, pp. 3674-3684, (2017)
+Chung Y-W, 2019, APPL ENERGY, V254
+    Chung Y.W., Khaki B., Li T., Chu C., Gadh R., Ensemble machine learning-based algorithm for electric vehicle user behavior prediction, Appl. Energy, 254, (2019)
+Coelho VN, 2017, APPL ENERGY, V187, P820
+    Coelho V.N., Weiss Cohen M., Coelho I.M., Liu N., Guimaraes F.G., Multi-agent systems applied for energy systems integration: State-of-the-art applications and trends in microgrids, Appl Energy, 187, pp. 820-832, (2017)
+Cotfas DT, 2021, INT J PHOTOENERGY, V2021
+    Cotfas D.T., Cotfas P.A., Oproiu M.P., Ostafe P.A., Analytical versus Metaheuristic Methods to Extract the Photovoltaic Cells and Panel Parameters, Int. J. Photoenergy, 2021, (2021)
+Cuadra L, 2016, RENEWABLE SUSTAINABLE ENERGY , V58, P1223
+    Cuadra L., Salcedo-Sanz S., Nieto-Borge J., Alexandre E., Rodriguez G., Computational intelligence in wave energy: Comprehensive review and case study, Renew. Sustain. Energy Rev., 58, pp. 1223-1246, (2016)
+    Cuadra L., Salcedo-Sanz S., Nieto-Borge J.C., Alexandre E., Rodriguez G., Computational intelligence in wave energy: comprehensive review and case study, Renew Sustain Energy Rev, 58, pp. 1223-1246, (2016)
+Cui L, 2020, J NETWORK COMPUT APPL, V170
+    Cui L., Qu Y., Gao L., Xie G., Yu S., Detecting false data attacks using machine learning techniques in smart grid: A survey, J. Netw. Comput. Appl, 170, (2020)
+Cui Z, 2022, INT J ENERGY RES, V46, P5423
+    Cui Z., Wang L., Li Q., Wang K., A comprehensive review on the state of charge estimation for lithium-ion battery based on neural network, Int. J. Energy Res., 46, 5, pp. 5423-5440, (2022)
+    Cui Z., Wang L., Li Q., Wang K., A comprehensive review on the state of charge estimation for lithium-ion battery based on neural network, International Journal of Energy Research, 46, 5, pp. 5423-5440, (2022)
+Del Ser J, 2022, APPL SOFT COMPUT, V118
+    Del J.S., Casillas-Perez D., Cornejo-Bueno L., Prieto-Godino L., Sanz-Justo J., Casanova-Mateo C., Salcedo-Sanz S., Randomization-based machine learning in renewable energy prediction problems: critical literature review, new results and perspectives, Appl Soft Comput, 118, (2022)
+Deng Y-C, 2021, ENERGY SOURCES RECOVERY UTIL 
+    Deng Y.C., Tang X.H., Zhou Z.Y., Yang Y., Niu F., Application of machine learning algorithms in wind power: A review, Energy Sources Part A, pp. 1-22, (2021)
+Deshkar SN, 2015, RENEWABLE SUSTAINABLE ENERGY , V43, P102
+    Deshkar S.N., Dhale S.B., Mukherjee J.S., Babu T.S., Rajasekar N., Solar PV array reconfiguration under partial shading conditions for maximum power extraction using genetic algorithm, Renew. Sustain. Energy Rev., 43, pp. 102-110, (2015)
+Elsheikh AH, 2019, INT J ENVIRON SCI TECHNOL, V16, P1159
+    Elsheikh A.H., Abd Elaziz M., Review on applications of particle swarm optimization in solar energy systems, Int. J. Environ. Sci. Technol, 16, pp. 1159-1170, (2019)
+    Elsheikh A.H., Abd Elaziz M., Review on applications of particle swarm optimization in solar energy systems, International Journal of Environmental Science and Technology, 16, 2, pp. 1159-1170, (2019)
+    Elsheikh A.H., Elaziz M.A., Review on applications of particle swarm optimization in solar energy systems, Int J Environ Sci Technol, 16, 2, pp. 1159-1170, (2019)
+Elsheikh AH, 2019, SOL ENERGY, V180, P622
+    Elsheikh A.H., Et al., Modeling of solar energy systems using artificial neural network: a comprehensive review, Sol Energy, 180, pp. 622-639, (2019)
+    Elsheikh A.H., Sharshir S.W., Abd Elaziz M., Kabeel A., Guilan W., Haiou Z., Modeling of solar energy systems using artificial neural network: A comprehensive review, Sol. Energy, 180, pp. 622-639, (2019)
+    Elsheikh A.H., Sharshir S.W., Abd Elaziz M., Kabeel A., Guilan W., Haiou Z., Modeling of solar energy systems using artificial neural network: a comprehensive review, Solar Energy, 180, pp. 622-639, (2019)
+    Elsheikh A.H., Sharshir S.W., Abd Elaziz M., Kabeel A.E., Guilan W., Haiou Z., Modeling of solar energy systems using artificial neural network: a comprehensive review, Sol Energy, 180, pp. 622-639, (2019)
+    Elsheikh A.H., Sharshir S.W., Elaziz M.A., Kabeel A., Guilan W., Haiou Z., Modeling of solar energy systems using artificial neural network: A comprehensive review, Sol. Energy, 180, pp. 622-639, (2019)
+    Elsheikh A.H., Sharshir S.W., Elaziz M.A., Kabeel A.E., Guilan W., Haiou Z., Modeling of solar energy systems using artificial neural network: a comprehensive review, Sol Energy, 180, pp. 622-639, (2019)
+Enitan AM, 2017, REV CHEM ENG, V33, P309
+    Enitan A.M., Adeyemo J., Swalaha F.M., Kumari S., Bux F., Optimization of biogas generation using anaerobic digestion models and computational intelligence approaches, Reviews in Chemical Engineering, 33, 3, pp. 309-335, (2017)
+Fadaee M, 2012, RENEWABLE SUSTAINABLE ENERGY , V16, P3364
+    Fadaee M., Radzi M., Multi-objective optimization of a stand-alone hybrid renewable energy system by using evolutionary algorithms: A review, Renew. Sustain. Energy Rev, 16, pp. 3364-3369, (2012)
+    Fadaee M., Radzi M., Multi-objective optimization of a stand-alone hybrid renewable energy system by using evolutionary algorithms: a review, Renewable Sustainable Energy Rev, 16, pp. 3364-3369, (2012)
+    Fadaee M., Radzi M.A., Multi-objective optimization of a stand-alone hybrid renewable energy system by using evolutionary algorithms: a review, Renew Sustain Energy Rev, 16, 5, pp. 3364-3369, (2012)
+    Fadaee M., Radzi M.A.M., Multi-objective optimization of a stand-alone hybrid renewable energy system by using evolutionary algorithms: a review, Renew Sust Energ Rev, 16, 5, pp. 3364-3369, (2012)
+    Fadaee M., Radzi M.A.M., Multi-objective optimization of a stand-alone hybrid renewable energy system by using evolutionary algorithms: a review, Renew Sustain Energy Rev, 16, 5, pp. 3364-3369, (2012)
+    Fadaee M., Radzi M.A.M., Multi-objective optimization of a stand-alone hybrid renewable energy system by using evolutionary algorithms: a review, Renew Sustain Energy Rev, 16, pp. 3364-3369, (2012)
+    Fadaee M., Radzi M.A.M., Multi-objective optimization of a stand-alone hybrid renewable energy system by using evolutionary algorithms: a review, Renew. Sustain. Energy Rev., 16, pp. 3364-3369, (2012)
+Fajobi MO, 2022, ENERGY SOURCES RECOVERY UTIL , V44, P5314
+    Fajobi M.O., Lasode O.A., Adeleke A.A., Ikubanni P.P., Balogun A.O., Effect of biomass co-digestion and application of artificial intelligence in biogas production: a review, Energy Sources, Part A Recovery, Util. Environ. Eff., 44, pp. 5314-5339, (2022)
+Farhat M, 2015, RENEWABLE SUSTAINABLE ENERGY , V49, P907
+    Farhat M., Barambones O., Sbita L., Efficiency optimization of a DSP-based standalone PV system using a stable single input fuzzy logic controller, Renew Sustain Energy Rev, 49, pp. 907-920, (2015)
+Farzaneh H, 2021, APPL SCI, V11, P1
+    Farzaneh H., Malehmirchegini L., Bejan A., Afolabi T., Mulumba A., Daka P.P., Artificial Intelligence Evolution in Smart Buildings for Energy Efficiency, Applied Sciences., 11, 2, (2021)
+    Farzaneh H., Malehmirchegini L., Bejan A., Afolabi T., Mulumba A., Daka P.P., Artificial intelligence evolution in smart buildings for energy efficiency, Appl. Sci, 11, (2021)
+Fathi S, 2020, RENEWABLE SUSTAINABLE ENERGY , V133
+    Fathi S., Srinivasan R., Fenner A., Fathi S., Machine Learning Applications in Urban Building Energy Performance Forecasting: A Systematic Review, Renew. Sustain. Energy Rev., 133, JULY, (2020)
+    Fathi S., Srinivasan R., Fenner A., Fathi S., Machine learning applications in urban building energy performance forecasting: A systematic review, Renew. Sustain. Energy Rev, 133, (2020)
+    Fathi S., Srinivasan R., Fenner A., Fathi S., Machine learning applications in urban building energy performance forecasting: A systematic review, Renewable Sustainable Energy Rev., 133, (2020)
+    Fathi S., Srinivasan R., Fenner A., Fathi S., Machine learning applications in urban building energy performance forecasting: a systematic review, Renew Sustain Energy Rev, 133, (2020)
+    Fathi S., Srinivasan R., Fenner A., Fathi S., Machine learning applications in urban building energy performance forecasting: a systematic review, Renew. Sust. Energ. Rev., 133, (2020)
+Fu Q, 2022, J BUILD ENG, V50
+    Fu Q., Han Z., Chen J., Lu Y., Wu H., Wang Y., Applications of Reinforcement Learning for Building Energy Efficiency Control: A Review, J. Build. Eng, 50, (2022)
+    Fu Q., Han Z., Chen J., Lu Y., Wu H., Wang Y., Applications of reinforcement learning for building energy efficiency control: A review, Journal of Building Engineering, 50, (2022)
+Gaboitaolelwe J, 2023, IEEE ACCESS, V11, P40820
+    Gaboitaolelwe J., Zungeru A.M., Yahya A., Lebekwe C.K., Vinod D.N., Salau A.O., Machine Learning Based Solar Photovoltaic Power Forecasting: A Review and Comparison, IEEE Access, 11, pp. 40820-40845, (2023)
+Ganesh AH, 2022, RENEWABLE SUSTAINABLE ENERGY , V154
+    Ganesh A.H., Xu B., A review of reinforcement learning based energy management systems for electrified powertrains: progress, challenge, and potential solution, Renew Sustain Energy Rev, 154, (2022)
+Gao T, 2021, ISCIENCE, V24
+    Gao T H, Lu W., Machine learning toward advanced energy storage devices and systems, iScience, 24, 1, (2021)
+    Gao T., Lu W., Machine Learning toward Advanced Energy Storage Devices and Systems, IScience, 24, (2021)
+    Gao T., Lu W., Machine learning toward advanced energy storage devices and systems, iScience, 24, (2021)
+    Gao T., Lu W., Machine learning toward advanced energy storage devices and systems, iScience, 24, 1, (2021)
+Garud KS, 2021, INT J ENERGY RES, V45, P6
+    Garud K.S., Jayaraj S., Lee M., A review on modeling of solar photovoltaic systems using artificial neural networks, fuzzy logic, genetic algorithm and hybrid models, Int. J. Energy Res., 45, 1, pp. 6-35, (2021)
+    Garud K.S., Jayaraj S., Lee M.Y., A review on modeling of solar photovoltaic systems using artificial neural networks, fuzzy logic, genetic algorithm and hybrid models, Int J Energy Res, 45, 1, pp. 6-35, (2021)
+    Garud K.S., Jayaraj S., Lee M.Y., A review on modeling of solar photovoltaic systems using artificial neural networks, fuzzy logic, genetic algorithm and hybrid models, Int. J. Energy Res, 45, pp. 6-35, (2021)
+Georgilakis PS, 2020, ENERGIES, V13
+    Georgilakis S.P., Review of Computational Intelligence Methods for Local Energy Markets at the Power Distribution Level to Facilitate the Integration of Distributed Energy Resources: Stateoftheart and Future Research, Energies, 13, (2020)
+Gu C, 2022, ENERGIES, V15
+    Gu C., Li H., Review on Deep Learning Research and Applications in Wind and Wave Energy, Energies, 15, (2022)
+Gu GH, 2019, J MATER CHEM A, V7, P17096
+    Gu G.H., Noh J., Kim I., Et al., Machine learning for renewable energy materials, J Mater Chem A, 7, pp. 17096-17117, (2019)
+    Gu G.H., Noh J., Kim I., Jung Y., Machine Learning for Renewable Energy Materials, J. Mater. Chem. A, 7, pp. 17096-17117, (2019)
+    Gu G.H., Noh J., Kim I., Jung Y., Machine learning for renewable energy materials, J Mater Chem, 7, 29, pp. 17096-17117, (2019)
+    Gu G.H., Noh J., Kim I., Jung Y., Machine learning for renewable energy materials, J. Mater. Chem. A, 7, (2019)
+    Gu G.H., Noh J., Kim I., Jung Y., Machine learning for renewable energy materials, J. Mater. Chem. A, 7, pp. 17096-17117, (2019)
+    Gu G.H., Noh J., Kim I., Jung Y., Machine learning for renewable energy materials, J. Mater. Chem., 7, pp. 17096-17117, (2019)
+Helbing G, 2018, RENEWABLE SUSTAINABLE ENERGY , V98, P189
+    Helbing G., Ritter M., Deep Learning for Fault Detection in Wind Turbines, Renew. Sustainable Energ. Rev, 98, pp. 189-198, (2018)
+    Helbing G., Ritter M., Deep Learning for fault detection in wind turbines, Renew. Sustain. Energy Rev, 98, pp. 189-198, (2018)
+    Helbing G., Ritter M., Deep Learning for fault detection in wind turbines, Renew. Sustain. Energy Rev., 98, pp. 189-198, (2018)
+    Helbing G., Ritter M., Deep learning for fault detection in wind turbines, Renew Sustain Energy Rev, 98, 100, pp. 189-198, (2018)
+    Helbing G., Ritter M., Deep learning for fault detection in wind turbines, Renew Sustain Energy Rev, 98, pp. 189-198, (2018)
+    Helbing G., Ritter M., Deep learning for fault detection in wind turbines, Renew. Sustain. Energy Rev., 98, pp. 189-198, (2018)
+Hossain E/1, 2019, IEEE ACCESS, V7, P13960
+    Hossain E., Imtiaj Khan I., Un-Noor F., Sikander S., Sunny M.S.H., Application of Big Data and machine learning in smart grid, and associated security concerns: A review, IEEE Access, 7, 2019, pp. 13960-13988, (2018)
+    Hossain E., Khan I., Noor F.U., Sikander S.S., Sunny M.S.H., Application of Big Data and Machine Learning in Smart Grid, and Associated Security Concerns: A Review, IEEE Access, pp. 13960-13988, (2019)
+    Hossain E., Khan I., Un-Noor F., Sikander S.S., Sunny M.S.H., Application of Big Data and Machine Learning in Smart Grid, and Associated Security Concerns: A Review, IEEE Access, 7, pp. 13960-13988, (2019)
+    Hossain E., Khan I., Un-Noor F., Sikander S.S., Sunny M.S.H., Application of big data and machine learning in smart grid, and associated security concerns: A review, IEEE Access, 7, pp. 13960-13988, (2019)
+    Hossain E., Khan I., Un-Noor F., Sikander S.S., Sunny M.S.H., Application of big data and machine learning in smart grid, and associated security concerns: a review, IEEE Access, 7, pp. 13960-13988, (2019)
+Hosseini S, 2019, INT J ELECTR POWER ENERGY SYS, V105, P110
+    Hosseini S., Sarder M.D., Development of a Bayesian network model for optimal site selection of electric vehicle charging station, Int. J. Electr. Power Energy Syst., 105, pp. 110-122, (2019)
+Jha SK, 2017, RENEWABLE SUSTAINABLE ENERGY , V77, P297
+    Jha S.K., Bilalovic J., Jha A., Patel N., Zhang H., Renewable Energy: Present Research and Future Scope of Artificial Intelligence, Renewable and Sustainable Energy Reviews, 77, pp. 297-317, (2017)
+    Jha S.K., Bilalovic J., Jha A., Patel N., Zhang H., Renewable Energy: Present research and future scope of Artificial Intelligence, Renew Sustain Energy Rev, 77, pp. 297-317, (2017)
+    Jha S.K., Bilalovic J., Jha A., Patel N., Zhang H., Renewable energy: Present research and future scope of Artificial Intelligence, Renewable and Sustainable Energy Reviews, 77, pp. 297-317, (2017)
+    Jha S.K., Bilalovic J., Jha A., Patel N., Zhang H., Renewable energy: Present research and future scope of artificial intelligence, Renewable and Sustainable Energy Reviews, 77, pp. 297-317, (2017)
+    Jha S.K., Bilalovic J., Jha A., Patel N., Zhang H., Renewable energy: present research and future scope of Artificial Intelligence, Renew Sustain Energy Rev, 77, pp. 297-317, (2017)
+    Jha S.K., Bilalovic J., Jha A., Patel N., Zhang H., Renewable energy: present research and future scope of Artificial Intelligence, Renew. Sustain. Energy Rev., 77, pp. 297-317, (2017)
+    Jha S.K., Bilalovic J., Jha A., Patel N., Zhang H., Renewable energy: present research and future scope of artificial intelligence, Renew Sustain Energy Rev, 77, pp. 297-317, (2017)
+Kalogirou SA, 2000, RENEWABLE SUSTAINABLE ENERGY , V5, P373
+    Kalogirou S.A., Artificial Neural Networks in Renewable Energy Systems Applications: A Review, Renewable and Sustainable Energy Reviews, (2000)
+    Kalogirou S.A., Artificial neural networks in renewable energy systems applications: A review, Renewable and Sustainable Energy Reviews, 5, 4, pp. 373-401, (2000)
+Karabacak K, 2014, RENEWABLE SUSTAINABLE ENERGY , V29, P804
+    Karabacak K., Cetin N., Artificial neural networks for controlling wind-PV power systems: A review, Renew. Sustain. Energy Rev, 29, pp. 804-827, (2014)
+Kashyap Y, 2015, RENEWABLE SUSTAINABLE ENERGY , V49, P825
+    Kashyap Y., Bansal A., Sao A.K., Solar radiation forecasting with multiple parameters neural networks, Renew Sustain Energy Rev, 49, pp. 825-835, (2015)
+    Kashyap Y., Bansal A., Sao A.K., Solar radiation forecasting with multiple parameters neural networks, Renew. Sustain. Energy Rev., 49, pp. 825-835, (2015)
+Kelechi AH, 2020, SYMMETRY, V12
+    Kelechi A.H., Alsharif M.H., Bameyi O.J., Ezra P.J., Joseph I.K., Atayero A.-A., Geem Z.W., Hong J., Artificial intelligence: An energy efficiency tool for enhanced high performance computing, Symmetry, 12, (2020)
+Kermadi M, 2017, RENEWABLE SUSTAINABLE ENERGY , V69, P369
+    Kermadi M., Berkouk E.M., Artificial intelligence-based maximum power point tracking controllers for photovoltaic systems: Comparative study, Renew. Sustain. Energy Rev, 69, pp. 369-386, (2017)
+    Kermadi M., Berkouk E.M., Artificial intelligence-based maximum power point tracking controllers for photovoltaic systems: comparative study, Renew Sust Energ Rev, 69, pp. 369-386, (2017)
+    Kermadi M., Berkouk E.M., Artificial intelligence-based maximum power point tracking controllers for photovoltaic systems: comparative study, Renew Sustain Energy Rev, 69, pp. 369-386, (2017)
+Khan MW, 2017, RENEWABLE SUSTAINABLE ENERGY , V80, P1399
+    Khan M.W., Wang J., The research on multi-agent system for microgrid control and optimization, Renewable and Sustainable Energy Reviews, 80, pp. 1399-1411, (2017)
+Khare A, 2013, APPL SOFT COMPUT J, V13, P2997
+    Khare A., Rangnekar S., A review of particle swarm optimization and its applications in Solar Photovoltaic system, Appl. Soft Comput, 13, pp. 2997-3006, (2013)
+    Khare A., Rangnekar S., A review of particle swarm optimization and its applications in Solar Photovoltaic system, Appl. Soft Comput. J., 13, 5, pp. 2997-3006, (2013)
+    Khare A., Rangnekar S., A review of particle swarm optimization and its applications in solar photovoltaic system, Appl Soft Comput, 13, 5, pp. 2997-3006, (2013)
+    Khare A., Rangnekar S., A review of particle swarm optimization and its applications in solar photovoltaic system, Appl Soft Comput, 13, pp. 2997-3006, (2013)
+    Khare A., Rangnekar S., A review of particle swarm optimization and its applications in solar photovoltaic system, Appl. Soft Comput., 13, pp. 2997-3006, (2013)
+Kotsiopoulos T, 2021, COMPUT SCI REV, V40
+    Kotsiopoulos T., Sarigiannidis P., Ioannidis D., Tzovaras D., Machine Learning and Deep Learning in smart manufacturing: The Smart Grid paradigm, Comput Sci. Rev, 40, (2021)
+    Kotsiopoulos T., Sarigiannidis P., Ioannidis D., Tzovaras D., Machine Learning and Deep Learning in smart manufacturing: The Smart Grid paradigm, Computer Science Review, 40, (2021)
+    Kotsiopoulos T., Sarigiannidis P., Ioannidis D., Tzovaras D., Machine learning and deep learning in smart manufacturing: the smart grid paradigm, Comput Sci Rev, 40, (2021)
+    Kotsiopoulos T., Sarigiannidis P., Ioannidis D., Tzovaras D., Machine learning and deep learning in smart manufacturing: the smart grid paradigm, Comput. Sci. Rev., 40, (2021)
+Kow KW, 2016, RENEWABLE SUSTAINABLE ENERGY , V56, P334
+    Kow K.W., Wong Y.W., Rajkumar R.K., Rajkumar R.K., A review on performance of artificial intelligence and conventional method in mitigating PV grid-tied related power quality events, Renew. Sustain. Energy Rev., 56, pp. 334-346, (2016)
+Krechowicz A, 2022, ENERGIES, V15
+    Krechowicz A., Krechowicz M., Poczeta K., Machine Learning Approaches to Predict Electricity Production from Renewable Energy Sources, Energies, 15, (2022)
+Kumari P, 2021, J CLEAN PROD, V318
+    Kumari P., Toshniwal D., Deep Learning Models for Solar Irradiance Forecasting: A Comprehensive Review, J. Clean. Prod, 318, (2021)
+    Kumari P., Toshniwal D., Deep learning models for solar irradiance forecasting: A comprehensive review, J Clean Prod, 318, (2021)
+    Kumari P., Toshniwal D., Deep learning models for solar irradiance forecasting: A comprehensive review, J. Clean. Prod, 318, (2021)
+    Kumari P., Toshniwal D., Deep learning models for solar irradiance forecasting: a comprehensive review, J Clean Prod, 318, (2021)
+    Kumari P., Toshniwal D., Deep learning models for solar irradiance forecasting: a comprehensive review, J Clean Prod, 318, August, (2021)
+Kurukuru VSB, 2021, ENERGIES, V14
+    Kurukuru V., Haque A., Khan M., Sahoo S., Malik A., Blaabjerg F., A Review on Artificial Intelligence Applications for Grid-Connected Solar Photovoltaic Systems, Energies, 14, (2021)
+Labeodan T, 2015, RENEWABLE SUSTAINABLE ENERGY , V50, P1405
+    Labeodan T., Aduda K., Boxem G., Zeiler W., On the application of multi-agent systems in buildings for improved building operations, performance and smart grid interaction  a survey, Renew Sustain Energy Rev, 50, pp. 1405-1414, (2015)
+    Labeodan T., Aduda K., Boxem G., Zeiler W., On the application of multi-agent systems in buildings for improved building operations, performance and smart grid interaction - A survey, Renew Sustain Energy Rev, 50, pp. 1405-1414, (2015)
+    Labeodan T., Aduda K., Boxem G., Zeiler W., On the application of multi-agent systems in buildings for improved building operations, performance and smart grid interactionA survey, Renew Sustain Energy Rev, 50, pp. 1405-1414, (2015)
+Lai J-P, 2020, APPL SCI, V10
+    Lai J.-P., Chang Y.-M., Chen C.-H., Pai P.-F., A Survey of Machine Learning Models in Renewable Energy Predictions, Appl. Sci, 10, (2020)
+    Lai J.-P., Chang Y.-M., Chen C.-H., Pai P.-F., A survey of machine learning models in renewable energy predictions, Appl Sci, 10, 17, (2020)
+    Lai J.-P., Chang Y.-M., Chen C.-H., Pai P.-F., A survey of machine learning models in renewable energy predictions, Appl. Sci., 10, 17, (2020)
+    Lai J.P., Chang Y.M., Chen C.H., Pai P.F., A survey of machine learning models in renewable energy predictions, Appl Sci (Switzerland), 10, 17, (2020)
+    Lai J.P., Chang Y.M., Chen C.H., Pai P.F., A survey of machine learning models in renewable energy predictions, Appl. Sci, 10, (2020)
+    Lai J.P., Chang Y.M., Chen C.H., Pai P.F., A survey of machine learning models in renewable energy predictions, Appl. Sci., 10, 17, (2020)
+Lakshmi D, 2021, SCI TOTAL ENVIRON, V801
+    Lakshmi D., Akhil D., Kartik A., Et al., Artificial intelligence (AI) applications in adsorption of heavy metals using modified biochar, Sci Total Environ, (2021)
+Lalouni S, 2009, J POWER SOURCES, V193, P899
+    Lalouni S., Rekioua D., Rekioua T., Matagne E., Fuzzy logic control of stand-alone photovoltaic system with battery storage, J Power Sources, 193, pp. 899-907, (2009)
+    Lalouni S., Rekioua D., Rekioua T., Matagne E., Fuzzy logic control of stand-alone photovoltaic system with battery storage, Journal of Power Sources, 193, 2, pp. 899-907, (2009)
+Li B/2, 2021, RENEWABLE SUSTAINABLE ENERGY , V138
+    Li B., Delpha C., Diallo D., Migan-Dubois A., Application of Artificial Neural Networks to photovoltaic fault detection and diagnosis: A review, Renew. Sustain. Energy Rev, 138, (2021)
+Li F, 2019, ENERGY ENVIRON MATER, V2, P280
+    Li F., Peng X., Wang Z., Et al., Machine learning (ML)-assisted design and fabrication for solar cells, Energy Environ Mater, 2, 4, pp. 280-291, (2019)
+    Li F., Peng X., Wang Z., Zhou Y., Wu Y., Jiang M., Xu M., Machine learning (ML)-assisted design and fabrication for solar cells, Energy Environ Mater, (2019)
+Liao M, 2021, GCB BIOENERGY, V13, P774
+    Liao M., Yao Y., Applications of artificial intelligence-based modeling for bioenergy systems: A review, GCB Bioenergy, 13, 5, pp. 774-802, (2021)
+    Liao M., Yao Y., Applications of artificial intelligence-based modeling for bioenergy systems: A review, GCB Bioenergy, 13, pp. 774-802, (2021)
+    Liao M., Yao Y., Applications of artificial intelligence-based modeling for bioenergy systems: a review, GCB Bioenergy, 13, pp. 774-802, (2021)
+Liu Y, 2021, ENERGIES, V14
+    Liu Y., Liu J., He H., Yang S., Wang Y., Hu J., Jin H., Cui T., Yang G., Sun Y., A Review of Enhancement of Biohydrogen Productions by Chemical Addition Using a Supervised Machine Learning Method, Energies, 14, (2021)
+Liu Y/1, 2020, ENERGY STORAGE MATER, V31, P434
+    Liu Y., Guo B., Zou X., Li Y., Shi S., Machine Learning Assisted Materials Design and Discovery for Rechargeable Batteries, Energy Storage Mater., 31, pp. 434-450, (2020)
+    Liu Y., Guo B., Zou X., Li Y., Shi S., Machine learning assisted materials design and discovery for rechargeable batteries, Energy Storage Mater, 31, pp. 434-450, (2020)
+    Liu Y., Guo B.R., Zou X.X., Li Y.J., Shi S.Q., Machine learning assisted materials design and discovery for rechargeable batteries, Energy Storage Mater, 31, pp. 434-450, (2020)
+    Liu Y., Guo B.R., Zou X.X., Li Y.J., Shi S.Q., Machine learning assisted materials design and discovery for rechargeable batteries, Energy Storage Mater., 31, pp. 434-450, (2020)
+Liu Y/8, 2022, J ENERGY STORAGE, V52
+    Liu Y., He Y., Bian H., Guo W., Zhang X., A review of lithium-ion battery state of charge estimation based on deep learning: Directions for improvement and future trends, J. Energy Storage, 52, PA, (2022)
+Liu Z/2, 2019, ENERGY EXPLOR EXPLOIT, V37, P1426
+    Liu Z., Wu D., Liu Y., Han Z., Lun L., Gao J., Jin G., Cao G., Accuracy analyses and model comparison of machine learning adopted in building energy consumption prediction, Energy Exploration & Exploitation, 37, 4, pp. 1426-1451, (2019)
+Lombardo T, 2022, CHEM REV, V122, P10899
+    Lombardo T, Duquesnoy M, El-Bouysidy H, aAren F, Gallo-Bueno A, Jorgensen P B, Bhowmik A, Demortiere A, Ayerbe E, Alcaide F, Reynaud M, Carrasco J, Grimaud A, Zhang C, Vegge T, Johansson, Franco A A., Artificial intelligence applied to battery research: hype or reality, Chem. Rev, 122, 12, pp. 10899-10969, (2022)
+    Lombardo T., Duquesnoy M., El-Bouysidy H., Aren F., Gallo-Bueno A., Jorgensen P.B., Bhowmik A., Demortiere A., Ayerbe E., Alcaide F., Et al., Artificial Intelligence Applied to Battery Research: Hype or Reality?, Chem. Rev, 122, pp. 10899-10969, (2022)
+    Lombardo T., Duquesnoy M., El-Bouysidy H., Et al., Artificial intelligence applied to battery research: hype or reality?, Chem Rev, 122, 12, (2022)
+Lu X, 2020, ENERGY CONVERS MANAGE, V205
+    Lu X., Et al., Energy management of hybrid electric vehicles: A review of energy optimization of fuel cell hybrid power system based on genetic algorithm, Energy Convers. Manag., 205, (2020)
+    Lu X., Et al., Energy management of hybrid electric vehicles: a review of energy optimization of fuel cell hybrid power system based on genetic algorithm, Energy Convers Manag, 205, (2020)
+    Lu X., Wu Y., Lian J., Zhang Y., Chen C., Wang P., Meng L., Energy management of hybrid electric vehicles: A review of energy optimization of fuel cell hybrid power system based on genetic algorithm, Energy Convers. Manag, 205, (2020)
+Luo K, 2022, J ENERGY CHEM, V74, P159
+    Luo K., Chen X., Zheng H., Shi Z., A review of deep learning approach to predicting the state of health and state of charge of lithium-ion batteries, J Energy Chem, 74, pp. 159-173, (2022)
+Luo Z, 2020, FRONT ENERGY RES, V8
+    Luo Z., Yang X., Wang Y., Liu W., Liu S., Zhu Y., Huang Z., Zhang H., Dou S., Xu J., Et al., A Survey of Artificial Intelligence Techniques Applied in Energy Storage Materials R&D, Front. Energy Res, 8, (2020)
+    Luo Z., Yang X., Wang Y., Liu W., Liu S., Zhu Y., Huang Z., Zhang H., Dou S., Xu J., Tian J., Xu K., Zhang X., Hu W., Deng Y., A Survey of Artificial Intelligence Techniques Applied in Energy Storage Materials R&D, Front. Energy Res., (2020)
+Lv C, 2022, ADV MATER, V34
+    Lv C., Zhou X., Zhong L., Yan C., Srinivasan M., Seh Z.W., Liu C., Pan H., Li S., Wen Y., Et al., Machine Learning: An Advanced Platform for Materials Development and State Prediction in Lithium-Ion Batteries, Adv. Mater, 34, (2022)
+    Lv C.D., Zhou X., Zhong L.X., Et al., Machine learning: an advanced platform for materials development and state prediction in lithium-ion batteries, Adv Mater, 34, 25, (2022)
+Lytras MD, 2019, ENERGIES, V12
+    Lytras M.D., Chui K.T., The Recent Development of Artificial Intelligence for Smart and Sustainable Energy Systems and Applications, (2019)
+Macedo MNQ, 2015, RENEWABLE SUSTAINABLE ENERGY , V41, P128
+    MacEdo M.N.Q., Galo J.J.M., De Almeida L.A.L., De C. Lima A.C., Demand side management using artificial neural networks in a smart grid environment, Renew Sustain Energy Rev, 41, pp. 128-133, (2015)
+    Macedo M., Galo J., De Almeida L., De C. Lima A., Demand side management using artificial neural networks in a smart grid environment, Renew. Sustain. Energy Rev., 41, pp. 128-133, (2015)
+    Macedo M., Galo J., De Almeida L., Et al., Demand side management using artificial neural networks in a smart grid environment, Renew. Sustain. Energy Rev., 41, pp. 128-133, (2015)
+    Macedo M.N.Q., Galo J.J.M., De Almeida L.A.L., De A.C., Demand side management using artificial neural networks in a smart grid environment, Renew. Sustain. Energy Rev., 41, pp. 128-133, (2015)
+Mahamudul H, 2013, INT J PHOTOENERGY, V2013
+    Mahamudul H., Saad M., Henk M.I., Photovoltaic system modeling with fuzzy logic based maximum power point tracking algorithm, International Journal of Photoenergy, 2013, (2013)
+Mahmood A, 2021, ENERGY ENVIRON SCI, V14, P90
+    Mahmood A., Wang J.-L., Machine Learning for High Performance Organic Solar Cells: Current Scenario and Future Prospects, Energy Environ. Sci., 14, pp. 90-105, (2021)
+    Mahmood A., Wang J.L., Machine learning for high performance organic solar cells: current scenario and future prospects, Energy Environ. Sci., 14, pp. 90-105, (2021)
+Mahmood A, 2022, CHIN J POLYM SCI (ENGL ED), V40, P870
+    Mahmood A., Irfan A., Wang J.-L., Machine Learning for Organic Photovoltaic Polymers: A Minireview, Chin. J. Polym. Sci., 40, pp. 870-876, (2022)
+Manoharan A, 2022, J ENERGY STORAGE, V55
+    Manoharan A., Begam K.M., Aparow V.R., Sooriamoorthy D., Artificial neural networks, gradient boosting and support vector machines for electric vehicle battery state estimation: a review, J Energy Storage, 55, (2022)
+Mansouri M, 2021, IEEE ACCESS, V9, P126286
+    Mansouri M., Trabelsi M., Nounou H., Nounou M., Deep learning-based fault diagnosis of photovoltaic systems: A comprehensive review and enhancement prospects, IEEE Access, 9, pp. 126286-126306, (2021)
+Mao J, 2021, CHIN J CHEM ENG, V37, P1
+    Mao J., Miao J., Lu Y., Tong Z., Machine Learning of Materials Design and State Prediction for Lithium Ion Batteries, Chin J Chem. Eng, 37, pp. 1-11, (2021)
+    Mao J., Miao J., Lu Y., Tong Z., Machine learning of materials design and state prediction for lithium ion batteries, Chinese J. Chem. Eng., (2021)
+Marugan AP, 2018, APPL ENERGY, V228, P1822
+    Marugan A.P., Marquez F.P.G., Perez J.M.P., Ruiz-Hernandez D., A survey of artificial neural network in wind energy systems, Appl Energy, 228, pp. 1822-1836, (2018)
+    Marugan A.P., Marquez F.P.G., Perez J.M.P., Ruiz-Hernandez D., A survey of artificial neural network in wind energy systems, Appl. Energy, 228, pp. 1822-1836, (2018)
+    Marugan A.P., Marquez F.P.G., Perez J.M.P., Ruiz-Hernandez D., A survey of artificial neural network in wind energy systems, Applied Energy, 228, July, pp. 1822-1836, (2018)
+    Pliego Marugan A., Garcia Marquez F.P., Pinar Perez J.M., Ruiz-Hernandez D., A survey of artificial neural network in wind energy systems, Appl Energy, 228, pp. 1822-1836, (2018)
+Massaoudi M, 2021, IEEE ACCESS, V9, P136593
+    Massaoudi M., Chihi I., Abu-Rub H., Refaat S.S., Oueslati F.S., Convergence of photovoltaic power forecasting and deep learning: State-of-art review, IEEE Access, 9, pp. 136593-136615, (2021)
+    Massaoudi M., Chihi I., Abu-Rub H., Refaat S.S., Oueslati F.S., Convergence of photovoltaic power forecasting and deep learning: Stateof-art review, IEEE Access, 9, pp. 136593-136615, (2021)
+Mat Daut MA, 2017, RENEWABLE SUSTAINABLE ENERGY , V70, P1108
+    Mat Daut M.A., Et al., Building electrical energy consumption forecasting analysis using conventional and artificial intelligence methods: a review, Renew Sustain Energy Rev, 70, pp. 1108-1118, (2017)
+Mellit A, 2008, PROG ENERGY COMBUST SCI, V34, P574
+    Mellit A., Kalogirou S., Artificial intelligence techniques for photovoltaic applications: a review, Prog Energy Comb Sci, 34, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: A review, Prog Energy Combust Sci, 34, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: A review, Prog. Energy Combust. Sci, 34, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: A review, Prog. Energy Combustion Sci., 34, 5, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: A review, Progress in Energy and Combustion Science, 34, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: a review, Prog Energy Combust Sci, 34, 5, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: a review, Prog Energy Combust Sci, 34, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: a review, Prog. Energy Combust. Sci., 34, 5, pp. 574-632, (2008)
+    Mellit A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: a review, Prog. Energy Combust. Sci., 34, pp. 574-632, (2008)
+    Mellit S.A., Kalogirou A., Artificial intelligence techniques for photovoltaic applications: A review, Progress in Energy and Combustion Science, 34, pp. 574-632, (2008)
+    Mellita A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: A review, Energy and Combustion Science, 34, pp. 574-632, (2008)
+    Mellita A., Kalogirou S.A., Artificial intelligence techniques for photovoltaic applications: a review, Prog Energy Combust Sci, 34, 5, pp. 574-632, (2008)
+Mellit A, 2009, RENEWABLE SUSTAINABLE ENERGY , V13, P406
+    Mellit A., Kalogirou S., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renew Sustain Energy Rev, 13, pp. 406-419, (2009)
+    Mellit A., Kalogirou S., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renew. Sustain. Energy Rev, 13, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Et al., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renew. Sustain. Energy Rev., 13, 2, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Et al., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renew. Sustain. Energy Rev., 13, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Et al., Artificial intelligence techniques for sizing photovoltaic systems: a review, Renewable Sustainable Energy Rev, 13, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renew Sustain Energy Rev, 13, 2, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renew. Sustain. Energy Rev., 13, 2, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renew. Sustain. Energy Rev., 13, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: A review, Renewable and Sustainable Energy Reviews, 13, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: a review, Renew Sust Energ Rev, 13, 2, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: a review, Renew Sustain Energy Rev, 13, 2, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: a review, Renew Sustain Energy Rev, 13, pp. 406-419, (2009)
+    Mellit A., Kalogirou S.A., Hontoria L., Shaari S., Artificial intelligence techniques for sizing photovoltaic systems: a review, Renew. Sustain. Energy Rev., 13, pp. 406-419, (2009)
+    Mellita A., Kalogirou S.A., Hontoria L., Shaarid S., Artificial intelligence techniques for sizing photovoltaic systems: a review, Renew Sust Energy Rev, 13, 2, pp. 406-419, (2009)
+Mellit A, 2014, ENERGY, V70, P1
+    Mellit A., Kalogirou S.A., MPPT-based artificial intelligence techniques for photovoltaic systems and its implementation into field programmable gate array chips: Review of current status and future perspectives, Energy, 70, pp. 1-21, (2014)
+    Mellit A., Kalogirou S.A., MPPT-based artificial intelligence techniques for photovoltaic systems and its implementation into field programmable gate array chips: review of current status and future perspectives, Energy, 70, pp. 1-21, (2014)
+    Mellit A., Kalogirou S.A., Mppt-Based Artificial Intelligence Techniques for Photovoltaic Systems and Its Implementation into Field Programmable Gate Array Chips: Review of Current Status and Future Perspectives, (2014)
+    Mellit A., Kalogirou S.A., Mppt-based artificial intelligence techniques for photovoltaic systems and its implementation into field programmable gate array chips: review of cur- rent status and future perspectives, Energy, 70, pp. 1-21, (2014)
+    Mellit A., Kalogirou S.A., Mppt-based artificial intelligence techniques for photovoltaic systems and its implementation into field programmable gate array chips: review of current status and future perspectives, Energy, 70, pp. 1-21, (2014)
+Mellit A, 2021, RENEWABLE SUSTAINABLE ENERGY , V143
+    Mellit A., Kalogirou S., Artificial intelligence and internet of things to improve efficacy of diagnosis and remote sensing of solar photovoltaic systems: Challenges, recommendations and future directions, Renew. Sustain. Energy Rev, 143, (2021)
+    Mellit A., Kalogirou S., Artificial intelligence and internet of things to improve efficacy of diagnosis and remote sensing of solar photovoltaic systems: challenges, recommendations and future directions, Renew Sustain Energy Rev, 143, (2021)
+Miyake Y, 2021, J PHYS CHEM LETT, V12, P12391
+    Miyake Y., Saeki A., Machine Learning-Assisted Development of Organic Solar Cell Materials: Issues, Analyses, and Outlooks, J. Phys. Chem. Lett., 12, pp. 12391-12401, (2021)
+    Miyake Y., Saeki A., Machine learning-assisted development of organic solar cell materials: issues, analyses, and outlooks, J. Phys. Chem. Lett., 12, pp. 12391-12401, (2021)
+Mohamad Radzi PNL, 2023, SUSTAINABILITY, V15
+    Mohamad Radzi P.N.L., Akhter M.N., Mekhilef S., Mohamed Shah N., Review on the application of photovoltaic forecasting using machine learning for very short- to long-term forecasting, Sustainability, 15, 4, (2023)
+Mohamed MA, 2017, RENEWABLE SUSTAINABLE ENERGY , V77, P515
+    Mohamed M.A., Eltamaly A.M., Alolah A.I., Swarm intelligence-based optimization of grid-dependent hybrid renewable energy systems, Renewable and Sustainable Energy Reviews, 77, pp. 515-524, (2017)
+Mololoth VK, 2023, ENERGIES, V16
+    Mololoth V.K., Saguna S., Ahlund C., Blockchain and Machine Learning for Future Smart Grids: A Review, Energies, 16, (2023)
+Moses OA, 2021, MATER REP, V1
+    Moses O.A., Chen W., Adam M.L., Et al., Integration of data-intensive, machine learning and robotic experimental approaches for accelerated discovery of catalysts in renewable energy-related reactions, Mater Rep Energy, 1, (2021)
+    Moses O.A., Chen W., Adam M.L., Wang Z., Liu K., Shao J., Li Z., Li W., Wang C., Zhao H., Integration of data-intensive, machine learning and robotic experimental approaches for accelerated discovery of catalysts in renewable energy-related reactions, Mater. Rep. Energy, 1, 3, (2021)
+Nair AS, 2018, TECHNOL ECON SMART GRIDS SUST, V3
+    Nair A.S., Hossen T., Campion M., Selvaraj D.F., Goveas N., Kaabouch N., Ranganathan P., Multi-agent systems for resource allocation and scheduling in a smart grid, Technol Econ Smart Grids Sustain Energy, 3, 1, (2018)
+Narciso DAC, 2020, ENERGY REP, V6, P1181
+    Narciso D.A.C., Martins F.G., Application of Machine Learning Tools for Energy Efficiency in Industry: A Review, Energy Reports, 6, pp. 1181-1199, (2020)
+    Narciso D.A.C., Martins F.G., Application of machine learning tools for energy efficiency in industry: A review, Energy Rep, 6, pp. 1181-1199, (2020)
+    Narciso D.A.C., Martins F.G., Application of machine learning tools for energy efficiency in industry: a review, Energy Rep, 6, pp. 1181-1199, (2020)
+Ng M-F, 2020, NAT MACH INTELL, V2, P161
+    Ng M.-F., Zhao J., Yan Q., Conduit G.J., Seh Z.W., Predicting the State of Charge and Health of Batteries Using Data-Driven Machine Learning, Nat. Mach. Intell, 2, pp. 161-170, (2020)
+    Ng M.-F., Zhao J., Yan Q., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat Mach Intell, 2, 3, pp. 161-170, (2020)
+    Ng M.-F., Zhao J., Yan Q., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat. Mach. Intell, 2, pp. 161-170, (2020)
+    Ng M.-F., Zhao J., Yan Q., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat. Mach. Intell., 2, 3, pp. 161-170, (2020)
+    Ng M.-F., Zhao J., Yan Q., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat. Mach. Intell., pp. 1-10, (2020)
+    Ng M.F., Zhao J., Yan Q., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat Mach Intell, 2, 3, pp. 161-170, (2020)
+    Ng M.F., Zhao J., Yan Q., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat. Mach. Intell, 2, pp. 161-170, (2020)
+    Ng M.F., Zhao J., Yan Q.Y., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat Mach Intell, 2, 3, pp. 161-170, (2020)
+    Ng M.F., Zhao J., Yan Q.Y., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat. Mach. Intell, 2, pp. 161-170, (2020)
+    Ng M.F., Zhao J., Yan Q.Y., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat. Mach. Intell., 2, 3, pp. 161-170, (2020)
+    Ng M.F., Zhao J., Yan Q.Y., Conduit G.J., Seh Z.W., Predicting the state of charge and health of batteries using data-driven machine learning, Nat. Mach. Intell., 2, pp. 161-170, (2020)
+Nor AFM, 2020, INT J POWER ELECTRON DRIVE SY, V11, P342
+    Nor A.F.M., Salimin S., Abdullah M.N., Ismail M.N., Application of artificial neural network in sizing a stand-alone photovoltaic system: A review, Int. J. Power Electron. Drive Syst. (IJPEDS), 11, pp. 342-349, (2020)
+Oliva D, 2019, J POWER SOURCES, V435
+    Oliva D., Elaziz M.A., Elsheikh A.H., Ewees A.A., A review on meta-heuristics methods for estimating parameters of solar cells, J. Power Sources, 435, (2019)
+    Oliva D., Elaziz M.A., Elsheikh A.H., Ewees A.A., A review on meta-heuristics methods for estimating parameters of solar cells, Journal of Power Sources, 435, (2019)
+Omitaomu OA, 2021, SMART CITIES, V4, P548
+    Omitaomu O.A., Niu H., Artificial intelligence techniques in smart grid: A survey, Smart Cities, 4, 2, pp. 548-568, (2021)
+    Omitaomu O.A., Niu H., Artificial intelligence techniques in smart grid: A survey, Smart Cities, 4, pp. 548-568, (2021)
+Onile AE, 2021, ENERGY REP, V7, P997
+    Onile A.E., Machlev R., Petlenkov E., Levron Y., Belikov J., Uses of the digital twins concept for energy services, intelligent recommendation systems, and demand side management: a review, Energy Rep, 7, pp. 997-1015, (2021)
+Pandey AK, 2023, BIORESOUR TECHNOL, V370
+    Pandey A.K., Park J., Ko J., Joo H.H., Raj T., Singh L.K., Singh N., Kim S.H., Machine learning in fermentative biohydrogen production: advantages, challenges, and applications, Bioresour. Technol, 370, (2023)
+Patel D, 2022, ENVIRON SCI POLLUT RES, V29, P32428
+    Patel D., Patel S., Patel P., Shah M., Solar radiation and solar energy estimation using ANN and Fuzzy logic concept: a comprehensive and systematic study, Environ Sci Pollut Res, 29, pp. 32428-32442, (2022)
+Pathak PK, 2022, NEURAL COMPUT APPL, V34, P171
+    Pathak P.K., Yadav A.K., Alvi P.A., A state-of-the-art review on shading mitigation techniques in solar photovoltaics via meta-heuristic approach, Neural Comput Appl, 34, 1, pp. 171-209, (2022)
+Petrosanu D-M, 2019, ENERGIES, V12
+    Petrosanu D.-M., Carutasu G., Carutasu N.L., Pirjan A., A review of the recent developments in integrating machine learning models with sensor devices in the smart buildings sector with a view to attaining enhanced sensing, energy efficiency, and optimal building management, Energies, 12, (2019)
+Pillai DS, 2018, RENEWABLE SUSTAINABLE ENERGY , V82, P3503
+    Pillai D.S., Rajasekar N., Metaheuristic algorithms for PV parameter identification: A comprehensive review with an application to threshold setting for fault detection in PV systems, Renew Sustain Energy Rev, 82, 3, pp. 3503-3525, (2018)
+    Pillai D.S., Rajasekar N., Metaheuristic algorithms for PV parameter identification: A comprehensive review with an application to threshold setting for fault detection in PV systems, Renew. Sustain. Energy Rev, 82, pp. 3503-3525, (2018)
+    Pillai D.S., Rajasekar N., Metaheuristic algorithms for PV parameter identification: A comprehensive review with an application to threshold setting for fault detection in PV systems, Renewable and Sustainable Energy Reviews, 82, 3, pp. 3503-3525, (2018)
+    Pillai D.S., Rajasekar N., Metaheuristic algorithms for PV parameter identification: A comprehensive review with an application to threshold setting for fault detection in PV systems, Renewable and Sustainable Energy Reviews, 82, pp. 3503-3525, (2018)
+Qazi A, 2015, J CLEAN PROD, V104, P1
+    AtikaQazi AW Fayaz RG Raj NA Rahim WA Khan H., The artificial neural network for solar radiation prediction and designing solar systems: a systematic literature review, J Clean Prod, 104, (2015)
+    Qazi A., Fayaz H., Wadi A., Gopal R., Rahim N.A., Ahmed W., Et al., The artificial neural network for solar radiation prediction and designing solar systems: a systematic literature review, J Clean Prod, 104, pp. 1-12, (2015)
+    Qazi A., Fayaz H., Wadi A., Raj R.G., Rahim N., Khan W.A., The artificial neural network for solar radiation predic-tion and designing solar systems: A systematic literature review, J. Clean. Prod, 104, pp. 1-12, (2015)
+    Qazi A., Fayaz H., Wadi A., Raj R.G., Rahim N.A., Khan W.A., The artificial neural network for solar radiation prediction and designing solar systems: A systematic literature review, J Clean Prod, 104, May 2017, pp. 1-12, (2015)
+    Qazi A., Fayaz H., Wadi A., Raj R.G., Rahim N.A., Khan W.A., The artificial neural network for solar radiation prediction and designing solar systems: A systematic literature review, J Cleaner Prod, 104, pp. 1-12, (2015)
+    Qazi A., Fayaz H., Wadi A., Raj R.G., Rahim N.A., Khan W.A., The artificial neural network for solar radiation prediction and designing solar systems: a systematic literature review, J Clean Prod, 104, pp. 1-12, (2015)
+    Qazi A., Fayaz H., Wadi A., Raj R.G., Rahim N.A., Khan W.A., The artificial neural network for solar radiation prediction and designing solar systems: a systematic literature review, J. Clean. Prod., 104, pp. 1-12, (2015)
+    Qazi A., Fayaz H., Wadi A., Raj R.G., Rahim N.A., The artificial neural network for solar radiation prediction and designing solar systems: a systematic literature review, J Clean Prod, (2015)
+Quan H, 2020, IEEE TRANS NEURAL NETWORKS LE, V31, P4582
+    Quan H., Khosravi A., Yang D., Srinivasan D., A survey of computational intelligence techniques for wind power uncertainty quantification in smart grids, IEEE Trans. Neural Networks Learn. Syst., 31, pp. 4582-4599, (2020)
+Radhakrishnan N, 2020, IET SMART GRID, V3, P500
+    Radhakrishnan N., Et al., Improving primary frequency response in networked microgrid operations using multilayer perceptron-driven reinforcement learning, IET Smart Grid, 3, 4, pp. 500-507, (2020)
+Rahimi M, 2021, CELL REP PHYS SCI, V2
+    Rahimi M., Moosavi S.M., Smit B., Hatton T.A., Toward smart carbon capture with machine learning, Cell Rep Phys Sci, 2, (2021)
+    Rahimi M., Moosavi S.M., Smit B., Hatton T.A., Toward smart carbon capture with machine learning, Cell Rep. Phys. Sci., 2, (2021)
+Rajasekhar B, 2020, IEEE TRANS EMERGING TOPICS CO, V4, P555
+    Rajasekhar B., Et al., A survey of computational intelligence techniques for air-conditioners energy management, IEEE Trans. Emerg. Topics Comput. Intell., 4, 4, pp. 555-570, (2020)
+    Rajasekhar B., Tushar W., Lork C., Zhou Y., Yuen C., Pindoriya N.M., Wood K.L., A Survey of Computational Intelligence Techniques for Air-Conditioners Energy Management, IEEE Trans. Emerg. Top. Comput. Intell, 4, pp. 555-570, (2020)
+    Rajasekhar B., Tushar W., Lork C., Zhou Y., Yuen C., Pindoriya N.M., Wood K.L., A survey of computational intelligence techniques for airconditioners energy management, IEEE Trans. Emerg. Top. Comput. Intell, 4, pp. 555-570, (2020)
+Ramedani Z, 2014, RENEWABLE SUSTAINABLE ENERGY , V39, P1005
+    Ramedani Z., Omid M., Keyhani A., Band S., Khoshnevisan B., Potential of radial basis function based support vector regression for global solar radiation prediction, Renew Sustain Energy Rev, 39, pp. 1005-1011, (2014)
+    Ramedani Z., Omid M., Keyhani A., Et al., Potential of radial basis function based support vector regression for global solar radiation prediction, Renew Sustain Energy Rev, 39, pp. 1005-1011, (2014)
+    Ramedani Z., Omid M., Keyhani A., Et al., Potential of radial basis function based support vector regression for global solar radiation prediction, Renew. Sustain. Energy Rev., 39, pp. 1005-1011, (2014)
+    Ramedani Z., Omid M., Keyhani A., Shamshirband S., Khoshnevisan B., Potential of radial basis function based support vector regression for global solar radiation prediction, Renew Sustain Energy Rev, 39, pp. 1005-1011, (2014)
+    Ramedani Z., Omid M., Keyhani A., Shamshirband S., Khoshnevisan B., Potential of radial basis function based support vector regression for global solar radiation prediction, Renew. Sustain. Energy Rev, 39, pp. 1005-1011, (2014)
+Rauf H, 2022, RENEWABLE SUSTAINABLE ENERGY , V156
+    Rauf H., Khalid M., Arshad N., Machine Learning in State of Health and Remaining Useful Life Estimation: Theoretical and Technological Development in Battery Degradation Modelling, Renew. Sustain. Energy Rev, 156, (2022)
+    Rauf H., Khalid M., Arshad N., Machine learning in state of health and remaining useful life estimation: theoretical and technological development in battery degradation modelling, Renew Sustain Energy Rev, 156, (2022)
+    Rauf H., Khalid M., Arshad N., Machine learning in state of health and remaining useful life estimation: theoretical and technological development in battery degradation modelling, Renew. Sust. Energ. Rev., 156, (2022)
+Raza MQ, 2015, RENEWABLE SUSTAINABLE ENERGY , V50, P1352
+    Raza M.Q., Khosravi A., A Review on Artificial Intelligence Based Load Demand Forecasting Techniques for Smart Grid and Buildings, Renewable Sustainable Energy Rev., 50, pp. 1352-1372, (2015)
+    Raza M.Q., Khosravi A., A review on artificial intelligence based load demand forecasting techniques for smart grid and build-ings, Renew. Sustain. Energy Rev, 50, pp. 1352-1372, (2015)
+    Raza M.Q., Khosravi A., A review on artificial intelligence based load demand forecasting techniques for smart grid and buildings, Renew Sustain Energy Rev, 50, pp. 1352-1372, (2015)
+    Raza M.Q., Khosravi A., A review on artificial intelligence based load demand forecasting techniques for smart grid and buildings, Renew. Sustain. Energy Rev, 50, pp. 1352-1372, (2015)
+    Raza M.Q., Khosravi A., A review on artificial intelligence based load demand forecasting techniques for smart grid and buildings, Renew. Sustain. Energy Rev., 50, pp. 1352-1372, (2015)
+    Raza M.Q., Khosravi A., A review on artificial intelligence based load demand forecasting techniques for smart grid and buildings, Renewable Sustainable Energy Rev., 50, pp. 1352-1372, (2015)
+    Raza M.Q., Khosravi A., A review on artificial intelligence based load demand forecasting techniques for smart grid and buildings, Renewable and Sustainable Energy Rev., 50, pp. 1352-1372, (2015)
+    Raza M.Q., Khosravi A., A review on artificial intelligence based load demand forecasting techniques for smart grid and buildings, Renewable and Sustainable Energy Reviews, 50, pp. 1352-1372, (2015)
+Ren Y, 2015, RENEWABLE SUSTAINABLE ENERGY , V50, P82
+    Ren Y., Srikanth P.N., Suganthan N., Ensemble methods for wind and solar power forecastinga state-of-the-art review, Renewable Sustainable Energy Rev, 50, pp. 82-91, (2015)
+    Ren Y., Suganthan P., Srikanth N., Ensemble methods for wind and solar power forecasting  A state-of-the-art review, Renew. Sustain. Energy Rev., 50, pp. 82-91, (2015)
+    Ren Y., Suganthan P., Srikanth N., Ensemble methods for wind and solar power forecastinga state-of-the-art review, Renew Sustain Energy Rev, 50, pp. 82-91, (2015)
+    Ren Y., Suganthan P., Srikanth N., Ensemble methods for wind and solar power forecastinga state-of-the-art review, Renew. Sustain. Energy Rev., 50, pp. 82-91, (2015)
+    Ren Y., Suganthan P.N., Srikanth N., Ensemble methods for wind and solar power forecasting - A state-of-the-art review, Renew. Sustain. Energy Rev., 50, pp. 82-91, (2015)
+    Ren Y., Suganthan P.N., Srikanth N., Ensemble methods for wind and solar power forecasting - a state-of-the-art review, Renew Sustain Energy Rev, 50, pp. 82-91, (2015)
+    Ren Y., Suganthan P.N., Srikanth N., Ensemble methods for wind and solar power forecasting-A state-of-the-art review, Renew. Sustain. Energy Rev., 50, pp. 82-91, (2015)
+    Ren Y., Suganthan P.N., Srikanth N., Ensemble methods for wind and solar power forecastinga state-of-the-art review, Renew Sustain Energy Rev, 50, pp. 82-91, (2015)
+Ren Z, 2023, ENERGY REP, V9, P2993
+    Ren Z., Du C., A Review of Machine Learning State-of-Charge and State-of-Health Estimation Algorithms for Lithium-Ion Batteries, Energy Rep, 9, pp. 2993-3021, (2023)
+Rezk H, 2015, AIN SHAMS ENG J, V6, P873
+    Rezk H., Hasaneen E.-S., A new MATLAB/Simulink model of triple-junction solar cell and MPPT based on artificial neural networks for photovoltaic energy systems, Ain Shams Eng. J, 6, pp. 873-881, (2015)
+    Rezk H., Hasaneen E.S., A new MATLAB/Simulink model of triple-junction solar cell and MPPT based on artificial neural networks for photovoltaic energy systems, Ain Shams Eng J, 6, 3, pp. 873-881, (2015)
+Rezk H, 2017, RENEWABLE SUSTAINABLE ENERGY , V74, P377
+    Rezk H., Fathy A., Abdelaziz A.Y., A comparison of different global MPPT techniques based on meta-heuristic algorithms for photovoltaic system subjected to partial shading conditions, Renew. Sustain. Energy Rev, 74, pp. 377-386, (2017)
+Rodrigues E, 2018, RENEWABLE SUSTAINABLE ENERGY , V94, P959
+    Rodrigues E., Gomes A., Gaspar A.R., Antunes C.H., Estimation of renewable energy and built environment-related variables using neural networksa review, Renew Sustain Energy Rev, 94, pp. 959-988, (2018)
+    Rodrigues E., Gomes A., Gaspar A.R., Henggeler Antunes C., Estimation of renewable energy and built environment-related variables using neural networks: A review, Renewable & Sustainable Energy Reviews, 94, pp. 959-988, (2018)
+Rumbayan M, 2012, RENEWABLE SUSTAINABLE ENERGY , V16, P1437
+    Rumbayan M., Abudureyimu A., Nagasaka K., Mapping of solar energy potential in Indonesia using artificial neural network and geographical information system, Renew Sustain Energy Rev, 16, 3, pp. 1437-1449, (2012)
+    Rumbayan M., Abudureyimu A., Nagasaka K., Mapping of solar energy potential in Indonesia using artificial neural network and geographical information system, Renew Sustain Energy Rev, 16, pp. 1437-1449, (2012)
+    Rumbayan M., Abudureyimu A., Nagasaka K., Mapping of solar energy potential in Indonesia using artificial neural network and geographical information system, Renewable and Sustainable Energy Reviews, 16, pp. 1437-1449, (2012)
+Samanta A, 2021, ELECTRONICS (SWITZERLAND), V10
+    Samanta A., Chowdhuri S., Williamson S.S., Machine learning-based data-driven fault detection/diagnosis of lithium-ion battery: A critical review, Electronics, 10, (2021)
+Schlechtingen M, 2011, MECH SYST SIGNAL PROCESS, V25, P1849
+    Schlechtingen M., Ferreira Santos I., Comparative analysis of neural network and regression based condition monitoring approaches for wind turbine fault detection, Mech Syst Signal Process, 25, pp. 1849-1875, (2011)
+    Schlechtingen M., Ferreira Santos I., Comparative analysis of neural network and regression based condition monitoring approaches for wind turbine fault detection, Mech. Syst. Signal Process., 25, 5, pp. 1849-1875, (2011)
+    Schlechtingen M., Santos I.F., Comparative analysis of neural network and regression based condition monitoring approaches for wind turbine fault detection, Mech Syst Signal Process, 25, 5, pp. 1849-1875, (2011)
+    Schlechtingen M., Santos I.F., Comparative analysis of neural network and regression based condition monitoring approaches for wind turbine fault detection, Mech Syst. Signal Process, 25, pp. 1849-1875, (2011)
+    Schlechtingen M., Santos I.F., Comparative analysis of neural network and regression based condition monitoring approaches for wind turbine fault detection, Mech. Syst. Signal Process, 25, pp. 1849-1875, (2011)
+Sendek AD, 2022, ADV ENERGY MATER, V12
+    Sendek A.D., Ransom B., Cubuk E.D., Pellouchoud L.A., Nanda J., Reed E.J., Machine Learning Modeling for Accelerated Battery Materials Design in the Small Data Regime, Adv. Energy Mater, 12, (2022)
+Seyedmahmoudian M, 2016, RENEWABLE SUSTAINABLE ENERGY , V64, P435
+    Seyedmahmoudian M., Horan B., Soon T.K., Et al., State of the art artificial intelligence-based MPPT techniques for mitigating partial shading effects on PV system-A review, Renew Sustain Energy Rev, 64, pp. 435-455, (2016)
+    Seyedmahmoudian M., Horan B., Soon T.K., Rahmani R., Oo A.M., Mekhilef S., Et al., State of the art artificial intelligence-based MPPT techniques for mitigating partial shading effects on PV systems  a review, Renew Sustain Energy Rev, 64, pp. 435-455, (2016)
+    Seyedmahmoudian M., Horan B., Soon T.K., Rahmani R., Oo A.M.T., Mekhilef S., Stojcevski A., State of the art artificial intelligence-based MPPT techniques for mitigating partial shading effects on PV systemsA review, Renew. Sustain. Energy Rev, 64, pp. 435-455, (2016)
+Seyedzadeh S, 2018, VIS ENG, V6
+    Seyedzadeh S., Pour Rahimian F., Glesk I., Roper M., Machine learning for estimation of building energy consumption and performance: A review, Vis. Eng, 6, (2018)
+    Seyedzadeh S., Rahimian F., Glesk I., Roper M., Machine learning for estimation of building energy consumption and performance: A review, Vis. Eng, 6, (2018)
+Shaddel M, 2016, RENEWABLE SUSTAINABLE ENERGY , V53, P59
+    Shaddel M., Javan D.S., Baghernia P., Estimation of hourly global solar irradiation on tilted absorbers from horizontal one using Artificial Neural Network for case study of Mashhad, Renew. Sustain. Energy Rev, 53, pp. 59-67, (2016)
+    Shaddel M., Javan D.S., Baghernia P., Estimation of hourly global solar irradiation on tilted absorbers from horizontal one using Artificial Neural Network for case study of Mashhad, Renew. Sustain. Energy Rev., 53, pp. 59-67, (2016)
+    Shaddel M., Javan D.S., Baghernia P., Estimation of hourly global solar irradiation on tilted absorbers from horizontal one using artificial neural network for case study of Mashhad, Renew. Sustain. Energy Rev., 53, pp. 59-67, (2016)
+Shah SFA, 2022, APPL SCI, V12
+    Shah S.F.A., Iqbal M., Aziz Z., Rana T.A., Khalid A., Cheah Y.-N., Arif M., The role of machine learning and the internet of things in smart buildings for energy efficiency, Appl. Sci, 12, (2022)
+Shamshirband S, 2015, RENEWABLE SUSTAINABLE ENERGY , V52, P1031
+    Shamshirband S., Mohammadi K., Yee L., Petkovic D., Mostafaeipour A., A comparative evaluation for identifying the suitability of extreme learning machine to predict horizontal global solar radiation, Renew Sust Energ Rev, 52, pp. 1031-1042, (2015)
+    Shamshirband S., Mohammadi K., Yee P.L., Petkovic D., Mostafaeipour A., A comparative evaluation for identifying the suitability of extreme learning machine to predict horizontal global solar radiation, Renew Sustain Energy Rev, 52, pp. 1031-1042, (2015)
+    Shamshirband S., Mohammadi K., Yee P.L., Petkovic D., Mostafaeipour A., A comparative evaluation for identifying the suitability of extreme learning machine to predict horizontal global solar radiation, Renew. Sustain. Energy Rev, 52, pp. 1031-1042, (2015)
+    Shamshirband S., Mohammadi K., Yee P.L., Petkovic D., Mostafaeipour A., A comparative evaluation for identifying the suitability of extreme learning machine to predict horizontal global solar radiation, Renew. Sustain. Energy Rev., 52, pp. 1031-1042, (2015)
+Shamshirband S, 2016, RENEWABLE SUSTAINABLE ENERGY , V56, P428
+    Shamshirband S., Mohammadi K., Khorasanezadeh H., Et al., Estimating the diffuse solar radiation using a coupled support vector machinewavelet transform model, Renew. Sustain. Energy Rev., 56, pp. 428-435, (2016)
+    Shamshirband S., Mohammadi K., Khorasanizadeh H., Yee P.L., Lee M., Petkovic D., Zalnezhad E., Estimating the diffuse solar radiation using a coupled support vector machine-wavelet transform model, Renew. Sustain. Energy Rev., 56, pp. 428-435, (2016)
+Shaqour A, 2022, ENERGIES, V15
+    Shaqour A., Hagishima A., Systematic Review on Deep Reinforcement Learning-Based Energy Management for Different Building Types, Energies, 15, (2022)
+Sharma A/1, 2018, RENEWABLE SUSTAINABLE ENERGY , V82, P2254
+    Sharma A., Kakkar A., Forecasting Daily Global Solar Irradiance Generation Using Machine Learning, Renew. Sustain. Energy Rev, 82, pp. 2254-2269, (2018)
+    Sharma A., Kakkar A., Forecasting daily global solar irradiance generation using machine learning, Renew Sustain Energy Rev, 82, 3, pp. 2254-2269, (2018)
+    Sharma A., Kakkar A., Forecasting daily global solar irradiance generation using machine learning, Renew Sustain Energy Rev, 82, August 2017, pp. 2254-2269, (2018)
+    Sharma A., Kakkar A., Forecasting daily global solar irradiance generation using machine learning, Renew. Sustain. Energy Rev., 82, pp. 2254-2269, (2018)
+Sharma P, 2022, ENERGY FUELS, V36, P6626
+    Sharma P., Said Z., Kumar A., Nizetic S., Pandey A., Hoang A.T., Huang Z., Afzal A., Li C., Le A.T., Et al., Recent Advances in Machine Learning Research for Nanofluid-Based Heat Transfer in Renewable Energy System, Energy Fuels, 36, pp. 6626-6658, (2022)
+Sharma S, 2018, RENEWABLE SUSTAINABLE ENERGY , V82, P3633
+    Sharma S., Dua A., Singh M., Kumar N., Prakash S., Fuzzy rough set based energy management system for self-sustainable smart city, Renew Sustain Energy Rev, 82, pp. 3633-3644, (2018)
+Singh R, 2022, INT J AMBIENT ENERGY, V43, P7419
+    Singh R., Memon S.A., Shaikh R., Upadhyay D.S., A review of artificial intelligence applied for the solution of issues in the extensive adaption of solar and wind energy, Int J Ambient Energy, 43, pp. 7419-7436, (2022)
+Stetco A, 2019, RENEW ENERGY, V133, P620
+    Stetco A., Dinmohammadi F., Zhao X., Robu V., Flynn D., Barnes M., Et al., Machine Learning Methods for Wind Turbine Condition Monitoring: A Review, Renew. Energ, 133, pp. 620-635, (2019)
+    Stetco A., Dinmohammadi F., Zhao X., Robu V., Flynn D., Barnes M., Keane J., Nenadic G., Machine learning methods for wind turbine condition monitoring: A review, Renew Energy, 133, pp. 620-635, (2019)
+    Stetco A., Dinmohammadi F., Zhao X., Robu V., Flynn D., Barnes M., Keane J., Nenadic G., Machine learning methods for wind turbine condition monitoring: A review, Renew. Energy, 133, pp. 620-635, (2019)
+    Stetco A., Dinmohammadi F., Zhao X., Robu V., Flynn D., Barnes M., Keane J., Nenadic G., Machine learning methods for wind turbine condition monitoring: A review, Renewable energy, 133, pp. 620-635, (2019)
+    Stetco A., Dinmohammadi F., Zhao X., Robu V., Flynn D., Barnes M., Keane J., Nenadic G., Machine learning methods for wind turbine condition monitoring: a review, Renew Energy, 133, pp. 620-635, (2019)
+Suganthi L, 2015, RENEWABLE SUSTAINABLE ENERGY , V48, P585
+    Suganthi L., Iniyan S., Samuel A.A., Applications of fuzzy logic in renewable energy systems - A review, Renew Sustain Energy Rev, 48, pp. 585-607, (2015)
+    Suganthi L., Iniyan S., Samuel A.A., Applications of fuzzy logic in renewable energy systemsa review, Renew Sustain Energy Rev, 48, pp. 585-607, (2015)
+    Suganthi L., Iniyan S., Samuel Anand A., Applications of fuzzy logic in renewable energy systemsa review, Renew Sustain Energy Rev, 48, pp. 585-607, (2015)
+    Suganthi L.S., Iniyanssamuel A., Applications of Fuzzy Logic in Renewable Energy SystemsA Review, Renewable and Sustainable Energy Reviews, 48, 2015, pp. 585-607, (2015)
+Sun Y/3, 2020, ADV ENERGY MATER, V10
+    Sun Y., Yang T., Ji H., Zhou J., Wang Z., Qian T., Yan C., Boosting the Optimization of Lithium Metal Batteries by Molecular Dynamics Simulations: A Perspective, Adv. Energy Mater., 10, (2020)
+Sun Z, 2022, SMARTMAT, V3, P68
+    Sun Z., Yin H., Liu K., Cheng S., Li G.K., Kawi S., Zhao H., Jia G., Yin Z., Machine learning accelerated calculation and design of electrocatalysts for CO2 reduction, SmartMat, 3, 1, pp. 68-83, (2022)
+Sundaram KM, 2021, IEEE ACCESS, V9, P41246
+    Sundaram K.M., Hussain A., Sanjeevikumar P., Holm-Nielsen J.B., Kaliappan V.K., Santhoshi B.K., Deep Learning for Fault Diagnostics in Bearings, Insulators, PV Panels, Power Lines, and Electric Vehicle ApplicationsThe State-of-the-Art Ap-proaches, IEEE Access, 9, pp. 41246-41260, (2021)
+Tang M, 2021, FRONT ENERGY RES, V9
+    Tang M., Zhao Q., Huawei W., Wang Z., Meng C., Wang Y., Review and perspectives of machine learning methods for wind turbine fault diagnosis, Frontiers in Energy Research, 596, (2021)
+Tavana M, 2020, ENERGIES, V13
+    Tavana M., Shaabani A., Santos-Arteaga F.J., Vanani I.R., A review of uncertain decision-making methods in energy management using text mining and data analytics, Energies, 13, pp. 1-13, (2020)
+Tayal D, 2017, RENEWABLE SUSTAINABLE ENERGY , V80, P1537
+    Tayal D., Achieving high renewable energy penetration in Western Australia using data digitisation and machine learning, Renew Sustain Energy Rev, 80, pp. 1537-1543, (2017)
+Tian L/1, 2021, J MATER CHEM A, V9, P13459
+    Tian L., Li Z., Xu X., Zhang C., Advances in noble metal (Ru, Rh, and Ir) doping for boosting water splitting electrocatalysis, J Mater Chem A, 9, 23, pp. 13459-13470, (2021)
+Tien PW, 2022, ENERGY AI, V10
+    Tien P.W., Wei S., Darkwa J., Wood C., Calautit J.K., Machine learning and deep learning methods for enhancing building energy efficiency and indoor environmental qualityA review, Energy AI, 10, (2022)
+Tina GM, 2021, APPL SCI, V11
+    Tina G.M., Ventura C., Ferlito S., De Vito S., A State-of-Art-Review on Machine-Learning Based Methods for PV, Appl. Sci, 11, (2021)
+Torayev A, 2019, JPHYS MATER, V2
+    Torayev A., Magusin P.C.M.M., Grey C.P., Merlet C., Franco A.A., Text Mining Assisted Review of the Literature on Li-O<sub>2</sub> Batteries, J. Phys. Mater, 2, (2019)
+Trivedi R, 2022, ENERGY AI, V8
+    Trivedi R., Khadem S., Implementation of artificial intelligence techniques in microgrid control environment: Current progress and future scopes, Energy AI, 8, (2022)
+Tsui T-H, 2023, BIORESOUR TECHNOL, V369
+    Tsui T.-H., van Loosdrecht M.C.M., Dai Y., Tong Y.W., Machine learning and circular bioeconomy: building new resource efficiency from diverse waste streams, Bioresour. Technol., 369, (2023)
+Umenweke GC, 2022, BIORESOUR TECHNOL REP, V17
+    Umenweke G. C., Afolabi I. C., Epelle E. I., Okolie J. A., Machine learning methods for modeling conventional and hydrothermal gasification of waste biomass: A review, Bioresource Technology Reports, 17, 45, (2022)
+    Umenweke G.C., Afolabi I.C., Epelle E.I., Okolie J.A., Machine learning methods for modeling conventional and hydrothermal gasification of waste biomass: a review, Bioresour. Technol. Rep., 17, (2022)
+    Umenweke G.C., Afolabi I.C., Epelle E.I., Okolie J.A., Machine learning methods for modeling conventional and hydrothermal gasification of waste biomass: a review, Bioresour. Technol. Reports, 17, (2022)
+Verma P, 2021, ELECTRONICS (SWITZERLAND), V10
+    Verma P., Alam A., Sarwar A., Tariq M., Vahedi H., Gupta D., Ahmad S., Mohamed A.S.N., Meta-Heuristic optimization techniques used for maximum power point tracking in solar PV system, Electronics, 10, (2021)
+Vidal C, 2020, IEEE ACCESS, V8, P52796
+    Vidal C., Malysz P., Kollmeyer P., Emadi A., Machine Learning Applied to Electrified Vehicle Battery State of Charge and State of Health Estimation: State-of-the-Art, IEEE Access, 8, pp. 52796-52814, (2020)
+    Vidal C., Malysz P., Kollmeyer P., Emadi A., Machine learning applied to electrified vehicle battery state of charge and state of health estimation: State-of-the-art, IEEE Access, 8, pp. 52796-52814, (2020)
+    Vidal C., Malysz P., Kollmeyer P., Emadi A., Machine learning applied to electrified vehicle battery state of charge and state of health estimation: state-of-the-art, IEEE Access, 8, pp. 52796-52814, (2020)
+    Vidal C., Malysz P., Kollmeyer P., Emadi A., Machine learning applied to electrified vehicle battery state of charge and state of health estimation: state-of-the-art, IEEE Access., (2020)
+    Vidal C., Malysz P., Kollmeyer P., Et al., Machine learning applied to electrified vehicle battery state of charge and state of health estimation: state-of-the-art, IEEE Access, 8, pp. 52796-52814, (2020)
+Vinuesa R, 2020, NAT COMMUN, V11
+    Vinuesa R., Azizpour H., Leite I., Balaam M., Dignum V., Domisch S., Et al., The role of artificial intelligence in achieving the sustainable development goals, Nat. Commun, 11, (2020)
+    Vinuesa R., Azizpour H., Leite I., Balaam M., Dignum V., Domisch S., Fellander A., Langhans S.D., Tegmark M., Nerini F.F., The role of artificial intelligence in achieving the Sustainable Development Goals, Nat. Commun, 11, (2020)
+    Vinuesa R., Azizpour H., Leite I., The role of artificial intelligence in achieving the Sustainable Development Goals, Nat. Commun, 11, (2020)
+Voyant C, 2017, RENEW ENERGY, V105, P569
+    Voyant C., Et al., Machine learning methods for solar radiation forecasting: A review, Renew. Energy, 105, pp. 569-582, (2017)
+    Voyant C., Et al., Machine learning methods for solar radiation forecasting: a review, Renew Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Et al., Machine learning methods for solar radiation forecasting: A review, Renew. Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Et al., Machine learning methods for solar radiation forecasting: A review, Renewable Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Et al., Machine learning methods for solar radiation forecasting: a review, Renew Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M. L., Paoli C., Et al., Machine learning methods for solar radiation forecasting: A review, Renewable Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M.-L., Paoli C., Motte F., Et al., Machine learning methods for solar radiation forecasting: A review, Renew Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M.-L., Paoli C., Motte F., Et al., Machine learning methods for solar radiation forecasting: a review, Renew Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M.-L., Paoli C., Motte F., Fouilloy A., Machine learning methods for solar radiation forecasting: A review, Renew. Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M.-L., Paoli C., Motte F., Fouilloy A., Machine learning methods for solar radiation forecasting: a review, Renew Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M.L., Paoli C., Motte F., Et al., Machine learning methods for solar radiation forecasting: A review, Renewable Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M.L., Paoli C., Motte F., Fouilloy A., Machine learning methods for solar radiation forecasting: A review, Renew. Energy, 105, pp. 569-582, (2017)
+    Voyant C., Notton G., Kalogirou S., Nivet M.L., Paoli C., Motte F., Fouilloy A., Machine learning methods for solar radiation forecasting: a review, Renew Energy, 105, pp. 569-582, (2017)
+Wan C, 2012, RENEW ENERGY, V48, P276
+    Wan C, Wang J, Yang G, Gu H, Zhang X, Wind farm micro-siting by Gaussian particle swarm optimization with local search strategy, Renew. Energy, 48, pp. 276-286, (2012)
+    Wan C., Wang J., Yang G., Huajie G., Zhang X., Wind farm micro-siting by Gaussian particle swarm optimization with local search strategy, Renewable Energy, 48, pp. 276-286, (2012)
+Wang H/2, 2019, ENERGY CONVERS MANAGE, V198
+    Wang H., Lei Z., Zhang X., Zhou B., Peng J., A review of deep learning for renewable energy forecasting, Energy Convers Manag, 198, (2019)
+    Wang H., Lei Z., Zhang X., Zhou B., Peng J., A review of deep learning for renewable energy forecasting, Energy Convers Manage, 198, (2019)
+    Wang H., Lei Z., Zhang X., Zhou B., Peng J., A review of deep learning for renewable energy forecasting, Energy Convers. Manag, 198, (2019)
+    Wang H., Lei Z., Zhang X., Zhou B., Peng J., A review of deep learning for renewable energy forecasting, Energy Convers. Manag., 198, (2019)
+    Wang H., Lei Z., Zhang X., Zhou B., Peng J., A review of deep learning for renewable energy forecasting, Energy Convers. Manag., 198, April, (2019)
+    Wang H., Lei Z., Zhang X., Zhou B., Peng J., A review of deep learning for renewable energy forecasting, Energy Convers. Manage., 198, (2019)
+    Wang H., Lei Z., Zhang X., Zhou B., Peng J., A review of deep learning for renewable energy forecasting, Energy Conversion and Management, 198, (2019)
+    Wang H.Z., Lei Z.X., Zhang X., A review of deep learning for renewable energy forecasting, Energy Convers. Manag., 198, (2019)
+Wang H/2, 2020, ENERGY CONVERS MANAGE, V214
+    Wang H., Et al., Taxonomy research of artificial intelligence for deterministic solar power forecasting, Energy Convers Manag, 214, (2020)
+    Wang H., Liu Y., Zhou B., Li C., Cao G., Voropai N., Barakhtenko E., Taxonomy Research of Artificial Intelligence for Deterministic Solar Power Forecasting, Energy Convers. Manag, 214, (2020)
+    Wang H., Liu Y., Zhou B., Li C., Cao G., Voropai N., Barakhtenko E., Taxonomy research of artificial intelligence for deterministic solar power forecasting, Energy Convers. Manag, 214, (2020)
+    Wang H., Liu Y., Zhou B., Li C., Cao G., Voropai N., Barakhtenko E., Taxonomy research of artificial intelligence for deterministic solar power forecasting, Energy Convers. Manag., 214, (2020)
+    Wang H., Liu Y., Zhou B., Li C., Cao G., Voropai N., Barakhtenko E., Taxonomy research of artificial intelligence for deterministic solar power forecasting, Energy Convers. Manage., 214, (2020)
+    Wang H., Liu Y., Zhou B., Li C., Cao G., Voropai N., Et al., Taxonomy research of artificial intelligence for deterministic solar power forecasting, Energy Convers Manag, 214, (2020)
+Wang S/2, 2021, ENERGY REP, V7, P5562
+    Wang S., Jin S., Bai D., Fan Y., Shi H., Fernandez C., A critical review of improved deep learning methods for the remaining useful life prediction of lithium-ion batteries, Energy Rep., 7, pp. 5562-5574, (2021)
+Wang Y/3, 2020, ENERGY AI, V1
+    Wang Y, Seo B, Wang B, Zamel N, Jiao K, Adroher X C., Fundamentals, materials, and machine learning of polymer electrolyte membrane fuel cell technology, Energy and AI, 1, (2020)
+    Wang Y., Seo B., Wang B., Zamel N., Jiao K., Adroher X.C., Fundamentals, materials, and machine learning of polymer electrolyte membrane fuel cell technology, Energy AI, 1, (2020)
+    Wang Y., Seo B., Wang B., Zamel N., Jiao K., Adroher X.C., Fundamentals, materials, and machine learning of polymer electrolyte membrane fuel cell technology, Energy and AI, 1, (2020)
+Wang Z, 2021, RENEWABLE SUSTAINABLE ENERGY , V143
+    Wang Z., Liu J., Zhang Y., Yuan H., Zhang R., Srinivasan R.S., Practical issues in implementing machine-learning models for building energy efficiency: Moving beyond obstacles, Renew. Sustain. Energy Rev, 143, (2021)
+    Wang Z., Liu J., Zhang Y., Yuan H., Zhang R., Srinivasan R.S., Practical issues in implementing machine-learning models for building energy efficiency: Moving beyond obstacles, Renewable and Sustainable Energy Reviews, 143, (2021)
+    Wang Z., Liu J., Zhang Y., Yuan H., Zhang R., Srinivasan R.S., Practical issues in implementing machine-learning models for building energy efficiency: moving beyond obstacles, Renew. Sust. Energ. Rev., 143, (2021)
+Wang Z/3, 2022, BIORESOUR TECHNOL, V343
+    Wang Z., Peng X., Xia A., Shah A.A., Huang Y., Zhu X., Zhu X., Liao Q., The role of machine learning to boost the bioenergy and biofuels conversion, Bioresour. Technol., 343, (2022)
+    Wang Z., Peng X., Xia A., Shah A.A., Huang Y., Zhu X.X., Zhu X.X., Liao Q., The role of machine learning to boost the bioenergy and biofuels conversion, Bioresour. Technol., 343, (2022)
+Xing Y, 2021, INT J CHEM ENG, V2021
+    Xing Y., Zheng Z., Sun Y., Agha Alikhani M., A review on machine learning application in biodiesel production studies, Int. J. Chem. Eng., 2021, (2021)
+Xu H/1, 2023, CHEM REC, V23
+    Xu H., Li J., Chu X., Intensifying Hydrogen Spillover for Boosting Electrocatalytic Hydrogen Evolution Reaction, Chem. Rec. n/a, 23, 3, (2023)
+Xu H/2, 2021, ADV ENERGY MATER, V11
+    Xu H Y, Zhu J E, Finegan D P, Zhao H B, Lu X K, Li W, Hoffman N, Bertei A, Shearing P, Bazant M Z., Guiding the design of heterogeneous electrode microstructures for Li-ion batteries: microscopic imaging, predictive modeling, and machine learning, Adv. Energy Mater, 11, 19, (2021)
+    Xu H., Et al., Guiding the design of heterogeneous electrode microstructures for Li-ion batteries: microscopic imaging, predictive modeling, and machine learning, Adv. Energy Mater., 11, (2021)
+    Xu H., Zhu J., Finegan D.P., Zhao H., Lu X., Li W., Hoffman N., Bertei A., Shearing P., Bazant M.Z., Guiding the Design of Heterogeneous Electrode Microstructures for Li-Ion Batteries: Microscopic Imaging, Predictive Modeling, and Machine Learning, Adv. Energy Mater., 11, (2021)
+Yadav AK/1, 2014, RENEWABLE SUSTAINABLE ENERGY , V31, P509
+    Yadav A.K., Malik H., Chandel S.S., Selection of most relevant input parameters using WEKA for artificial neural network based solar radiation prediction models, Renew Sustain Energy Rev, 31, pp. 509-519, (2014)
+Yadav AK/1, 2014, RENEWABLE SUSTAINABLE ENERGY , V33, P772
+    Yadav A.K., Chandel S., Solar radiation prediction using Artificial Neural Network techniques: A review, Renew. Sustain. Energy Rev, 33, pp. 772-781, (2014)
+    Yadav A.K., Chandel S., Solar radiation prediction using artificial neural network techniques: A review, Renew. Sustain. Energy Rev., 33, pp. 772-781, (2014)
+    Yadav A.K., Chandel S., Solar radiation prediction using artificial neural network techniques: a review, Renew Sustain Energy Rev, 33, pp. 772-781, (2014)
+    Yadav A.K., Chandel S.S., Solar radiation prediction using Artificial Neural Network techniques: A review, Renew Sustain Energy Rev, 33, 16, pp. 772-781, (2014)
+    Yadav A.K., Chandel S.S., Solar radiation prediction using Artificial Neural Network techniques: A review, Renew Sustain Energy Rev, 33, pp. 772-781, (2014)
+    Yadav A.K., Chandel S.S., Solar radiation prediction using Artificial Neural Network techniques: a review, Renew Sustain Energy Rev, 33, pp. 772-781, (2014)
+    Yadav A.K., Chandel S.S., Solar radiation prediction using artificial neural network techniques: A review, Renewable & Sustainable Energy Reviews, 33, pp. 772-781, (2014)
+    Yadav A.K., Chandel S.S., Solar radiation prediction using artificial neural network techniques: a review, Renew Sust Energ Rev, 33, pp. 772-781, (2014)
+    Yadav A.K., Chandel S.S., Solar radiation prediction using artificial neural network techniques: a review, Renew Sustain Energy Rev, 33, pp. 772-781, (2014)
+    Yadav A.K., Malik H., Chandel S.S., Solar radiation prediction using Artificial Neural Network techniques: a review, Renew Sustain Energy Rev, 33, pp. 772-781, (2014)
+Yadav AK/1, 2017, RENEWABLE SUSTAINABLE ENERGY , V77, P955
+    Yadav A.K., Chandel S.S., Identification of relevant input variables for prediction of 1-minute time-step photovoltaic module power using artificial neural network and multiple linear regression models, Renew Sust Energ Rev, 77, pp. 955-969, (2017)
+Yadav AK/1, 2018, RENEWABLE SUSTAINABLE ENERGY , V81, P2115
+    Yadav A.K., Sharma V., Malik H., Chandel S.S., Daily array yield prediction of grid-interactive photovoltaic plant using relief attribute evaluator based Radial Basis Function Neural Network, Renew. Sustain. Energy Rev., 81, pp. 2115-2127, (2018)
+Yan Y/1, 2021, ENERGY ENVIRON SCI, V14, P6122
+    Yan Y., Borhani T.N., Subraveti S.G., Pai K.N., Prasad V., Rajendran A., Et al., Harnessing the power of machine learning for carbon capture, utilisation, and storage (CCUS)-a state-of-the-art review, Energy Environ Sci, 14, pp. 6122-6157, (2021)
+    Yan Y., Borhani T.N., Subraveti S.G., Pai K.N., Prasad V., Rajendran A., Nkulikiyinka P., Asibor J.O., Zhang Z., Shao D., Wang L., Zhang W., Yan Y., Ampomah W., You J., Wang M., Anthony E.J., Manovic V., Clough P.T., Harnessing the power of machine learning for carbon capture, utilisation, and storage (CCUS)  a state-of-the-art review, Energy Environ. Sci., 14, pp. 6122-6157, (2021)
+Yang B/1, 2020, ENERGY CONVERS MANAGE, V208
+    Yang B., Wang J., Zhang X., Yu T., Yao W., Shu H., Et al., Comprehensive overview of meta-heuristic algorithm applications on PV cell parameter identification, Energy Convers. Manage., 208, (2020)
+    Yang B., Wang J., Zhang X., Yu T., Yao W., Shu H., Zeng F., Sun L., Comprehensive overview of meta-heuristic algorithm applications on PV cell parameter identification, Energy Conversion and Management, 208, (2020)
+    Yang B., Wang J.B., Zhang X.S., Yu T., Yao W., Shu H.C., Zeng F., Sun L.M., Comprehensive overview of meta-heuristic algorithm applications on PV cell parameter identification, Energy Convers. Manag., 208, (2020)
+Yang T, 2020, ANNU REV CONTROL, V49, P145
+    Yang T., Zhao L., Li W., Zomaya A., Reinforcement learning in sustainable energy and electric systems: A survey, Annu. Rev. Control, 49, pp. 145-163, (2020)
+    Yang T., Zhao L., Li W., Zomaya A.Y., Reinforcement learning in sustainable energy and electric systems: A survey, Annu Rev Control, 49, pp. 145-163, (2020)
+    Yang T., Zhao L., Li W., Zomaya A.Y., Reinforcement learning in sustainable energy and electric systems: A survey, Annu. Rev. Control, 49, pp. 145-163, (2020)
+Yang X/1, 2020, FRONT ENERGY RES, V8
+    Yang X., Luo Z., Huang Z., Zhao Y., Xue Z., Wang Y., Liu W., Liu S., Zhang H., Xu K., Dou S., Xu J., Hu W., Deng Y., Development Status and Prospects of Artificial Intelligence in the Field of Energy Conversion Materials, Frontiers Energy Res, 8, July, pp. 1-12, (2020)
+Yao N, 2022, CHEM REV, V122, P10970
+    Yao N., Chen X., Fu Z., Zhang Q., Applying classical, Ab initio, and machine-learning molecular dynamics simulations to the liquid electrolyte for rechargeable batteries, Chem. Rev., 122, (2022)
+    Yao N., Chen X., Fu Z.H., Zhang A., Applying classical, ab initio, and machine-learning molecular dynamics simulations to the liquid electrolyte for rechargeable batteries, Chem Rev, 122, 12, pp. 10970-11021, (2022)
+Yona A, 2013, IEEE TRANS SUSTAINABLE ENERGY, V4, P527
+    Yona A., Senjyu T., Et al., Determination method of insolation prediction with fuzzy and applying neural network for long-term ahead PV power output correction, IEEE Trans. Sustainable Energy, 4, 2, pp. 527-533, (2013)
+    Yona A., Senjyu T., Funabashi T., Et al., Determination method of insolation prediction with fuzzy and applying neural network for long-term ahead PV power output correction, IEEE Trans. Sustain. Energy, 4, 2, pp. 527-533, (2013)
+Younis A, 2022, ENERGY REP, V8, P7085
+    Younis A., Bakhit A., Onsa M., Hashim M., A comprehensive and critical review of bio-inspired metaheuristic frameworks for extracting parameters of solar cell single and double diode models, Energy Rep, 8, pp. 7085-7106, (2022)
+Yu L, 2021, IEEE INTERNET THINGS J, V8, P12046
+    Yu L., Qin S., Zhang M., Shen C., Jiang T., Guan X., A Review of Deep Reinforcement Learning for Smart Building Energy Management, IEEE Internet Things J, 8, pp. 12046-12063, (2021)
+    Yu L., Qin S., Zhang M., Shen C., Jiang T., Guan X., A review of deep reinforcement learning for smart building energy management, IEEE Internet Things J, 8, pp. 12046-12063, (2021)
+    Yu L., Qin S., Zhang M., Shen C., Jiang T., Guan X., A review of deep reinforcement learning for smart building energy management, IEEE Internet Things J., 8, 15, pp. 12046-12063, (2021)
+Zahraee SM, 2016, RENEWABLE SUSTAINABLE ENERGY , V66, P617
+    Zahraee S., Assadi M.K., Saidur R., Application of artificial intelligence methods for hybrid energy system optimization, Renew. Sustain. Energy Rev, 66, pp. 617-630, (2016)
+    Zahraee S., Assadi M.K., Saidur R., Application of artificial intelligence methods for hybrid energy system optimization, Renew. Sustain. Energy Rev., 66, pp. 617-630, (2016)
+    Zahraee S.M., Assadi M.K., Saidur R., Application of artificial intelligence methods for hybrid energy system optimization, Renew Sustain Energy Rev, 66, pp. 617-630, (2016)
+    Zahraee S.M., Khalaji Assadi M., Saidur R., Application of artificial intelligence methods for hybrid energy system optimization, Renew Sustain Energy Rev, (2016)
+    Zahraee S.M., Khalaji Assadi M., Saidur R., Application of artificial intelligence methods for hybrid energy system optimization, Renew Sustain Energy Rev, 66, pp. 617-630, (2016)
+    Zahraee S.M., Khalaji Assadi M., Saidur R., Application of artificial intelligence methods for hybrid energy system optimization, Renew. Sustain. Energy Rev, 66, pp. 617-630, (2016)
+    Zahraee S.M., KhalajiAssadi M., Saidur R., Application of artificial intelligence methods for hybrid energy system optimization, Renew Sustain Energy Rev, 66, pp. 617-630, (2016)
+Zendehboudi A, 2018, J CLEAN PROD, V199, P272
+    Zendehboudi A., Abdul Baseer A., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: a review, J Clean Prod, 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M. A., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: A review, J. Clean. Prod, 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: A review, J. Clean. Prod, 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: A review, J. Cleaner Prod., 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: a review, J Clean Prod, 199, (2018)
+    Zendehboudi A., Baseer M.A., Saidur R., Application of Support Vector Machine Models for Forecasting Solar and Wind Energy Resources: A Review, Journal of Cleaner Production, (2018)
+    Zendehboudi A., Baseer M.A., Saidur R., Application of support vector Machine models for forecasting solar and wind energy resources: A review, J. Clean. Prod., 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M.A., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: A review, J. Clean. Prod, 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M.A., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: A review, J. Clean. Prod., 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M.A., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: A review, J. Cleaner Prod., 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M.A., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: a review, J Clean Prod, 199, pp. 272-285, (2018)
+    Zendehboudi A., Baseer M.A., Saidur R., Application of support vector machine models for forecasting solar and wind energy resources: a review, J. Clean. Prod., 199, pp. 272-285, (2018)
+Zhang H/6, 2012, ENERGY BUILD, V54, P196
+    Zhang H., Davigny A., Colas F., Poste Y., Robyns B., Fuzzy logic based energy management strategy for commercial buildings integrating photovoltaic and storage systems, Energy Build, 54, pp. 196-206, (2012)
+Zhang N, 2021, SMALL METHODS, V5
+    Zhang N., Yang B., Liu K., Et al., Machine learning in screening high performance electrocatalysts for CO<sub>2</sub> reduction, Small Methods, 5, (2021)
+    Zhang N., Yang B., Liu K., Li H., Chen G., Qiu X., Li W., Hu J., Fu J., Jiang Y., Machine Learning in Screening High Performance Electrocatalysts for CO2 Reduction, Small Methods, 5, 11, (2021)
+    Zhang N., Yang B.P., Liu K., Et al., Machine learning in screening high performance electrocatalysts for CO<sub>2</sub> reduction, Small Methods, 5, 11, (2021)
+Zhang Y/4, 2022, RENEWABLE SUSTAINABLE ENERGY , V161
+    Zhang Y., Li Y.-F., Prognostics and health management of Lithium-ion battery using deep learning methods: A review, Renew. Sustain. Energy Rev., 161, (2022)
+    Zhang Y., Li Y.F., Prognostics and health management of Lithium-ion battery using deep learning methods: A review, Renew. Sustain. Energy Rev., 161, March, (2022)
+Zhang Y/5, 2018, ENERGY INFORM, V1
+    Zhang Y., Huang T., Bompard E.F., Big data analytics in smart grids: A review, Energy Inform, 1, (2018)
+    Zhang Y., Huang T., Bompard E.F., Big data analytics in smart grids: A review, Energy Informatics, 1, 8, pp. 3-24, (2018)
+    Zhang Y., Huang T., Bompard E.F., Big data analytics in smart grids: a review, Energy Inform, 1, 1, pp. 1-24, (2018)
+    Zhang Y., Huang T., Bompard E.F., Big data analytics in smart grids: a review, Energy Informatics, 1, pp. 1-8, (2018)
+Zhou K, 2016, RENEWABLE SUSTAINABLE ENERGY , V56, P810
+    Zhou K., Yang S., Understanding household energy consumption behavior: The contribution of energy big data analytics, Renew. Sustain. Energy Rev., 56, pp. 810-819, (2016)
+    Zhou K., Yang S., Understanding household energy consumption behavior: The contribution of energy big data analytics, Renewable and Sustainable Energy Reviews, 56, pp. 810-819, (2016)
+Zhou S, 2022, CURR OPIN  ELECTROCHEM, V31
+    Zhou S., Shearing P.R., Brett D.J., Jervis R., Machine learning as an online diagnostic tool for proton exchange membrane fuel cells, Curr. Opin. Electrochem, 31, (2022)
+Zhou Y, 2021, ENERGY CONVERS MANAGE, V235
+    Zhou Y., Liu Y., Wang D., Liu X., Wang Y., A review on global solar radiation prediction with machine learning models in a comprehensive perspective, Energy Convers Manag, 235, (2021)
+    Zhou Y., Liu Y., Wang D., Liu X., Wang Y., A review on global solar radiation prediction with machine learning models in a comprehensive perspective, Energy Convers Manage, 235, 13, (2021)
