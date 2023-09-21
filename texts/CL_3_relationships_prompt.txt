@@ -1,0 +1,2331 @@
+You are an automated scientific writer assistant. Use only the \
+information provided in the following records to write one paragraph \
+explaining and exemplifying the relationships among the following \
+keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+Use the Record-No value between brackets to indicate the reference to the \
+record. For example, [1] means that the information is in the Record-No \
+1. Use notes below of the generated text to justify the affirmation. Use \
+only phrases appearing in the provided text. Here are the records:
+
+
+Record-No: 51
+Citations: 497
+Record-ID: Wang H/2, 2019, ENERGY CONVERS MANAGE, V198
+Title: a review of DEEP_LEARNING for RENEWABLE_ENERGY FORECASTING
+Abstract:
+```
+as RENEWABLE_ENERGY becomes increasingly popular in the \
+GLOBAL_ELECTRIC_ENERGY_GRID, improving the accuracy of RENEWABLE_ENERGY \
+FORECASTING is critical to POWER_SYSTEM_PLANNING, management, and \
+operations. however, this is a CHALLENGING_TASK due to the intermittent \
+and CHAOTIC_NATURE of RENEWABLE_ENERGY_DATA. to date, VARIOUS_METHODS \
+have been developed, including PHYSICAL_MODELS, STATISTICAL_METHODS, \
+ARTIFICIAL_INTELLIGENCE_TECHNIQUES, and their hybrids to improve the \
+FORECASTING_ACCURACY of RENEWABLE_ENERGY. among them, DEEP_LEARNING, as a \
+PROMISING_TYPE of MACHINE_LEARNING capable for discovering the \
+INHERENT_NONLINEAR features and high level invariant structures in data, \
+has been frequently reported in the literature. this paper provides a \
+comprehensive and EXTENSIVE_REVIEW of RENEWABLE_ENERGY FORECASTING \
+methods based on DEEP_LEARNING to explore its effectiveness, efficiency \
+and APPLICATION_POTENTIAL. we divide the existing deterministic and \
+PROBABILISTIC_FORECASTING methods based on DEEP_LEARNING into four \
+groups, namely DEEP_BELIEF_NETWORK, stack auto encoder, \
+DEEP_RECURRENT_NEURAL_NETWORK and others. we also dissect the \
+FEASIBLE_DATA preprocessing techniques and error post correction methods \
+to improve the FORECASTING_ACCURACY. EXTENSIVE_ANALYSIS and discussion of \
+VARIOUS_DEEP_LEARNING based FORECASTING methods are given. finally, we \
+explore the CURRENT_RESEARCH_ACTIVITIES, challenges and potential \
+FUTURE_RESEARCH_DIRECTIONS in this topic.  2019 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 18
+Citations: 265
+Record-ID: Ng M-F, 2020, NAT MACH INTELL, V2, P161
+Title: predicting the state of charge and health of batteries using data driven \
+MACHINE_LEARNING
+Abstract:
+```
+MACHINE_LEARNING is a SPECIFIC_APPLICATION of ARTIFICIAL_INTELLIGENCE \
+that allows computers to learn and improve from data and experience via \
+sets of algorithms, without the need for reprogramming. in the field of \
+ENERGY_STORAGE, MACHINE_LEARNING has recently emerged as a promising \
+modelling approach to determine the state of charge, STATE_OF_HEALTH and \
+remaining USEFUL_LIFE of batteries. first, we review the two most studied \
+types of BATTERY_MODELS in the literature for BATTERY_STATE_PREDICTION: \
+the EQUIVALENT_CIRCUIT and PHYSICS_BASED_MODELS. based on the \
+CURRENT_LIMITATIONS of these models, we showcase the promise of \
+VARIOUS_MACHINE_LEARNING_TECHNIQUES for fast and \
+ACCURATE_BATTERY_STATE_PREDICTION. finally, we highlight the major \
+challenges involved, especially in accurate modelling over length and \
+time, performing in SITU_CALCULATIONS and HIGH_THROUGHPUT_DATA \
+generation. overall, this work provides insights into real time, \
+EXPLAINABLE_MACHINE_LEARNING for BATTERY_PRODUCTION, management and \
+optimization in the future.  2020, SPRINGER_NATURE limited.
+```
+
+--
+
+Record-No: 24
+Citations: 190
+Record-ID: Vidal C, 2020, IEEE ACCESS, V8, P52796
+Title: machine learning applied to electrified VEHICLE_BATTERY_STATE of charge \
+and STATE_OF_HEALTH estimation: state of the art
+Abstract:
+```
+the growing interest and recent breakthroughs in ARTIFICIAL_INTELLIGENCE \
+and machine learning (ml) have actively contributed to an increase in \
+RESEARCH_AND_DEVELOPMENT of new methods to estimate the states of \
+electrified VEHICLE_BATTERIES. data driven approaches, such as ml, are \
+becoming more popular for estimating the STATE_OF_CHARGE (soc) and \
+STATE_OF_HEALTH (soh) due to greater availability of BATTERY_DATA and \
+improved computing power capabilities. this paper provides a survey of \
+battery STATE_ESTIMATION_METHODS based on ml approaches such as \
+feedforward neural networks (fnns), RECURRENT_NEURAL_NETWORKS (rnns), \
+SUPPORT_VECTOR_MACHINES (svm), radial basis functions (rbf), and hamming \
+networks. comparisons between methods are shown in terms of data quality, \
+inputs and outputs, TEST_CONDITIONS, battery types, and stated accuracy \
+to give readers a bigger picture view of the ml landscape for soc and \
+SOH_ESTIMATION. additionally, to provide insight into how to best \
+approach with the comparison of different neural network structures, an \
+fnn and long short term memory (lstm) rnn are trained fifty times each \
+for 3000 epochs. the error is somewhat different for each \
+TRAINING_REPETITION due to the random initial values of the \
+TRAINABLE_PARAMETERS, demonstrating that it is important to \
+TRAIN_NETWORKS multiple times to achieve the best result. furthermore, it \
+is recommended that when performing a comparison among estimation \
+techniques such as those presented in this REVIEW_PAPER, the compared \
+networks should have a SIMILAR_NUMBER of learnable parameters and be \
+trained and tested with identical data. otherwise, it is difficult to \
+make a general conclusion regarding the quality of a given estimation \
+technique.  2013 ieee.
+```
+
+--
+
+Record-No: 66
+Citations: 149
+Record-ID: Wang B, 2021, ACS NANO, V15, P2197
+Title: PRELITHIATION: a CRUCIAL_STRATEGY for boosting the PRACTICAL_APPLICATION \
+of next generation lithium ion BATTERY
+Abstract:
+```
+with the URGENT_MARKET_DEMAND for high energydensity batteries, the alloy \
+type or conversion type ANODES with HIGH_SPECIFIC_CAPACITY have gained \
+increasing attention to replace current low specific capacity GRAPHITE \
+based ANODES. however, alloy type and conversion type ANODES have \
+LARGE_INITIAL_IRREVERSIBLE_CAPACITY compared with GRAPHITE based ANODES, \
+which consume most of the li+ in the CORRESPONDING_CATHODE and severely \
+reduces the ENERGY_DENSITY of FULL_CELLS. therefore, for the \
+PRACTICAL_APPLICATION of these high capacity ANODES, it is urgent to \
+develop a commercially AVAILABLE_PRELITHIATION_TECHNIQUE to compensate \
+for their LARGE_INITIAL_IRREVERSIBLE_CAPACITY. at present, \
+VARIOUS_PRELITHIATION_METHODS for compensating the \
+INITIAL_IRREVERSIBLE_CAPACITY of the ANODE have been reported, but due to \
+their RESPECTIVE_SHORTCOMINGS, large scale COMMERCIAL_APPLICATIONS have \
+not yet been achieved. in this review, we have systematically summarized \
+and analyzed the advantages and challenges of \
+VARIOUS_PRELITHIATION_METHODS, providing enlightenment for the further \
+development of each PRELITHIATION_STRATEGY toward commercialization and \
+thus facilitating the PRACTICAL_APPLICATION of HIGH_SPECIFIC_CAPACITY \
+ANODES in the next generation HIGH_ENERGY_DENSITY lithiumion batteries. \
+2021 AMERICAN_CHEMICAL_SOCIETY.
+```
+
+--
+
+Record-No: 12
+Citations: 111
+Record-ID: Wang S/2, 2021, ENERGY REP, V7, P5562
+Title: a CRITICAL_REVIEW of improved DEEP_LEARNING_METHODS for the \
+REMAINING_USEFUL_LIFE_PREDICTION of LITHIUM_ION_BATTERIES
+Abstract:
+```
+as widely used for SECONDARY_ENERGY_STORAGE, LITHIUM_ION_BATTERIES have \
+become the CORE_COMPONENT of the power supply system and accurate \
+REMAINING_USEFUL_LIFE_PREDICTION is the key to ensure its reliability. \
+because of the complex working characteristics of LITHIUM_ION_BATTERIES \
+as well as the MODEL_PARAMETER changing along with the aging process, the \
+accuracy of the online REMAINING_USEFUL_LIFE_PREDICTION is difficult but \
+urgent to be improved for the RELIABLE_POWER_SUPPLY application. the \
+DEEP_LEARNING_ALGORITHM_IMPROVES the accuracy of the \
+REMAINING_USEFUL_LIFE_PREDICTION, which also reduces the \
+CHARACTERISTIC_TESTING TIME_REQUIREMENT, providing the possibility to \
+improve the POWER_PROFITABILITY of PREDICTIVE_ENERGY_MANAGEMENT. this \
+ARTICLE_ANALYZES, reviews, classifies, and compares \
+DIFFERENT_ADAPTIVE_MATHEMATICAL_MODELS on DEEP_LEARNING_ALGORITHMS for \
+the REMAINING_USEFUL_LIFE_PREDICTION. the features are identified for the \
+modeling ability, according to which the ADAPTIVE_PREDICTION_METHODS are \
+classified. the SPECIFIC_CRITERIA are defined to evaluate different \
+modeling accuracy in the DEEP_LEARNING_CALCULATION_PROCEDURE. the key \
+features of EFFECTIVE_LIFE_PREDICTION are used to draw \
+RELEVANT_CONCLUSIONS and suggestions are provided, in which the high \
+accuracy DEEP_CONVOLUTIONAL_NEURAL_NETWORK  extreme learning machine \
+algorithm is chosen to be utilized for the stable \
+REMAINING_USEFUL_LIFE_PREDICTION of LITHIUM_ION_BATTERIES.  2021
+```
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+Deep learning, a subset of machine learning, offers promising capabilities in various sectors, especially in the realm of renewable energy forecasting and battery management [51]. In the automotive domain, electric and hybrid vehicles rely heavily on lithium-ion batteries as their core component for energy storage, thus necessitating accurate battery management systems [12]. Such batteries, often referred to as secondary batteries, serve as essential components for power supply systems, with their reliability depending critically on the precise prediction of their remaining useful life [12]. Machine learning approaches, in turn, are instrumental in estimating the state of charge and state of health of these batteries, which is paramount for their effective management and charging strategies [24]. As the urgency to combat climate change grows, the demand for high-energy-density batteries intensifies, underscoring the need for green alternatives to minimize greenhouse gas emissions [66]. Effective battery management, backed by deep learning, can thus play a pivotal role in our collective pursuit of mitigating the impacts of climate change by fostering the more widespread adoption of electric and hybrid vehicles.
+>>>
+
+Here are the records:
+
+
+Record-No: 91
+Citations: 93
+Record-ID: Alkhayat G, 2021, ENERGY AI, V4
+Title: a review and TAXONOMY of wind and SOLAR_ENERGY FORECASTING_METHODS based \
+on DEEP_LEARNING
+Abstract:
+```
+RENEWABLE_ENERGY is essential for PLANET_SUSTAINABILITY. \
+RENEWABLE_ENERGY_OUTPUT FORECASTING has a SIGNIFICANT_IMPACT on making \
+decisions related to operating and managing POWER_SYSTEMS. \
+ACCURATE_PREDICTION of RENEWABLE_ENERGY_OUTPUT is vital to \
+ENSURE_GRID_RELIABILITY and permanency and reduce the risk and cost of \
+the ENERGY_MARKET and systems. DEEP_LEARNING's RECENT_SUCCESS in many \
+applications has attracted researchers to this field and its \
+PROMISING_POTENTIAL is manifested in the richness of the proposed methods \
+and the increasing number of publications. to facilitate further research \
+and development in this area, this paper provides a review of \
+DEEP_LEARNING based solar and WIND_ENERGY FORECASTING research published \
+during the last five years discussing extensively the data and datasets \
+used in the reviewed works, the data pre processing methods, \
+deterministic and PROBABILISTIC_METHODS, and evaluation and \
+COMPARISON_METHODS. the CORE_CHARACTERISTICS of all the reviewed works \
+are summarised in TABULAR_FORMS to ENABLE_METHODOLOGICAL_COMPARISONS. the \
+current challenges in the field and FUTURE_RESEARCH_DIRECTIONS are given. \
+the trends show that hybrid FORECASTING models are the most used in this \
+field followed by RECURRENT_NEURAL_NETWORK_MODELS including long short \
+term memory and gated RECURRENT_UNIT, and in the third \
+PLACE_CONVOLUTIONAL_NEURAL_NETWORKS. we also find that probabilistic and \
+multistep ahead FORECASTING_METHODS are gaining more attention. moreover, \
+we devise a BROAD_TAXONOMY of the research using the KEY_INSIGHTS gained \
+from this EXTENSIVE_REVIEW, the TAXONOMY we believe will be vital in \
+understanding the cutting edge and accelerating innovation in this field. \
+2021 the author(s)
+```
+
+--
+
+Record-No: 58
+Citations: 89
+Record-ID: Cui Z, 2022, INT J ENERGY RES, V46, P5423
+Title: a COMPREHENSIVE_REVIEW on the STATE_OF_CHARGE_ESTIMATION for \
+LITHIUM_ION_BATTERY based on NEURAL_NETWORK
+Abstract:
+```
+implementing CARBON_NEUTRALITY and EMISSION_PEAK_POLICIES requires a high \
+level ELECTRIC_VEHICLE_FIELD. LITHIUM_ION_BATTERIES have been considered \
+an ESSENTIAL_COMPONENT of ELECTRIC_VEHICLE_POWER_BATTERIES. \
+EFFECTIVE_STATE of charge (soc) estimation for LITHIUM_ION_BATTERIES is a \
+CRITICAL_PROBLEM that needs to be addressed at present. with the \
+FEATURE_EXTRACTION and fitting capability, the NEURAL_NETWORK can achieve \
+ACCURATE_SOC_ESTIMATION without considering the \
+INTERNAL_ELECTROCHEMICAL_STATE of the battery. this ARTICLE_OVERVIEWS the \
+definition of soc and the relationship with battery aging state. then, by \
+examining RECENT_LITERATURE on estimating the soc of \
+LITHIUM_ION_BATTERIES using NEURAL_NETWORK_METHODS, the methods are \
+classified into three categories: feed forward NEURAL_NETWORK_METHOD, \
+DEEP_LEARNING_METHOD, and HYBRID_METHOD. the progress of \
+NEURAL_NETWORK_METHODS in SOC_ESTIMATION_APPLICATIONS is systematically \
+reviewed, including principles, advantages, disadvantages, \
+CURRENT_STATUS, and ESTIMATION_ERRORS. POSSIBLE_RECOMMENDATIONS for next \
+generation INTELLIGENT_BATTERY_MANAGEMENT_SYSTEMS and SOC_ESTIMATION are \
+also presented. this review's highlighted insights will \
+INSPIRE_RESEARCHERS in the BATTERY_FIELD and point the way to developing \
+ELECTRIC_VEHICLES.  2021 JOHN_WILEY & SONS_LTD.
+```
+
+--
+
+Record-No: 147
+Citations: 55
+Record-ID: Xu H/2, 2021, ADV ENERGY MATER, V11
+Title: guiding the DESIGN of HETEROGENEOUS_ELECTRODE_MICROSTRUCTURES for li ion \
+batteries: MICROSCOPIC_IMAGING, predictive modeling, and MACHINE_LEARNING
+Abstract:
+```
+electrochemical and MECHANICAL_PROPERTIES of lithium ion battery \
+materials are heavily dependent on their 3d MICROSTRUCTURE \
+characteristics. a QUANTITATIVE_UNDERSTANDING of the role played by \
+STOCHASTIC_MICROSTRUCTURES is critical for the prediction of \
+MATERIAL_PROPERTIES and for guiding SYNTHESIS_PROCESSES. furthermore, \
+tailoring MICROSTRUCTURE_MORPHOLOGY is also a VIABLE_WAY of achieving \
+OPTIMAL_ELECTROCHEMICAL and MECHANICAL_PERFORMANCES of lithium ion cells. \
+to facilitate the establishment of MICROSTRUCTURE resolved modeling and \
+DESIGN_METHODS, a review covering spatially and temporally resolved \
+imaging of MICROSTRUCTURE and ELECTROCHEMICAL_PHENOMENA, MICROSTRUCTURE \
+STATISTICAL_CHARACTERIZATION and STOCHASTIC_RECONSTRUCTION, \
+MICROSTRUCTURE resolved modeling for PROPERTY_PREDICTION, and \
+MACHINE_LEARNING for MICROSTRUCTURE_DESIGN is presented here. the \
+perspectives on the unresolved challenges and opportunities in applying \
+EXPERIMENTAL_DATA, modeling, and MACHINE_LEARNING to improve the \
+understanding of materials and IDENTIFY_PATHS toward enhanced performance \
+of lithium ion cells are presented.  2021 wiley vch gmbh
+```
+
+--
+
+Record-No: 142
+Citations: 52
+Record-ID: Yan Y/1, 2021, ENERGY ENVIRON SCI, V14, P6122
+Title: harnessing the POWER of MACHINE_LEARNING for CARBON_CAPTURE, utilisation, \
+and storage (ccus) a state of the art review
+Abstract:
+```
+CARBON_CAPTURE, utilisation and storage (ccus) will play a CRITICAL_ROLE \
+in FUTURE_DECARBONISATION_EFFORTS to meet the PARIS_AGREEMENT_TARGETS and \
+mitigate the worst effects of CLIMATE_CHANGE. whilst there are many well \
+developed CCUS_TECHNOLOGIES there is the potential for improvement that \
+can encourage CCUS_DEPLOYMENT. a time and COST_EFFICIENT way of advancing \
+ccus is through the application of MACHINE_LEARNING (ml). ml is a \
+COLLECTIVE_TERM for high level STATISTICAL_TOOLS and algorithms that can \
+be used to classify, predict, optimise, and CLUSTER_DATA. within this \
+review we address the MAIN_STEPS of the CCUS_VALUE_CHAIN (co2 capture, \
+transport, utilisation, storage) and explore how ml is playing a leading \
+role in expanding the knowledge across all fields of ccus. we finish with \
+a set of recommendations for further work and research that will develop \
+the role that ML_PLAYS in ccus and enable greater deployment of the \
+technologies. this journal is   the ROYAL_SOCIETY of chemistry.
+```
+
+--
+
+Record-No: 183
+Citations: 51
+Record-ID: Wang S/2, 2022, ENERGIES, V15
+Title: a CRITICAL_REVIEW of improved DEEP_CONVOLUTIONAL_NEURAL_NETWORK for multi \
+timescale STATE_PREDICTION of LITHIUM_ION_BATTERIES
+Abstract:
+```
+LITHIUM_ION_BATTERIES are widely used as EFFECTIVE_ENERGY_STORAGE and \
+have become the MAIN_COMPONENT of power supply systems. \
+ACCURATE_BATTERY_STATE_PREDICTION is key to ensuring reliability and has \
+SIGNIFICANT_GUIDANCE for optimizing the performance of \
+BATTERY_POWER_SYSTEMS and replacement. due to the complex and \
+DYNAMIC_OPERATIONS of LITHIUM_ION_BATTERIES, the STATE_PARAMETERS change \
+with either the working condition or the aging process. the accuracy of \
+ONLINE_STATE_PREDICTION is difficult to improve, which is an URGENT_ISSUE \
+that needs to be solved to ensure a reliable and SAFE_POWER supply. \
+currently, with the emergence of ARTIFICIAL_INTELLIGENCE (ai), \
+BATTERY_STATE_PREDICTION_METHODS based on data driven methods have \
+HIGH_PRECISION and robustness to improve STATE_PREDICTION_ACCURACY. the \
+demanding characteristics of TEST_TIME are reduced, and this has become \
+the RESEARCH_FOCUS in the related fields. therefore, the \
+CONVOLUTIONAL_NEURAL_NETWORK (cnn) was improved in the data modeling \
+process to establish a DEEP_CONVOLUTIONAL_NEURAL_NETWORK_ENSEMBLE \
+TRANSFER_LEARNING (dcnn etl) method, which plays a SIGNIFICANT_ROLE in \
+BATTERY_STATE_PREDICTION. this PAPER_REVIEWS and compares several \
+MATHEMATICAL_DCNN_MODELS. the key features are identified on the basis of \
+the modeling capability for the STATE_PREDICTION. then, the \
+PREDICTION_METHODS are classified on the basis of the identified \
+features. in the process of DEEP_LEARNING (dl) calculation, \
+SPECIFIC_CRITERIA for evaluating different modeling ACCURACY_LEVELS are \
+defined. the identified features of the STATE_PREDICTION_MODEL are taken \
+advantage of to give RELEVANT_CONCLUSIONS and suggestions. the dcnn etl \
+method is selected to realize the RELIABLE_STATE_PREDICTION of \
+LITHIUM_ION_BATTERIES.  2022 by the authors.
+```
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+Based on the provided records, here's an improved version of the paragraphs:
+
+<<<
+Deep learning, a facet of machine learning, has shown exceptional potential particularly in renewable energy forecasting and battery management [91]. Within the realm of automobiles, electric and hybrid vehicles heavily lean on lithium-ion batteries, which serve as pivotal components for their power systems [58]. These batteries, known as secondary batteries, are indispensable for energy storage and their reliability hinges on accurately predicting their longevity and remaining useful life [183]. State-of-the-art methods, rooted in deep learning, are vital for precise estimation of a battery's state of charge (SOC) and its overall health, which in turn guides optimized battery management and charging approaches [58]. As the global imperative to tackle climate change strengthens, the need for batteries with higher energy density grows, emphasizing the quest for eco-friendly solutions that can mitigate greenhouse gas emissions [142]. Thus, robust battery management, bolstered by deep learning techniques, can significantly contribute to addressing climate change challenges by promoting the broader use of electric and hybrid vehicles.
+>>>
+
+Here are the records:
+
+Record-No: 150
+Citations: 48
+Record-ID: Sun L/1, 2022, SMALL, V18
+Title: a review on RECENT_ADVANCES for boosting INITIAL_COULOMBIC_EFFICIENCY of \
+SILICON_ANODIC_LITHIUM_ION_BATTERIES
+Abstract:
+```
+RECHARGEABLE_SILICON_ANODE_LITHIUM_ION_BATTERIES (slibs) have attracted \
+TREMENDOUS_ATTENTION because of their merits, including a \
+HIGH_THEORETICAL_CAPACITY, low working potential, and abundant \
+NATURAL_SOURCES. the PAST_DECADE has witnessed SIGNIFICANT_DEVELOPMENTS \
+in terms of extending the lifespan and maintaining HIGH_CAPACITIES of \
+slibs. however, the DETRIMENTAL_ISSUE of LOW_INITIAL_COULOMBIC_EFFICIENCY \
+(ICE) toward slibs is causing more and more attention in RECENT_YEARS \
+because ICE_VALUE is a CORE_INDEX in FULL_BATTERY_DESIGN that profoundly \
+determines the utilization of ACTIVE_MATERIALS and the weight of an \
+assembled battery. herein, a COMPREHENSIVE_REVIEW is presented of \
+RECENT_ADVANCES in solutions for improving ICE of slibs. from \
+DESIGN_PERSPECTIVES, the strategies for boosting ICE of SILICON_ANODES \
+are systematically categorized into several aspects covering \
+STRUCTURE_REGULATION, prelithiation, INTERFACIAL_DESIGN, BINDER_DESIGN, \
+and ELECTROLYTE_ADDITIVES. the merits and challenges of \
+VARIOUS_APPROACHES are highlighted and discussed in detail, which \
+provides VALUABLE_INSIGHTS into the RATIONAL_DESIGN and development of \
+state of the art techniques to deal with the DETERIORATIVE_ISSUE of \
+LOW_ICE of slibs. furthermore, conclusions and future \
+PROMISING_RESEARCH_PROSPECTS for lifting ICE of slibs are proposed at the \
+end of the review.  2021 wiley vch gmbh
+```
+
+--
+
+Record-No: 184
+Citations: 47
+Record-ID: Alegre S, 2017, RENEWABLE SUSTAINABLE ENERGY , V74, P1020
+Title: modelling of electric and parallel hybrid electric vehicle using \
+matlab/simulink environment and planning of CHARGING stations through a \
+geographic information system and genetic algorithms
+Abstract:
+```
+in the last decades, the consumption of petrol in the TRANSPORT_SECTOR \
+has increased at a higher pace than in any other sector. transport \
+represents a quarter of the total amount of greenhouse gases and 36% of \
+energy consumption in spain. as a consequence, a new law regarding \
+emissions has been approved. SUCH_LAW_REGULATES the \
+ACCEPTABLE_EMISSION_LEVELS of combustion gases for new vehicles sold in \
+any of the european union member states. this WORK_DEALS with \
+PARALLEL_HYBRID_ELECTRIC_VEHICLES in order to face the increasing \
+environmental pollution and reduce energy consumption. the \
+PRESENT_PAPER_SHOWS a modelling of electric and parallel hybrid electric \
+vehicle using matlab/simulink environment which allows us to access \
+different aspects of the vehicle such as engine power, type and size of \
+the battery or weight and to observe how changes can affect the \
+performance and the distance travelled. the model was simulated in order \
+to obtain the electric vehicle's autonomy. through the use of a \
+geographic information system together with a mathematic algorithm based \
+on genetic algorithms the planning of CHARGING stations was obtained, \
+where the installation investment cost was minimized and the geographic \
+distribution was improved in order to increase the quality of the service \
+by improving reliability. after a simulation which took place in a city \
+of spain, zaragoza, losses were reduced from 156.60 to 115.27.  2017
+```
+
+--
+
+Record-No: 156
+Citations: 46
+Record-ID: Chen X/2, 2021, ANGEW CHEM INT ED, V60, P24354
+Title: applying MACHINE_LEARNING to RECHARGEABLE_BATTERIES: from the microscale \
+to the macroscale
+Abstract:
+```
+emerging MACHINE_LEARNING (ml) methods are widely applied in chemistry \
+and MATERIALS_SCIENCE_STUDIES and have led to a focus on DATA_DRIVEN \
+research. this MINIREVIEW_SUMMARIZES the application of ml to \
+RECHARGEABLE_BATTERIES, from the microscale to the macroscale. \
+specifically, ml offers a strategy to explore NEW_FUNCTIONALS for \
+DENSITY_FUNCTIONAL_THEORY calculations and NEW_POTENTIALS for \
+MOLECULAR_DYNAMICS_SIMULATIONS, which are expected to significantly \
+enhance the CHALLENGING_DESCRIPTIONS of interfaces and \
+AMORPHOUS_STRUCTURES. ml also possesses a GREAT_POTENTIAL to mine and \
+unveil VALUABLE_INFORMATION from both experimental and \
+THEORETICAL_DATASETS. a QUANTITATIVE_STRUCTUREFUNCTION_CORRELATION can \
+thus be established, which can be used to predict the IONIC_CONDUCTIVITY \
+of solids as well as the BATTERY_LIFESPAN. ml also exhibits \
+GREAT_ADVANTAGES in STRATEGY_OPTIMIZATION, such as fast charge \
+procedures. the FUTURE_COMBINATION of MULTISCALE_SIMULATIONS, \
+experiments, and ml is also discussed and the role of humans in \
+DATA_DRIVEN research is highlighted.  2021 wiley vch gmbh
+```
+
+--
+
+Record-No: 168
+Citations: 44
+Record-ID: Zhang Y/4, 2022, RENEWABLE SUSTAINABLE ENERGY , V161
+Title: PROGNOSTICS_AND_HEALTH_MANAGEMENT of LITHIUM_ION_BATTERY using \
+DEEP_LEARNING_METHODS: a review
+Abstract:
+```
+PROGNOSTICS_AND_HEALTH_MANAGEMENT (phm) is developed to guarantee the \
+safety and reliability of lithium ion (li ion) battery during operations. \
+due to the advantages of DEEP_LEARNING on nonlinear modeling and \
+REPRESENTATION_LEARNING, it gains CONSIDERABLE_ATTENTIONS in the phm of \
+li ion battery. to provide a COMPREHENSIVE_VIEW of DEEP_LEARNING based \
+phm of li ion battery, this PAPER_SUMMARIZES these applications on the \
+basis of CURRENT_RESEARCH. DEEP_LEARNING based phm of li ion battery \
+roughly involves three steps, namely DATA_ACQUISITION, \
+DEEP_LEARNING_METHODS and PERFORMANCE_EVALUATION. firstly, \
+REGULAR_DATA_TYPES and PUBLIC_DATASETS are introduced. secondly, \
+BRIEF_INTRODUCTIONS of DEEP_LEARNING_METHODS and their applications to \
+phm of li ion battery are summarized. these DEEP_LEARNING_METHODS include \
+autoencoder, DEEP_NEURAL_NETWORK, DEEP_BELIEF_NETWORK, \
+CONVOLUTIONAL_NEURAL_NETWORK, RECURRENT_NEURAL_NETWORK and \
+GENERATIVE_ADVERSARIAL_NETWORK. thirdly, commonly used EVALUATION_METRICS \
+are presented. finally, the PAPER_DRAWS a conclusion and presents the \
+prospects of phm of li ion battery with DEEP_LEARNING_TECHNIQUES.  2022 \
+ELSEVIER_LTD
+```
+
+--
+
+Record-No: 104
+Citations: 44
+Record-ID: Sun Y/3, 2020, ADV ENERGY MATER, V10
+Title: boosting the optimization of LITHIUM_METAL_BATTERIES by \
+MOLECULAR_DYNAMICS_SIMULATIONS: a perspective
+Abstract:
+```
+the LI_METAL_BATTERY is attracting more and more attention in the field \
+of ELECTRIC_VEHICLES because of its HIGH_THEORETICAL_CAPACITY and \
+LOW_ELECTROCHEMICAL_POTENTIAL. but its INHERENT_DISADVANTAGES including \
+UNCONTROLLED_LITHIUM_DENDRITES, HIGH_CHEMICAL_ACTIVITY, and \
+LARGE_VOLUME_CHANGES hold back the large scale application of \
+STABLE_LI_METAL_ANODES. recently, VARIOUS_COMPUTATIONAL_STUDIES have been \
+used to facilitate the rationalization of experimental observed \
+phenomenon. in this review, the progress of \
+MOLECULAR_DYNAMICS_SIMULATIONS in LI_METAL_BATTERIES is highlighted. \
+MOLECULAR_DYNAMICS_SIMULATIONS can predict how selected atoms in \
+DIFFERENT_SYSTEMS of LI_METAL_BATTERY will move over time based on a \
+GENERAL_MODEL of the physics governing INTERATOMIC_INTERACTIONS. the \
+analysis of the TRANSPORT_STRUCTURE of LI_IONS, the \
+ELECTROCHEMICAL_PROCESS at electronic, atomic, or MOLECULAR_LEVEL, the \
+li+ transport mechanism, and the LI_DEPOSITION_BEHAVIOR are described in \
+detail. some suggestions are also made about the further potential of \
+MOLECULAR_DYNAMICS_SIMULATIONS do in LI_METAL_BATTERIES are also made. \
+2020 wiley vch gmbh
+```
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+Deep learning, an advanced subset of machine learning, is increasingly utilized in the field of battery health and reliability, especially in the Prognostics and Health Management (PHM) of lithium-ion batteries. This is because of deep learning's superior ability in nonlinear modeling and representation learning, allowing for accurate estimations of battery health [168]. Electric and hybrid vehicles prominently utilize these lithium-ion batteries due to their high energy densities and inherent advantages [104]. These batteries, also termed as secondary batteries, are crucial for energy storage and for the operation of these vehicles [58]. The continued operation and reliability of these batteries largely depend on accurately predicting their lifespan and remaining usable energy [156]. State-of-the-art methods, deeply entrenched in deep learning techniques, play an essential role in estimating a battery's State of Charge (SOC) and its health status [168]. Accurate SOC estimation, in turn, is pivotal for formulating optimized battery management systems and devising efficient charging strategies. 
+
+The push towards electric and hybrid vehicles is also driven by global environmental concerns. Transport is a significant contributor to greenhouse gas emissions, representing a considerable share of energy consumption [184]. As regulations on emissions tighten, there is a growing emphasis on minimizing greenhouse gases. Electric and hybrid vehicles stand as a promising solution in this context, reducing the reliance on fossil fuels and consequently mitigating greenhouse gas emissions. Therefore, robust battery management systems, enhanced by deep learning methodologies, can make a significant impact on addressing climate change challenges. This not only ensures vehicle reliability but also promotes the large-scale adoption of electric and hybrid vehicles as sustainable alternatives [104].
+>>>
+
+Here are the records:
+
+
+Record-No: 126
+Citations: 43
+Record-ID: Liu Y/2, 2021, J ENERGY CHEM, V54, P179
+Title: nanostructured strategies towards boosting ORGANIC_LITHIUM_ION_BATTERIES
+Abstract:
+```
+pursuing MATERIAL_DEVELOPMENT for next generation batteries, \
+ORGANIC_ELECTRODE_MATERIALS have shown GREAT_POTENTIAL for \
+LITHIUM_ION_BATTERIES. however, their widespread adopting is plagued by \
+INTRINSIC_PROBLEMS such as POOR_ELECTRONIC_CONDUCTIVITY, HIGH_DISSOLUTION \
+inside electrolytes and UNSTABLE_CHEMICAL_PECULIARITY. recently, \
+nanostructured strategies promoted ORGANIC_ELECTRODES with \
+EXOTIC_PROPERTIES for enhancing electron and ION_TRANSPORT together with \
+the stability during ELECTROCHEMICAL_PROCESS, have received increasing \
+attention and have been extensive applied in boosting the organic lithium \
+ion based ENERGY_STORAGE. in this review, we summarize the applications \
+of NANOSTRUCTURES to improve the performance of both ORGANIC_ANODES and \
+CATHODES, including (i) NANOSCALE_DESIGN of ZERO_DIMENSIONAL \
+ORGANIC_ELECTRODE_MATERIALS, (ii) strategies of one dimensional \
+nanostructured ORGANIC_ELECTRODE_MATERIALS, (iii) construction of two \
+dimensional nanosized ORGANIC_COMPOSITE_ELECTRODES, and (iv) three \
+dimensional exploration of nanosized ORGANIC_ELECTRODES. we hope to \
+stimulate high quality applied research on understanding and handling the \
+relationship between the NANOSTRUCTURE and performance of \
+ORGANIC_LITHIUM_ION_BATTERIES that might speed up the commercialization \
+of ORGANIC_LITHIUM_ION_BATTERIES.  2020 SCIENCE_PRESS
+```
+
+--
+
+Record-No: 179
+Citations: 41
+Record-ID: Rauf H, 2022, RENEWABLE SUSTAINABLE ENERGY , V156
+Title: MACHINE_LEARNING in STATE_OF_HEALTH and remaining USEFUL_LIFE_ESTIMATION: \
+theoretical and TECHNOLOGICAL_DEVELOPMENT in \
+BATTERY_DEGRADATION_MODELLING
+Abstract:
+```
+designing and deployment of state of the art ELECTRIC_VEHICLES (evs) in \
+terms of LOW_COST and HIGH_DRIVING_RANGE with APPROPRIATE_RELIABILITY and \
+security are identified as the key towards decarbonization of the \
+TRANSPORTATION_SECTOR. nevertheless, the utilization of \
+LITHIUM_ION_BATTERIES face a CORE_DIFFICULTY associated with \
+ENVIRONMENTAL_DEGRADATION_FACTORS, CAPACITY_FADE, aging induced \
+degradation, and end of life repurposing. these factors play a \
+PIVOTAL_ROLE in the field of evs. in this regard, STATE_OF_HEALTH (soh) \
+and remaining USEFUL_LIFE (rul) ESTIMATION_OUTLINES the efficacy of the \
+batteries as well as facilitate in the development and testing of \
+NUMEROUS_EV_OPTIMIZATIONS with identification of parameters that will \
+enhance and further improve their efficiency. both indices give an \
+ACCURATE_ESTIMATION of the BATTERY_PERFORMANCE, maintenance, prognostics, \
+and HEALTH_MANAGEMENT. accordingly, MACHINE_LEARNING (ml) techniques \
+provide a SIGNIFICANT_DEVELOPMENTAL_SCOPE as best parameters and \
+approaches cannot be identified for these estimations. ML_STRATEGIES \
+comparatively provide a non invasive approach with LOW_COMPUTATION and \
+HIGH_ACCURACY considering the scalability and TIMESCALE_ISSUES of \
+BATTERY_DEGRADATION. this paper objectively provides an inclusively \
+EXTENSIVE_REVIEW on these topics based on the research conducted over the \
+PAST_DECADE. an in depth introductory is provided for soh and \
+RUL_ESTIMATION highlighting their process and significance. furthermore, \
+NUMEROUS_ML_TECHNIQUES are thoroughly and independently investigated \
+based on each category and sub category implemented for soh and \
+RUL_MEASUREMENT. finally, applications oriented discussion that \
+explicates the advantages in terms of accuracy and computation is \
+presented that targets to provide an insight for further development in \
+this field of research.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 160
+Citations: 40
+Record-ID: Rahimi M, 2021, CELL REP PHYS SCI, V2
+Title: toward SMART_CARBON capture with MACHINE_LEARNING
+Abstract:
+```
+MACHINE_LEARNING (ml) is emerging as a POWERFUL_APPROACH that has \
+recently shown potential to affect VARIOUS_FRONTIERS of CARBON_CAPTURE, a \
+KEY_INTERIM_TECHNOLOGY to assist in the mitigation of CLIMATE_CHANGE. in \
+this perspective, we reveal how ML_IMPLEMENTATIONS have improved this \
+process in many aspects, for both ABSORPTION  and ADSORPTION based \
+approaches, ranging from the molecular to PROCESS_LEVEL. we discuss the \
+role of ml in predicting the THERMODYNAMIC_PROPERTIES of absorbents and \
+in improving the ABSORPTION_PROCESS. for ADSORPTION_PROCESSES, we discuss \
+the promises of ML_TECHNIQUES for exploring many options to find the most \
+cost effective process scheme, which involves choosing a SOLID_ADSORBENT \
+and designing a PROCESS_CONFIGURATION. we also highlight the advantages \
+of ml and the associated risks, elaborate on the importance of the \
+features needed to TRAIN_ML_MODELS, and identify \
+PROMISING_FUTURE_OPPORTUNITIES for ml in CARBON_CAPTURE processes.  2021 \
+the author(s)
+```
+
+--
+
+Record-No: 130
+Citations: 35
+Record-ID: Cui Z, 2022, MATH PROBL ENG, V2022
+Title: HYBRID_METHODS using NEURAL_NETWORK and KALMAN_FILTER for the \
+STATE_OF_CHARGE_ESTIMATION of lithium ion battery
+Abstract:
+```
+with the increasing CARBON_EMISSIONS_WORLDWIDE, LITHIUM_ION_BATTERIES \
+have become the MAIN_COMPONENT of ENERGY_STORAGE_SYSTEMS for CLEAN_ENERGY \
+due to their UNIQUE_ADVANTAGES. accurate and reliable state of charge \
+(soc) estimation is a CENTRAL_FACTOR in the WIDESPREAD_USE of \
+LITHIUM_ION_BATTERIES. this review, therefore, examines the \
+RECENT_LITERATURE on estimating the soc of LITHIUM_ION_BATTERIES using \
+the HYBRID_METHODS of NEURAL_NETWORKS combined with KALMAN_FILTERING (nn \
+kf), classifying the methods into KALMAN_FILTER first and NEURAL_NETWORK \
+first methods. then the HYBRID_METHODS are studied and discussed in terms \
+of BATTERY_MODEL, PARAMETER_IDENTIFICATION, ALGORITHM_STRUCTURE, \
+IMPLEMENTATION_PROCESS, APPROPRIATE_ENVIRONMENT, advantages, \
+disadvantages, and ESTIMATION_ERRORS. in addition, this review also gives \
+CORRESPONDING_RECOMMENDATIONS for researchers in the BATTERY_FIELD \
+considering the existing problems.   2022 ZHENHUA_CUI et al.
+```
+
+--
+
+Record-No: 175
+Citations: 32
+Record-ID: Ahmed M, 2021, JOULE, V5, P2296
+Title: the role of ARTIFICIAL_INTELLIGENCE in the MASS_ADOPTION of \
+ELECTRIC_VEHICLES
+Abstract:
+```
+the ELECTRIFICATION of MASS_TRANSPORTATION is hailed as a solution for \
+reducing global GREENHOUSE_GAS emissions and dependence on \
+UNSUSTAINABLE_ENERGY_SOURCES. the ANNUAL_SALES of ELECTRIC_VEHICLES (evs) \
+has continued to rise since 2011, with a GLOBAL_SALE of evs of 2.1 \
+million in 2019. this increase in SALES is mainly due to continued \
+improvement in the cost and performance of COMMERCIAL_EVS, increased \
+EV_OPTIONS available to consumers, and ENVIRONMENTAL_AWARENESS. however, \
+despite the POSITIVE_OUTLOOK, evs still face major challenges that hinder \
+their rapid and WIDESPREAD_ADOPTION: limited DRIVING_RANGE, long charging \
+times, and a lack of sufficient charging INFRASTRUCTURE. this \
+REVIEW_OUTLINES the RECENT_ADVANCES in evs and related INFRASTRUCTURE, \
+mainly from ARTIFICIAL_INTELLIGENCE (ai), which makes evs a more \
+ATTRACTIVE_CONSUMER_OPTION. the application of ai in improving evs, \
+facilitating EV_CHARGING_STATIONS, and EV_INTEGRATION with the SMART_GRID \
+is critically analyzed and reviewed. finally, FUTURE_TRENDS and prospects \
+in the area are discussed.  2021
+```
+
+--
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+Deep learning, an advanced subset of machine learning, is becoming indispensable in the domain of battery health and reliability. It particularly stands out in the Prognostics and Health Management (PHM) of lithium-ion batteries [168]. Such prominence stems from deep learning's proficiency in nonlinear modeling and representation learning, ensuring accurate estimations of battery health [168]. Lithium-ion batteries, commonly classified as secondary batteries, serve as the backbone for energy storage and are especially vital for electric and hybrid vehicles [58]. These vehicles harness the power of lithium-ion batteries primarily due to their high energy densities and other inherent advantages [104].
+
+Reliability of these batteries is paramount. To ensure continued operation, it's crucial to accurately predict their lifespan and remaining usable energy [156]. Notably, state-of-the-art methods anchored in deep learning provide invaluable insights into estimating a battery's State of Charge (SOC) and its overall health status [168]. Precise SOC estimation becomes the cornerstone for creating advanced battery management systems and formulating efficient charging strategies [130].
+
+The global shift towards electric and hybrid vehicles isn't solely a technological evolution. Environmental considerations play a pivotal role in this transition. The transport sector is a notable contributor to greenhouse gas emissions, accounting for a significant portion of global energy consumption [184]. Stringent emissions regulations and the collective pursuit to curtail greenhouse gases have amplified the emphasis on eco-friendly alternatives. Electric and hybrid vehicles emerge as viable solutions in this scenario. They minimize dependence on fossil fuels, subsequently reducing greenhouse gas emissions [175]. Consequently, robust battery management systems, enhanced by deep learning algorithms, can considerably influence the fight against climate change [104]. By ensuring vehicle reliability, these systems expedite the mass adoption of electric and hybrid vehicles as sustainable alternatives, reinforcing our commitment to a greener future [175].
+>>>
+
+
+Here are the records:
+
+Record-No: 137
+Citations: 31
+Record-ID: Luo K, 2022, J ENERGY CHEM, V74, P159
+Title: a review of DEEP_LEARNING_APPROACH to predicting the STATE_OF_HEALTH and \
+STATE_OF_CHARGE of LITHIUM_ION_BATTERIES
+Abstract:
+```
+in the field of ENERGY_STORAGE, it is very important to predict the \
+STATE_OF_CHARGE and the STATE_OF_HEALTH of LITHIUM_ION_BATTERIES. in this \
+paper, we review the CURRENT widely used EQUIVALENT_CIRCUIT and \
+ELECTROCHEMICAL_MODELS for BATTERY_STATE_PREDICTIONS. the \
+REVIEW_DEMONSTRATES that MACHINE_LEARNING and DEEP_LEARNING_APPROACHES \
+can be used to construct fast and accurate DATA_DRIVEN models for the \
+prediction of BATTERY_PERFORMANCE. the details, advantages, and \
+limitations of these approaches are presented, compared, and summarized. \
+finally, FUTURE_KEY challenges and opportunities are discussed.  2022 \
+SCIENCE_PRESS and DALIAN_INSTITUTE of CHEMICAL_PHYSICS, CHINESE_ACADEMY \
+of sciences
+```
+
+--
+
+Record-No: 106
+Citations: 30
+Record-ID: Xu L, 2021, MATER CHEM FRONT, V5, P1315
+Title: boosting the IONIC_CONDUCTIVITY of PEO_ELECTROLYTES by WASTE_EGGSHELL \
+derived FILLERS for high performance solid LITHIUM/sodium batteries
+Abstract:
+```
+POLY(ETHYLENE_OXIDE) (peo) based POLYMER_ELECTROLYTES are extensively \
+investigated, and they have rapidly developed in \
+ALL_SOLID_STATE_BATTERIES (assbs) over RECENT_YEARS for their \
+GOOD_INTERFACE_CONTACT with electrodes, easy shaping and \
+DECENT_FLEXIBILITY. however, their LOW_IONIC_CONDUCTIVITY remains a \
+SERIOUS_ISSUE to be solved urgently. researchers have found that the \
+addition of FILLERS can improve the ionic conductivityviacreating more \
+AMORPHOUS_REGIONS_CONDUCIVE to ION_TRANSPORT in peo. here, we adopted \
+WASTE_EGGSHELL as a precursor to prepare a sub micron filler, which is \
+mainly cao, and it was added into the PEO_ELECTROLYTE to get a \
+COMPOSITE_POLYMER_ELECTROLYTE. close contactvialewis base acid \
+interaction between cao and peo can be obtained, as cao is an \
+EFFECTIVE_FILLER with STRONG_ALKALINITY. to the best of our knowledge, \
+this is the first time it is applied in the PEO_ELECTROLYTE. the filler \
+significantly decreases the CRYSTALLINITY of peo, and hence, boosted \
+IONIC_CONDUCTIVITY of the COMPOSITE_POLYMER_ELECTROLYTE is observed, \
+which is about 4.5 times higher than that of the \
+POLYMER_REFERENCE_ELECTROLYTE. it additionally brings a higher \
+TENSILE_STRENGTH along with a more STABLE_ELECTROCHEMICAL_WINDOW (up to 5 \
+v) to the COMPOSITE_ELECTROLYTE. therefore, as expected, the all solid \
+state li/na battery with this COMPOSITE_ELECTROLYTE_EXHIBITS long cycling \
+life and EXCELLENT_RATE_PERFORMANCES. the corresponding li/lifeo4battery \
+has a STABLE_CAPACITY of 142.8 ma h g1at 1c after 200 cycles, and the \
+corresponding solid state na/na3v2(po4)3battery gives a \
+REVERSIBLE_CAPACITY of 101.2 ma h g1at 0.5c after 100 cycles.  the \
+PARTNER_ORGANISATIONS 2020.
+```
+
+--
+
+Record-No: 211
+Citations: 27
+Record-ID: Barrett DH, 2020, CURR OPIN  ELECTROCHEM, V21, P160
+Title: ARTIFICIAL_INTELLIGENCE and MACHINE_LEARNING for targeted \
+ENERGY_STORAGE_SOLUTIONS
+Abstract:
+```
+with the application of MACHINE_LEARNING to large material data sets, \
+models are being developed that allow us to better predict \
+NOVEL_MATERIALS with designed properties. advances in \
+ARTIFICIAL_INTELLIGENCE and its subclasses, as well as \
+COMPUTE_INFRASTRUCTURE, are making it possible to rapidly \
+COMPUTE_MATERIAL_PROPERTIES, to access time/length scales and \
+CHEMICAL_SPACES beyond the CURRENT_CAPABILITIES of density \
+FUNCTIONAL_THEORY and to OUTPERFORM_HUMANS in interpretation and \
+characterization of the data. this REVIEW_HIGHLIGHTS the latest \
+developments in the field with SPECIAL_INTEREST to \
+ENERGY_STORAGE_MATERIALS.  2020 elsevier b.v.
+```
+
+--
+
+Record-No: 239
+Citations: 24
+Record-ID: Liu Y/8, 2022, J ENERGY STORAGE, V52
+Title: a review of LITHIUM_ION_BATTERY STATE_OF_CHARGE_ESTIMATION based on \
+DEEP_LEARNING: directions for improvement and FUTURE_TRENDS
+Abstract:
+```
+with the RAPID_GROWTH in productivity, the need for fossil has increased, \
+spurring RESEARCH_AND_DEVELOPMENT of NEW_ENERGY_SOURCES. in the \
+AUTOMOTIVE_INDUSTRY, the development of green car has made \
+GREAT_ACHIEVEMENTS on the way to promoting CLIMATE_CHANGE and \
+GREEN_DEVELOPMENT. and battery only ELECTRIC_VEHICLES will be the \
+mainstream of the FUTURE_AUTOMOTIVE_INDUSTRY. for ELECTRIC_VEHICLES, \
+LITHIUM_ION_BATTERIES are now the DOMINANT_ENERGY_SYSTEM. by monitoring \
+and maintaining them through a BATTERY_MANAGEMENT_SYSTEM (bms), the \
+safety and reliability of ELECTRIC_VEHICLE_OPERATION can be ensured. the \
+STATE_OF_CHARGE (soc) represents the remaining charge of the battery and \
+is an IMPORTANT_PARAMETER in bms. it also assesses the stamina of the \
+ELECTRIC_VEHICLE. in particular, due to the development of DEEP_LEARNING \
+in other areas such as IMAGE_PROCESSING, AUTOMATIC_SPEECH_RECOGNITION, \
+NATURAL_LANGUAGE_PROCESSING, etc. DEEP_NEURAL_NETWORKS have been widely \
+used in the field of BATTERY_STATE_ESTIMATION. according to the \
+RELEVANT_WORK, this REVIEW_CLASSIFIES RECENT_STATE of \
+CHARGE_ESTIMATION_METHODS based on DEEP_LEARNING into structured \
+adjustment and unstructured improvement. trends in the application of \
+NETWORK_STRUCTURES over time are shown in the article. \
+VARIOUS_KEY_IMPLEMENTATION_FACTORS of DEEP_NEURAL_NETWORK_METHODS are \
+also reviewed in terms of feature engineering, DATA_AUGMENTATION, \
+LEARNING_RATE_STRATEGIES, OPTIMIZATION_FUNCTIONS and optimal hyper \
+parameters. in addition, the theory and KEY_TECHNIQUES of existing \
+methods are also reviewed. the results of the ESTIMATION_METHODS are \
+analyzed and summarized. finally, the REVIEW_DISCUSSES_POTENTIAL \
+FUTURE_DIRECTIONS for LITHIUM_ION_BATTERY STATE_OF_CHARGE_ESTIMATION \
+methods in ELECTRIC_VEHICLES.  2022 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 242
+Citations: 22
+Record-ID: Manoharan A, 2022, J ENERGY STORAGE, V55
+Title: ARTIFICIAL_NEURAL_NETWORKS, GRADIENT_BOOSTING and SUPPORT_VECTOR_MACHINES \
+for ELECTRIC_VEHICLE_BATTERY_STATE_ESTIMATION: a review
+Abstract:
+```
+in RECENT_YEARS, ARTIFICIAL_INTELLIGENCE has been widely used for \
+determining the CURRENT_STATE of LI_ION_BATTERIES used for \
+ELECTRIC_VEHICLE_APPLICATIONS. it is crucial to have an \
+ACCURATE_BATTERY_STATE_ESTIMATION to prevent OVER_CHARGING/over \
+discharging of LI_ION_BATTERIES, which would contribute to increased \
+lifetime, thus reducing the running costs of ELECTRIC_VEHICLES. this \
+REVIEW_PAPER_FOCUSES on some of the commonly proposed \
+ARTIFICIAL_INTELLIGENCE data driven based STATE_OF_CHARGE and \
+STATE_OF_HEALTH estimation that has not been covered in much detail \
+previously. the RECENT_WORKS indexed under web of science that used \
+SUPPORT_VECTOR_MACHINES, GRADIENT_BOOSTING and ARTIFICIAL_NEURAL_NETWORKS \
+(with a DEEP_INSIGHT on the use of RECURRENT_ARCHITECTURES) for \
+BATTERY_STATE_ESTIMATION are reviewed. a handful of RECENT_WORKS that \
+implemented their proposed BATTERY_STATE_ESTIMATION_ALGORITHM on a \
+HARDWARE_PROTOTYPE is also discussed, along with the CURRENT challenges \
+faced in implementation. since VARIOUS_INPUT features have been suggested \
+for STATE_OF_CHARGE and STATE_OF_HEALTH estimation in the \
+RECENT_LITERATURE, a detailed analysis is presented in this paper. \
+KEY_OBSERVATIONS with RESEARCH_GAPS are made from the reviewed \
+literature, with identification of major challenges. \
+FUTURE_RESEARCH_PATHS are deduced, with the goal of increasing the \
+feasibility of implementing ARTIFICIAL_INTELLIGENCE based \
+BATTERY_STATE_ESTIMATION in ELECTRIC_VEHICLES.  2022
+```
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+Deep learning, an advanced subset of machine learning, is progressively being integrated into ensuring the reliability and health of batteries, especially lithium-ion batteries [168]. Deep learning, known for its adeptness in nonlinear modeling and representation learning, facilitates precise estimations of battery health [168]. Lithium-ion batteries, which fall under the category of secondary batteries, are the cornerstone of energy storage systems and play a pivotal role in powering electric and hybrid vehicles [58]. Such vehicles predominantly utilize lithium-ion batteries due to their superior energy densities and various other benefits [104].
+
+The consistent and reliable functioning of these batteries is of utmost importance. In order to maintain their efficiency, it's essential to precisely predict their lifespan and the remaining usable energy they can provide [156]. Cutting-edge methodologies, grounded in deep learning, offer significant insights into determining a battery's State of Charge (SOC) and its holistic health condition [168]. An accurate SOC estimation is fundamental for the development of sophisticated battery management systems and the establishment of effective charging strategies [130].
+
+The global inclination towards electric and hybrid vehicles is not merely a consequence of technological advancements but also stems from pressing environmental concerns. The transportation sector significantly contributes to greenhouse gas emissions and is responsible for a major fraction of worldwide energy consumption [184]. In light of stringent emission standards and the global commitment to reduce greenhouse gases, the focus has shifted towards environmentally friendly solutions. Electric and hybrid vehicles stand out as potential answers to this challenge. They drastically reduce the reliance on fossil fuels, consequently diminishing greenhouse gas emissions [175]. Therefore, advanced battery management systems, powered by deep learning techniques, can make a substantial impact on the battle against climate change [104]. By enhancing vehicle dependability, these systems promote the widespread acceptance of electric and hybrid vehicles, strengthening our dedication to a sustainable future [175].
+>>>
+
+
+Here are the records:
+
+
+Record-No: 201
+Citations: 19
+Record-ID: Mao J, 2021, CHIN J CHEM ENG, V37, P1
+Title: MACHINE_LEARNING of MATERIALS_DESIGN and STATE_PREDICTION for \
+LITHIUM_ION_BATTERIES
+Abstract:
+```
+with the WIDESPREAD_USE of LITHIUM_ION_BATTERIES in PORTABLE_ELECTRONICS \
+and ELECTRIC_VEHICLES, further improvements in the performance of \
+LITHIUM_ION_BATTERY_MATERIALS and ACCURATE_PREDICTION of BATTERY_STATE \
+are of increasing interest to BATTERY_RESEARCHERS. MACHINE_LEARNING, one \
+of the CORE_TECHNOLOGIES of ARTIFICIAL_INTELLIGENCE, is rapidly changing \
+many fields with its ability to learn from HISTORICAL_DATA and solve \
+COMPLEX_TASKS, and it has emerged as a NEW_TECHNIQUE for solving \
+CURRENT_RESEARCH_PROBLEMS in the field of LITHIUM_ION_BATTERIES. this \
+review begins with the introduction of the CONCEPTUAL_FRAMEWORK of \
+MACHINE_LEARNING and the GENERAL_PROCESS of its application, then reviews \
+some of the progress made by MACHINE_LEARNING in both improving \
+BATTERY_MATERIALS_DESIGN and ACCURATE_PREDICTION of BATTERY_STATE, and \
+finally points out the CURRENT_APPLICATION_PROBLEMS of MACHINE_LEARNING \
+and FUTURE_RESEARCH_DIRECTIONS. it is believed that the use of \
+MACHINE_LEARNING will further promote the large scale application and \
+improvement of LITHIUM_ION_BATTERIES.  2021 the CHEMICAL_INDUSTRY and \
+ENGINEERING_SOCIETY of china, and CHEMICAL_INDUSTRY_PRESS_CO., ltd
+```
+
+--
+
+Record-No: 244
+Citations: 15
+Record-ID: Sendek AD, 2022, ADV ENERGY MATER, V12
+Title: MACHINE_LEARNING modeling for accelerated BATTERY_MATERIALS_DESIGN in the \
+SMALL_DATA_REGIME
+Abstract:
+```
+MACHINE_LEARNING (ml) based approaches to BATTERY_DESIGN are relatively \
+new but demonstrate significant promise for accelerating the timeline for \
+NEW_MATERIALS_DISCOVERY, PROCESS_OPTIMIZATION, and \
+CELL_LIFETIME_PREDICTION. BATTERY_MODELING represents an interesting and \
+UNCONVENTIONAL_APPLICATION_AREA for ml, as datasets are often small but \
+some degree of PHYSICAL_UNDERSTANDING of the underlying processes may \
+exist. this REVIEW_ARTICLE provides discussion and analysis of several \
+important and increasingly COMMON_QUESTIONS: how ml based \
+BATTERY_MODELING works, how much DATA are required, how to \
+JUDGE_MODEL_PERFORMANCE, and recommendations for building models in the \
+SMALL_DATA_REGIME. this article begins with an introduction to ml in \
+general, highlighting several IMPORTANT_CONCEPTS for \
+SMALL_DATA_APPLICATIONS. PREVIOUS_IONIC_CONDUCTIVITY modeling efforts are \
+discussed in depth as a CASE_STUDY to illustrate these modeling concepts. \
+finally, an overview of modeling efforts in MAJOR_AREAS of BATTERY_DESIGN \
+is provided and several areas for PROMISING_FUTURE_EFFORTS are \
+identified, within the context of TYPICAL_SMALL_DATA_CONSTRAINTS.  2022 \
+wiley vch gmbh.
+```
+
+--
+
+Record-No: 232
+Citations: 15
+Record-ID: Wu H, 2022, CHEM ENG J, V428
+Title: MULTIDIMENSIONAL_NANOBOX_STRUCTURAL_CARBON_NANOFIBERS with \
+DUAL_CONFINED_EFFECT for boosting STORAGE_PERFORMANCE and \
+ELECTROCHEMICAL_KINETICS of ALKALI_METAL_ION_BATTERIES
+Abstract:
+```
+nanobox structural fe7s8/mos2 CARBON_NANOFIBERS (nb fe7s8/mos2 cnfs) are \
+synthesized by the process of electrospinning sulfuration hydrothermal, \
+which construct a MULTIDIMENSIONAL_STRUCTURE with 0d nanoparticles, 1d \
+nanofibers, 2d nanosheets and 3d cross link networks. nb fe7s8/mos2 cnfs \
+display the SPECIAL_DUAL confined effects, which are the space and \
+INTERFACE_CONFINEMENT, respectively. benefiting from the advantage of \
+MULTIDIMENSIONAL_STRUCTURE, nb fe7s8/mos2 cnfs exhibit \
+REMARKABLE_POTASSIUM_STORAGE_CAPABILITY and stable long cycle (~204.5 ma \
+h g1 at 1 a g1 after 500 cycles). the STRUCTURE_EVOLUTION of nb \
+fe7s8/mos2 cnfs in POTASSIUM_ION_BATTERIES (pibs) are explored by ex situ \
+methods, which confirm that DUAL_CONFINED_EFFECT can alleviate the \
+VOLUME_EXPANSION effectively. integrating the merits of \
+MULTIDIMENSIONAL_STRUCTURE and dual confined effects, nb fe7s8/mos2 cnfs \
+anode also manifests an OUTSTANDING_REVERSIBILITY and \
+LONG_CYCLIC_STABILITY of LITHIUM_ION_BATTERIES (libs) (~772 ma h g1 at 1 \
+a g1 after 500 cycles) and SODIUM_ION_BATTERIES (sibs) (~368.3 ma h g1 at \
+1 a g1 after 500 cycles). additionally, the KINETIC_PROPERTIES have been \
+studied, which explain the DIFFERENT_ION_MIGRATION_LAWS of \
+ALKALI_METAL_ION_BATTERIES. the DENSITY_FUNCTION_THEORY (dft) calculation \
+further verifies that HETEROGENEOUS_INTERFACES can greatly reduce the \
+MIGRATION_ENERGY_BARRIER. therefore, this work provides a strategy of \
+DUAL_CONFINED_EFFECT to understand the mechanism and KINETICS of \
+ALKALI_METAL_ION_BATTERIES.  2021 elsevier b.v.
+```
+
+--
+
+Record-No: 228
+Citations: 13
+Record-ID: Luo Z, 2020, FRONT ENERGY RES, V8
+Title: a survey of ARTIFICIAL_INTELLIGENCE_TECHNIQUES applied in \
+ENERGY_STORAGE_MATERIALS_R&d
+Abstract:
+```
+ENERGY_SHORTAGE is a SEVERE_CHALLENGE_NOWADAYS. it has affected the \
+development of NEW_ENERGY_SOURCES. ARTIFICIAL_INTELLIGENCE (ai), such as \
+learning and analyzing, has been widely used for VARIOUS_ADVANTAGES. it \
+has been successfully applied to predict materials, especially \
+ENERGY_STORAGE_MATERIALS. in this paper, we present a survey of the \
+PRESENT_STATUS of ai in ENERGY_STORAGE_MATERIALS via capacitors and li \
+ion batteries. we picture the COMPREHENSIVE_PROGRESS of ai in \
+ENERGY_STORAGE_MATERIALS, including the advantages and disadvantages of \
+MATERIAL_DATA to SUPPORT_AI. finally, we provide some ideas to solve \
+those challenges.  copyright  2020 luo, yang, wang, liu, liu, zhu, huang, \
+zhang, dou, xu, tian, xu, zhang, hu and deng.
+```
+
+--
+
+Record-No: 212
+Citations: 13
+Record-ID: Sharma P, 2023, BATTERIES, V9
+Title: a review of MODERN_MACHINE_LEARNING_TECHNIQUES in the prediction of \
+REMAINING_USEFUL_LIFE of LITHIUM_ION_BATTERIES
+Abstract:
+```
+the INTENSE_INCREASE in AIR_POLLUTION caused by VEHICULAR_EMISSIONS is \
+one of the MAIN_CAUSES of changing WEATHER_PATTERNS and deteriorating \
+HEALTH_CONDITIONS. furthermore, RENEWABLE_ENERGY_SOURCES, such as solar, \
+wind, and biofuels, suffer from weather and supply chain related \
+uncertainties. the ELECTRIC_VEHICLES powered energy, stored in a BATTERY, \
+offers an ATTRACTIVE_OPTION to overcome emissions and uncertainties to a \
+CERTAIN_EXTENT. the development and implementation of cutting edge \
+ELECTRIC_VEHICLES (evs) with LONG_DRIVING ranges, safety, and higher \
+reliability have been identified as critical to decarbonizing the \
+TRANSPORTATION_SECTOR. nonetheless, capacity deteriorating with time and \
+usage, ENVIRONMENTAL_DEGRADATION_FACTORS, and end of life repurposing \
+pose significant challenges to the usage of LITHIUM_ION_BATTERIES. in \
+this aspect, determining a batterys remaining USABLE_LIFE (rul) \
+establishes its efficacy. it also aids in the testing and development of \
+VARIOUS_EV_UPGRADES by identifying factors that will increase and improve \
+their efficiency. several nonlinear and complicated parameters are \
+involved in the process. MACHINE_LEARNING (ml) methodologies have proven \
+to be a PROMISING_TOOL for optimizing and modeling engineering challenges \
+in this domain (non linearity and complexity). in contrast to the \
+scalability and TEMPORAL_LIMITS of BATTERY_DEGENERATION, ML_TECHNIQUES \
+provide a non invasive solution with EXCELLENT_ACCURACY and \
+MINIMAL_PROCESSING. based on RECENT_RESEARCH, this study presents an \
+objective and COMPREHENSIVE_EVALUATION of these challenges. \
+RUL_ESTIMATIONS are explained in detail, including examples of its \
+approach and applicability. furthermore, many ML_TECHNIQUES for \
+RUL_EVALUATION are thoroughly and individually studied. finally, an \
+application focused overview is offered, emphasizing the advantages in \
+terms of efficiency and accuracy.  2022 by the authors.
+```
+
+--
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 31
+Record-No: 286
+Citations: 12
+Record-ID: Paramasivan SK, 2021, REV INTELL ARTIF, V35, P1
+Title: DEEP_LEARNING based RECURRENT_NEURAL_NETWORKS to enhance the performance \
+of wind energy forecasting: a review
+Abstract:
+```
+in the MODERN_ERA, DEEP_LEARNING is a POWERFUL_TECHNIQUE in the field of \
+wind energy forecasting. the DEEP_NEURAL_NETWORK effectively handles the \
+SEASONAL_VARIATION and UNCERTAINTY_CHARACTERISTICS of WIND_SPEED by \
+PROPER_STRUCTURAL_DESIGN, OBJECTIVE_FUNCTION_OPTIMIZATION, and feature \
+learning. the PRESENT_PAPER_FOCUSES on the CRITICAL_ANALYSIS of wind \
+energy forecasting using DEEP_LEARNING based RECURRENT_NEURAL_NETWORKS \
+(rnn) models. it EXPLORES_RNN and its variants, such as SIMPLE_RNN, \
+LONG_SHORT_TERM_MEMORY (lstm), GATED_RECURRENT_UNIT (gru), and \
+BIDIRECTIONAL_RNN_MODELS. the RECURRENT_NEURAL_NETWORK_PROCESSES the \
+INPUT_TIME_SERIES_DATA sequentially and captures well the \
+TEMPORAL_DEPENDENCIES exist in the SUCCESSIVE_INPUT_DATA. this \
+REVIEW_INVESTIGATES the RNN_MODELS of wind energy forecasting, the \
+DATA_SOURCES utilized, and the performance achieved in terms of the \
+ERROR_MEASURES. the OVERALL_REVIEW_SHOWS that the DEEP_LEARNING based \
+RNN_IMPROVES the performance of wind energy forecasting compared to the \
+CONVENTIONAL_TECHNIQUES.  2021 lavoisier. all rights reserved.
+```
+
+--
+
+##: 32
+Record-No: 264
+Citations: 11
+Record-ID: Liu K/4, 2023, ADV APPL ENERGY, V9
+Title: TRANSFER_LEARNING for BATTERY_SMARTER_STATE_ESTIMATION and \
+AGEING_PROGNOSTICS: RECENT_PROGRESS, challenges, and prospects
+Abstract:
+```
+with the advent of sustainable and CLEAN_ENERGY_TRANSITIONS, lithium ion \
+batteries have become one of the most IMPORTANT_ENERGY_STORAGE_SOURCES \
+for many applications. BATTERY_MANAGEMENT is of UTMOST_IMPORTANCE for the \
+safe, efficient, and long lasting operation of lithium ion batteries. \
+however, the frequently changing load and operating conditions, the \
+DIFFERENT_CELL_CHEMISTRIES and formats, and the complicated \
+DEGRADATION_PATTERNS_POSE challenges for TRADITIONAL_BATTERY_MANAGEMENT. \
+the data driven solutions that have emerged in RECENT_YEARS offer \
+GREAT_OPPORTUNITIES to uncover the underlying data mapping within a \
+BATTERY_SYSTEM. in particular, TRANSFER_LEARNING improves the performance \
+of data driven strategies by transferring existing knowledge from \
+different but related domains, and if properly applied, would be a \
+PROMISING_APPROACH for SMARTER_BATTERY_MANAGEMENT. to this end, this \
+paper presents a SYSTEMATIC_REVIEW for the applications of \
+TRANSFER_LEARNING in the field of BATTERY_MANAGEMENT for the first time, \
+with PARTICULAR_FOCUSES on BATTERY_STATE_ESTIMATION and \
+AGEING_PROGNOSTICS. specifically, the GENERAL_ISSUES faced by \
+CONVENTIONAL_BATTERY_MANAGEMENT are identified and the applications of \
+TRANSFER_LEARNING to these issues are summarized. then, the specific \
+challenges of each topic are identified and the POTENTIAL_SOLUTIONS based \
+on TRANSFER_LEARNING are explained, followed by a discussion of the state \
+of the art in terms of principles, ALGORITHM_FRAMEWORKS, advantages and \
+disadvantages. finally, FUTURE_TRENDS of data driven BATTERY_MANAGEMENT \
+with TRANSFER_LEARNING are discussed in terms of key challenges and \
+PROMISING_OPPORTUNITIES.  2022 the author(s)
+```
+
+--
+
+##: 33
+Record-No: 202
+Citations: 10
+Record-ID: Hossain Lipu MS, 2022, J ENERGY STORAGE, V55
+Title: DEEP_LEARNING enabled STATE_OF_CHARGE, STATE_OF_HEALTH and \
+REMAINING_USEFUL_LIFE estimation for SMART_BATTERY_MANAGEMENT_SYSTEM: \
+methods, implementations, issues and prospects
+Abstract:
+```
+STATE_OF_CHARGE (soc), STATE_OF_HEALTH (soh), and REMAINING_USEFUL_LIFE \
+(rul) are the CRUCIAL_INDEXES used in the assessment of ELECTRIC_VEHICLE \
+(ev) BATTERY_MANAGEMENT_SYSTEMS (bms). the performance and efficiency of \
+evs are subject to the PRECISE_ESTIMATION of soc, soh, and rul in bms \
+which enhances the BATTERY_RELIABILITY, safety, and longevity. however, \
+the estimation of soc, soh, and rul is challenging due to the \
+BATTERY_CAPACITY_DEGRADATION and varying ENVIRONMENTAL_CONDITIONS. \
+recently, DEEP_LEARNING (dl) has received wide attention for BATTERY_SOC, \
+soh, and RUL_ESTIMATION due to the accessibility of a VAST_AMOUNT of \
+data, LARGE_STORAGE_VOLUME, and powerful computing processors. \
+nevertheless, the application of dl in soc, soh, and RUL_ESTIMATION for \
+evs is still limited. therefore, the novelty of this paper is to deliver \
+a COMPREHENSIVE_REVIEW of dl enabled soc, soh, and RUL_ESTIMATION for \
+bms, focusing on methods, implementations, strengths, weaknesses, issues, \
+accuracy, and contributions. moreover, this STUDY_EXPLORES the \
+NUMEROUS_IMPORTANT_IMPLEMENTATION_FACTORS of DL_METHODS concerning \
+DATA_TYPE, features, size, preprocessing, ALGORITHM_OPERATION, functions, \
+HYPERPARAMETER_ADJUSTMENTS, and PERFORMANCE_EVALUATION. additionally, the \
+REVIEW_EXPLORES VARIOUS_LIMITATIONS and challenges of dl in bms related \
+to battery, algorithm, and OPERATIONAL_ISSUES. finally, \
+FUTURE_OPPORTUNITIES and prospects are delivered that would support the \
+EV_ENGINEERS and AUTOMOTIVE_INDUSTRIES to establish an accurate and \
+robust dl based soc, soh, and RUL_ESTIMATION_TECHNIQUE towards SMART_BMS \
+in FUTURE_SUSTAINABLE_EV_APPLICATIONS.  2022 ELSEVIER_LTD
+```
+
+--
+
+##: 34
+Record-No: 254
+Citations: 10
+Record-ID: Yuan J, 2020, APL MATER, V8
+Title: RECENT_ADVANCES on VISIBLE_LIGHT_DRIVEN co2reduction: strategies for \
+boosting SOLAR_ENERGY_TRANSFORMATION
+Abstract:
+```
+the MASSIVE_EMISSION of GREENHOUSE_GAS_CARBON_DIOXIDE (co2) has attracted \
+GREAT_ATTENTION due to its impact on GLOBAL_WARMING. researchers have \
+been working on this project for a LONG_TIME and found that \
+photocatalytic co2 reduction has shown GREAT_POTENTIAL in developing cost \
+effective CLEAN_ENERGY_RESOURCES. however, the efficiency of co2 \
+PHOTO_REDUCTION is low because of limited LIGHT_ABSORPTION_EFFICIENCY, \
+undesired CHARGE_RECOMBINATION, and high co2 activation barrier in \
+THERMODYNAMICS_AND_KINETICS. in this perspective, we concentrate on \
+recent advanced strategies to improve co2 PHOTO_REDUCTION and illustrate \
+the mechanism of co2 activation and we intend to find the most \
+PLAUSIBLE_STRATEGY on solving the problems listed. the \
+MAINSTREAM_APPROACHES for boosting co2 PHOTO_REDUCTION efficiency lie in \
+(1) tuning the bandgap of the PHOTOCATALYSTS by incorporating heteroatoms \
+in a photosensitizer causing enhanced LIGHT_ABSORPTION; (2) constructing \
+HETEROJUNCTIONS resulting in EFFECTIVE_CHARGE_SEPARATION; and (3) \
+introducing SURFACE_DEFECTS, BASIC_SITES, and FUNCTIONAL_GROUPS, as well \
+as increasing the SURFACE_AREA of catalysts contributing to enhanced co2 \
+adsorption and activation. moreover, this perspective will conclude with \
+BRIEF_PERSPECTIVES and recommendations regarding the PROMISING_RESEARCH \
+of converting co2 into valuable fuels.   2020 author(s).
+```
+
+--
+
+##: 35
+Record-No: 324
+Citations: 9
+Record-ID: Wei M, 2022, PROC INST MECH ENG PART D J A, V236, P241
+Title: STATE_OF_CHARGE_ESTIMATION for lithium ion batteries using dynamic neural \
+network based on SINE_COSINE_ALGORITHM
+Abstract:
+```
+STATE_OF_CHARGE (soc) of the lithium ion batteries is one of the key \
+parameters of the BATTERY_MANAGEMENT_SYSTEM, which the PERFORMANCE of \
+SOC_ESTIMATION_GUARANTEES_ENERGY_MANAGEMENT_EFFICIENCY and endurance \
+mileage of electric vehicles. however, ACCURATE_SOC_ESTIMATION is a \
+difficult problem owing to complex chemical reactions and nonlinear \
+battery characteristics. in this paper, the method of the dynamic neural \
+network is used to estimate the soc of the lithium ion batteries, which \
+is improved based on the classic close loop nonlinear auto regressive \
+models with exogenous input neural network (narxnn) model, and the open \
+loop narxnn model considering expected output is proposed. since the \
+input delay, feedback delay, and hidden layer of the dynamic neural \
+network are usually selected by empirically, which affects the estimation \
+PERFORMANCE of the dynamic neural network. to cover this weakness, \
+SINE_COSINE_ALGORITHM (sca) is used for global optimal dynamic neural \
+network parameters. then, the experimental results are verified to obtain \
+the effectiveness and robustness of the proposed method under different \
+conditions. finally, the dynamic neural network based on sca is compared \
+with unscented kalman filter (ukf), back PROPAGATION_NEURAL_NETWORK based \
+on particle swarm optimization (bpnn pso), least squares support vector \
+machine (ls svm), and gaussian process regression (gpr), the results show \
+that the proposed dynamic neural network based on sca is superior to \
+other methods.  imeche 2021.
+```
+
+--
+
+##: 36
+Record-No: 348
+Citations: 5
+Record-ID: Ren Z, 2023, ENERGY REP, V9, P2993
+Title: a review of MACHINE_LEARNING STATE_OF_CHARGE and STATE_OF_HEALTH \
+estimation algorithms for LITHIUM_ION_BATTERIES
+Abstract:
+```
+VEHICLE_ELECTRIFICATION has been proven to be an EFFICIENT_WAY to reduce \
+CARBON_DIOXIDE_EMISSIONS and solve the ENERGY_CRISIS. \
+LITHIUM_ION_BATTERIES (libs) are considered the \
+DOMINANT_ENERGY_STORAGE_MEDIUM for ELECTRIC_VEHICLES (evs) owing to their \
+HIGH_ENERGY_DENSITY and LONG_LIFESPAN. to maintain a safe, efficient, and \
+stable operating condition for the BATTERY_SYSTEM, we must monitor the \
+state of the battery, especially the STATE_OF_CHARGE (soc) and \
+STATE_OF_HEALTH (soh). with the development of BIG_DATA, cloud computing, \
+and other emerging techniques, data driven MACHINE_LEARNING (ml) \
+techniques have attracted attention for their ENORMOUS_POTENTIAL in \
+STATE_ESTIMATION for libs. therefore, this PAPER_REVIEWS the four most \
+studied types of ML_ALGORITHMS for soc and SOH_ESTIMATION, including \
+SHALLOW_NEURAL_NETWORK (nn), DEEP_LEARNING (dl), SUPPORT_VECTOR_MACHINE \
+(svm), and GAUSSIAN_PROCESS_REGRESSION (gpr) methods. the \
+BASIC_PRINCIPLES and UNIFORM_FLOWCHARTS of DIFFERENT_ML_ALGORITHMS are \
+introduced. then, the applications of each ML_ALGORITHM for \
+STATE_ESTIMATION within RECENT_YEARS are comprehensively reviewed and \
+compared in terms of used datasets, input features, \
+HYPERPARAMETER_SELECTION, PERFORMANCE_METRICS, advantages, and \
+disadvantages. based on the investigation, this REVIEW_DISCUSSES the \
+current challenges and prospects from four aspects, aiming to provide \
+some inspiration for developing advanced ML_STATE_ESTIMATION_ALGORITHMS. \
+2023 the authors
+```
+
+--
+
+##: 37
+Record-No: 329
+Citations: 4
+Record-ID: Hossain Lipu MS, 2023, ENERGIES, V16
+Title: INTELLIGENT_SOX_ESTIMATION for AUTOMOTIVE_BATTERY_MANAGEMENT_SYSTEMS: \
+state of the art DEEP_LEARNING approaches, open issues, and \
+FUTURE_RESEARCH_OPPORTUNITIES
+Abstract:
+```
+REAL_TIME BATTERY_SOX_ESTIMATION including the STATE_OF_CHARGE (soc), \
+STATE_OF_ENERGY (soe), and STATE_OF_HEALTH (soh) is the \
+CRUCIAL_EVALUATION_INDICATOR to assess the performance of \
+AUTOMOTIVE_BATTERY_MANAGEMENT_SYSTEMS (bmss). recently, \
+INTELLIGENT_MODELS in terms of DEEP_LEARNING (dl) have received \
+MASSIVE_ATTENTION in ELECTRIC_VEHICLE (ev) BMS_APPLICATIONS due to their \
+improved GENERALIZATION_PERFORMANCE and STRONG_COMPUTATION_CAPABILITY to \
+work under DIFFERENT_CONDITIONS. however, estimation of accurate and \
+ROBUST_SOC, soh, and soe in REAL_TIME is challenging since they are \
+INTERNAL_BATTERY_PARAMETERS and depend on the BATTERYS_MATERIALS, \
+CHEMICAL_REACTIONS, and aging as well as \
+ENVIRONMENTAL_TEMPERATURE_SETTINGS. therefore, the goal of this review is \
+to present a COMPREHENSIVE_EXPLANATION of VARIOUS_DL_APPROACHES for \
+BATTERY_SOX_ESTIMATION, highlighting features, configurations, datasets, \
+BATTERY_CHEMISTRIES, targets, results, and contributions. \
+VARIOUS_DL_METHODS are critically discussed, outlining advantages, \
+disadvantages, and RESEARCH_GAPS. in addition, various open challenges, \
+issues, and concerns are investigated to identify existing concerns, \
+limitations, and challenges. finally, FUTURE_SUGGESTIONS and guidelines \
+are delivered toward accurate and ROBUST_SOX_ESTIMATION for \
+SUSTAINABLE_OPERATION and management in EV_OPERATION.  2022 by the \
+authors.
+```
+
+--
+
+##: 38
+Record-No: 307
+Citations: 4
+Record-ID: Mai H, 2022, ADV SCI, V9
+Title: MACHINE_LEARNING in the development of adsorbents for \
+CLEAN_ENERGY_APPLICATION and GREENHOUSE_GAS capture
+Abstract:
+```
+addressing CLIMATE_CHANGE challenges by reducing GREENHOUSE_GAS_LEVELS \
+requires INNOVATIVE_ADSORBENT_MATERIALS for CLEAN_ENERGY_APPLICATIONS. \
+RECENT_PROGRESS in MACHINE_LEARNING has stimulated \
+TECHNOLOGICAL_BREAKTHROUGHS in the discovery, design, and deployment of \
+materials with potential for high performance and low cost \
+CLEAN_ENERGY_APPLICATIONS. this REVIEW_SUMMARIZES \
+BASIC_MACHINE_LEARNING_METHODSDATA_COLLECTION, featurization, \
+MODEL_GENERATION, and MODEL_EVALUATIONAND_REVIEWS their use in the \
+development of ROBUST_ADSORBENT_MATERIALS. KEY_CASE_STUDIES are provided \
+where these methods are used to ACCELERATE_ADSORBENT_MATERIALS_DESIGN and \
+discovery, OPTIMIZE_SYNTHESIS_CONDITIONS, and understand \
+COMPLEX_FEATUREPROPERTY_RELATIONSHIPS. the review provides a \
+CONCISE_RESOURCE for researchers wishing to use MACHINE_LEARNING_METHODS \
+to rapidly develop EFFECTIVE_ADSORBENT_MATERIALS with a POSITIVE_IMPACT \
+on the environment.  2022 the authors. advanced science published by \
+wiley vch gmbh.
+```
+
+--
+
+##: 39
+Record-No: 362
+Citations: 4
+Record-ID: Zhang D/1, 2022, MACH, V10
+Title: DEEP_LEARNING in the state of CHARGE_ESTIMATION for li ion batteries of \
+ELECTRIC_VEHICLES: a REVIEW
+Abstract:
+```
+as one of the CRITICAL_STATE_PARAMETERS of the BATTERY_MANAGEMENT_SYSTEM, \
+the state of charge (soc) of LITHIUM_BATTERIES can provide an \
+ESSENTIAL_REFERENCE for BATTERY_SAFETY_MANAGEMENT, charge/discharge \
+control, and the ENERGY_MANAGEMENT of ELECTRIC_VEHICLES (evs). to analyze \
+the application of DEEP_LEARNING in \
+ELECTRIC_VEHICLES_POWER_BATTERY_SOC_ESTIMATION, this study reviewed the \
+TECHNICAL_PROCESS, COMMON_PUBLIC_DATASETS, and the NEURAL_NETWORKS used, \
+as well as the STRUCTURAL_CHARACTERISTICS and advantages and \
+disadvantages of LITHIUM_BATTERY_SOC_ESTIMATION in DEEP_LEARNING_METHODS. \
+first, the SPECIFIC_TECHNICAL_PROCESSES of the DEEP_LEARNING_METHOD for \
+SOC_ESTIMATION were analyzed, including DATA_COLLECTION, data \
+preprocessing, feature engineering, MODEL_TRAINING, and MODEL_EVALUATION. \
+second, the current commonly and publicly used LITHIUM_BATTERY_DATASET \
+was summarized. then, the INPUT_VARIABLES, data sets, errors, and \
+advantages and disadvantages of three types of DEEP_LEARNING_METHODS were \
+obtained using the structure of the NEURAL_NETWORK used for training as \
+the CLASSIFICATION_CRITERION; further, the selection of the \
+DEEP_LEARNING_STRUCTURE for SOC_ESTIMATION was discussed. finally, the \
+challenges and FUTURE_DEVELOPMENT_DIRECTIONS of \
+LITHIUM_BATTERY_SOC_ESTIMATION using the DEEP_LEARNING_METHOD were \
+explained. over all, this REVIEW provides insights into DEEP_LEARNING for \
+evs li ion battery SOC_ESTIMATION in the future.  2022 by the authors.
+```
+
+--
+
+##: 40
+Record-No: 340
+Citations: 3
+Record-ID: Raoofi T, 2023, J ENERGY STORAGE, V59
+Title: COMPREHENSIVE_REVIEW of BATTERY_STATE_ESTIMATION_STRATEGIES using \
+MACHINE_LEARNING for BATTERY_MANAGEMENT_SYSTEMS of \
+AIRCRAFT_PROPULSION_BATTERIES
+Abstract:
+```
+the BATTERY_POWERED PROPULSION_SYSTEM is introduced in the literature as \
+a SUITABLE_SOLUTION for the co2 emission challenge induced by aviation. \
+however, because of design and manufacturing factors, during or after \
+abused operational and ENVIRONMENTAL_SITUATIONS, LITHIUM_ION_BATTERY \
+(lib) safety, and reliability cannot be guaranteed. thus, an \
+EFFECTIVE_BATTERY_MANAGEMENT_SYSTEM (bms), is an ESSENTIAL_UNIT in the \
+ELECTRIC_PROPULSION_SYSTEM (eps) of ELECTRIC_AIRCRAFT. \
+BATTERY_STATE_ESTIMATION and prediction are vital to providing required \
+SAFETY_STRATEGIES through acquiring BATTERY_DATA such as CURRENT, \
+voltage, and temperature. VARIOUS_METHODS of STATE_ESTIMATION are \
+practically and technically analyzed and offered in the literature \
+including physics based, model based, and data driven approaches. among \
+them, the RECENT_METHOD seems to be a NOVEL_SOLUTION to overcome the \
+CURRENT_EXPERIMENTAL_DIFFICULTIES and inaccuracies. in a data driven \
+method, the battery is considered as a BLACK_BOX while a LARGE_VOLUME of \
+data is applied to learn the INTERNAL_DYNAMICS of the battery, using \
+ARTIFICIAL_INTELLIGENCE (ai) and MACHINE_LEARNING (ml) approaches. \
+however, there are still MAJOR_UNCERTAINTIES and hurdles in the \
+application and using ai in eps due to DATA_SOURCE_SCARCITY, the \
+complexity of computation, and ambiguities in the \
+AIRWORTHINESS_CERTIFICATION_PROCESS. in this study, a \
+SYSTEMATIC_LITERATURE_REVIEW is performed; 948 papers were selected to be \
+analyzed precisely in both qualitative and QUANTITATIVE_APPROACHES to \
+provide descriptive, metadata, and BMS_FUNCTION_ANALYSIS_REPORTS. the \
+goal of the research is to review BMS_STRATEGIES supported by \
+INTELLIGENT_ALGORITHMS to propose APPROPRIATE_SOLUTIONS for \
+BATTERY_MANAGEMENT of eps based on the proposed bms NECESSARY_FUNCTIONS. \
+moreover, CURRENT_AIRWORTHINESS_CERTIFICATION_REGULATIONS are analyzed, \
+and it is shown that the existing status is insufficient to satisfy \
+CRITICAL_ISSUES for employing DATA_DRIVEN_METHODS in the \
+BATTERY_MANAGEMENT of FUTURE_ELECTRIC_AIRCRAFT including \
+AI_SAFETY_RISK_ASSESSMENT and LEARNING_ASSURANCE. finally, trends show an \
+increase in studies on the subject of AI_THEMES_APPLICATION in \
+BATTERY_STATE_ESTIMATION during the last ten years, especially for the \
+state of charge and the state of health. however, there are still gaps in \
+research for the application of INTELLIGENT_TECHNOLOGY in state of \
+function (sof) and state of power (sop) estimation as one of the most \
+IMPERATIVE_FUNCTIONS of the bms in ea, which consists of less than 1 % of \
+the TOTAL_STUDIES in this field.  2022 ELSEVIER_LTD
+```
+
+--
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 41
+Record-No: 393
+Citations: 3
+Record-ID: Wang Y/9, 2023, APPL THERM ENG, V228
+Title: TEMPERATURE_PREDICTION of lithium ion battery based on \
+ARTIFICIAL_NEURAL_NETWORK_MODEL
+Abstract:
+```
+ACCURATE_TEMPERATURE_PREDICTION is one of the most CRITICAL_PROBLEMS to \
+improve BATTERY_PERFORMANCE, and prevent THERMAL_RUNAWAY. however, the \
+HEAT_GENERATION and HEAT_DISSIPATION of LITHIUM_ION_BATTERIES have \
+COMPLEX_NONLINEAR_CHARACTERISTICS and are easily affected by \
+EXTERNAL_FACTORS, therefore it is difficult to accurately predict the \
+BATTERY_TEMPERATURE. in RECENT_YEARS, ARTIFICIAL_NEURAL_NETWORK (ann) has \
+been widely used in many fields of LITHIUM_ION_BATTERIES due to its \
+UNIQUE_ADVANTAGES in dealing with highly non linear problems, such as \
+battery modeling and SOC_ESTIMATION, RESIDUAL_LIFE (rul) prediction and \
+BATTERY_TEMPERATURE_PREDICTION. however, there are few studies on \
+TEMPERATURE_PREDICTION of LITHIUM_ION_BATTERIES in \
+FOAM_METAL_THERMAL_MANAGEMENT_SYSTEM, and the CURRENT_RESEARCH has not \
+reached an ACCURATE_CONCLUSION to explain which NEURAL_NETWORK is better \
+for TEMPERATURE_PREDICTION. therefore, an \
+ARTIFICIAL_NEURAL_NETWORK_APPROACH was used to estimate the temperature \
+change of LITHIUM_ION_BATTERIES in the \
+METAL_FOAM_THERMAL_MANAGEMENT_SYSTEM. back PROPAGATION_NEURAL_NETWORK (bp \
+nn), RADIAL_BASIS_FUNCTIONS_NEURAL_NETWORK (rbf nn) and \
+ELMAN_NEURAL_NETWORKS (elman nn) were respectively applied to establish \
+the TEMPERATURE_PREDICTION_MODEL, and the \
+TEMPERATURE_PREDICTION_PERFORMANCE of DIFFERENT_NEURAL_NETWORK modeling \
+techniques were compared. in order to verify the accuracy and validity of \
+the NEURAL_NETWORK_THERMAL_MODEL, the PERFORMANCE_TESTS under the \
+SAMPLE_CONDITION and the NEW_CONDITION were carried out respectively. the \
+predicted RESULT_DATA and TEMPERATURE_CONTRAST_DIAGRAM of sample and \
+TEST_CONDITIONS are obtained. ELMAN_NEURAL_NETWORK_MODEL has better \
+adaptability and GENERALIZATION_ABILITY, and the training time of \
+ELMAN_NEURAL_NETWORK_MODEL is shorter. it is more suitable for the \
+TEMPERATURE_PREDICTION of libs under METAL_FOAM and forced air cooling \
+system.  2023 ELSEVIER_LTD
+```
+
+--
+
+##: 42
+Record-No: 427
+Citations: 3
+Record-ID: Zhang C/1, 2022, MRS BULL, V47, P432
+Title: accelerated discovery of POROUS_MATERIALS for CARBON_CAPTURE by \
+MACHINE_LEARNING: a review
+Abstract:
+```
+in the PAST_DECADES, GREENHOUSE_GASES (e.g., anthropogenic co2 and ch4) \
+have raised significant concerns due to the FORESEEABLE_DIRE_CONSEQUENCES \
+in CLIMATE_CHANGE. capturing them via ADSORPTION using POROUS_MATERIALS \
+has drawn much attention due to their LOW_SYNTHESIS and REGENERATION_COST \
+and HIGH_CAPACITY. recently, the flourishing MACHINE_LEARNING (ml) has \
+been introduced to VARIOUS_FIELDS of MATERIALS_SCIENCE, which also has \
+shown GREAT_POTENTIAL in accelerating the MATERIALS_DISCOVERY for \
+CARBON_CAPTURE. in this article, we first describe the GENERAL_WORKFLOW \
+of applying ml to tackle MATERIALS_PROBLEMS. then we systematically \
+summarize the RECENT_RESEARCH_PROGRESS in the application of ml for \
+development of POROUS_CARBON and metalorganic frameworks for \
+CARBON_CAPTURE. finally, we discuss the existing challenges, \
+POSSIBLE_SOLUTIONS, and RESEARCH_DIRECTIONS. this article will \
+INSPIRE_EXPLORATION of NEW_FRONTIERS in the CARBON_CAPTURE by development \
+of ml in POROUS_MATERIALS_RESEARCH in the future. GRAPHICAL_ABSTRACT: \
+[figure not available: see fulltext.].  2022, the author(s), under \
+EXCLUSIVE_LICENSE to the MATERIALS_RESEARCH_SOCIETY.
+```
+
+--
+
+##: 43
+Record-No: 495
+Citations: 2
+Record-ID: Li A, 2023, J ENERGY STORAGE, V60
+Title: MACHINE_LEARNING assisted advanced BATTERY_THERMAL_MANAGEMENT_SYSTEM: a \
+state of the art review
+Abstract:
+```
+with an increasingly wider application of the lithium ion battery (lib), \
+specifically the DRASTIC_INCREASE of ELECTRIC_VEHICLES in \
+COSMOPOLITAN_CITIES, improving the thermal and FIRE_RESILIENCE of \
+LIB_SYSTEMS is inevitable. thus, in depth analysis and performance based \
+study on BATTERY_THERMAL_MANAGEMENT_SYSTEM (btms) design have arisen as a \
+POPULAR_RESEARCH_TOPIC in ENERGY_STORAGE_SYSTEMS. among the \
+LIB_SYSTEM_PARAMETERS, such as BATTERY_TEMPERATURE_DISTRIBUTION, \
+BATTERY_HEAT_GENERATION_RATE, cooling MEDIUM_PROPERTIES, \
+ELECTRICAL_PROPERTIES, PHYSICAL_DIMENSION_DESIGN, etc., multi factor \
+design optimisation is one of the most DIFFICULT_EXPERIMENTAL_TASKS. \
+COMPUTATIONAL_SIMULATIONS deliver a HOLISTIC_SOLUTION to the BTMS_DESIGN, \
+yet it demands an immense amount of COMPUTATIONAL_POWER and time, which \
+is often not practical for the DESIGN_OPTIMISATION_PROCESS. therefore, \
+MACHINE_LEARNING (ml) models play a non substitute role in the \
+SAFETY_MANAGEMENT of BATTERY_SYSTEMS. ML_MODELS aid in \
+TEMPERATURE_PREDICTION and SAFETY_DIAGNOSIS, thereby assisting in the \
+EARLY_WARNING of BATTERY_FIRE and its MITIGATION. in this REVIEW_ARTICLE, \
+we summarise extensive lists of literature on btms employing ML_MODELS \
+and identify the current state of the art research, which is expected to \
+serve as a much needed guideline and reference for \
+FUTURE_DESIGN_OPTIMISATION. following that, the application of \
+VARIOUS_ML_MODELS in BATTERY_FIRE_DIAGNOSIS and EARLY_WARNING is \
+illustrated. finally, the authors propose improved approaches to advanced \
+BATTERY_SAFETY_MANAGEMENT with ml. this REVIEW_PAPER_AIMS to bring \
+NEW_INSIGHTS into the application of ml in the LIB_THERMAL_SAFETY_ISSUE \
+and BTMS_DESIGN and anticipate boosting further advanced \
+BATTERY_SYSTEM_DESIGN not limited to the THERMAL_MANAGEMENT_SYSTEM, as \
+well as proposing POTENTIAL_DIGITAL_TWIN modelling for btms.  2023 \
+ELSEVIER_LTD
+```
+
+--
+
+##: 44
+Record-No: 455
+Citations: 2
+Record-ID: Li X/4, 2023, J ENERGY CHEM, V82, P103
+Title: the development of MACHINE_LEARNING based remaining \
+USEFUL_LIFE_PREDICTION for LITHIUM_ION_BATTERIES
+Abstract:
+```
+LITHIUM_ION_BATTERIES are the most widely used ENERGY_STORAGE_DEVICES, \
+for which the ACCURATE_PREDICTION of the remaining USEFUL_LIFE (rul) is \
+crucial to their RELIABLE_OPERATION and ACCIDENT_PREVENTION. this work \
+thoroughly investigates the DEVELOPMENTAL_TREND of RUL_PREDICTION with \
+MACHINE_LEARNING (ml) algorithms based on the objective screening and \
+statistics of related papers over the PAST_DECADE to analyze the \
+RESEARCH_CORE and find FUTURE_IMPROVEMENT_DIRECTIONS. the possibility of \
+extending lithium ion BATTERY_LIFETIME using RUL_PREDICTION_RESULTS is \
+also explored in this paper. the ten most used ML_ALGORITHMS for \
+RUL_PREDICTION are first identified in 380 RELEVANT_PAPERS. then the \
+GENERAL_FLOW of RUL_PREDICTION and an in depth introduction to the four \
+most used signal pre processing techniques in RUL_PREDICTION are \
+presented. the RESEARCH_CORE of COMMON_ML_ALGORITHMS is given first time \
+in a UNIFORM_FORMAT in CHRONOLOGICAL_ORDER. the algorithms are also \
+compared from aspects of accuracy and characteristics comprehensively, \
+and the novel and GENERAL_IMPROVEMENT_DIRECTIONS or opportunities \
+including improvement in EARLY_PREDICTION, LOCAL_REGENERATION modeling, \
+PHYSICAL_INFORMATION_FUSION, generalized transfer learning, and \
+HARDWARE_IMPLEMENTATION are further outlooked. finally, the methods of \
+BATTERY_LIFETIME extension are summarized, and the feasibility of using \
+rul as an indicator for extending BATTERY_LIFETIME is outlooked. \
+BATTERY_LIFETIME can be extended by optimizing the charging \
+PROFILE_SERVAL_TIMES according to the \
+ACCURATE_RUL_PREDICTION_RESULTS_ONLINE in the future. this PAPER_AIMS to \
+give inspiration to the FUTURE_IMPROVEMENT of ML_ALGORITHMS in \
+BATTERY_RUL_PREDICTION and LIFETIME_EXTENSION strategy.  2023 \
+SCIENCE_PRESS and DALIAN_INSTITUTE of CHEMICAL_PHYSICS, CHINESE_ACADEMY \
+of sciences
+```
+
+--
+
+##: 45
+Record-No: 476
+Citations: 2
+Record-ID: Arandhakar S, 2022, IEEE ACCESS, V10, P121741
+Title: emerging intelligent bidirectional CHARGING strategy based on \
+RECURRENT_NEURAL_NETWORK accosting emi and TEMPERATURE effects for \
+electric vehicle
+Abstract:
+```
+transportation is currently advancing towards electric vehicle (ev) \
+technology. this paper presents a brief and SYSTEMATIC_ANALYSIS of the \
+REAL_TIME issues obtained in electric vehicles (evs) due to the various \
+ranges of energy storage devices. in general, ev energy management system \
+is integrated with power electronic circuits for effective power \
+conversion and RELIABLE_OPERATION. some issues are addressed while using \
+the batteries in ev systems such as CHARGING time, efficiency of battery, \
+and RAW_MATERIALS. not only BATTERY_ISSUES but also REAL_TIME non \
+technical issues and operational issues are also discussed in this paper. \
+during energy conversion with power electronic circuits, the \
+SYSTEM_ATTAINS_EXTREME_TEMPERATURE_LEVELS which in TURN_REDUCES the \
+performance of the system. to maintain an optimum TEMPERATURE level, it \
+is important to study the TEMPERATURE_EFFECT of the system at the most \
+prior levels. due to the adaption of power electronic components, some \
+extent of noise is generated, technically treated as electromagnetic \
+interference (emi), as SYSTEM_CAPACITY_INCREASES the emi content also \
+improved proportionately. therefore, to mitigate the emi effect, the low \
+pass filter based emi filter is introduced in the system such that the \
+noise level is suppressed. bidirectional CHARGING system (bcs) is one of \
+the emerging technologies in ev to obtain AUTONOMOUS_POWER supply systems \
+in the form of vehicle to grid (v2g), grid to vehicle (g2v), and vehicle \
+to load (v2l). to know the behaviour of bcs the proposed RNN_CONTROLLER \
+is employed and is compared with ANN_BIDIRECTIONAL CHARGING model. bcs \
+CHARGING system with RNN_CONTROLLER has better dynamic response to \
+exchange the power via dc/dc converter and ac/dc converter as compared to \
+ANN_CONTROLLER.   2013 ieee.
+```
+
+--
+
+##: 46
+Record-No: 410
+Citations: 2
+Record-ID: Singh G, 2022, IETE TECH REV, V39, P1046
+Title: a SYSTEMATIC_REVIEW of DEEP_LEARNING_APPROACHES for \
+NATURAL_LANGUAGE_PROCESSING in BATTERY_MATERIALS_DOMAIN
+Abstract:
+```
+NATURAL_LANGUAGE_PROCESSING (nlp) acts towards the processing of \
+linguistics between human and computer. the application of nlp in the \
+CHEMICAL_INDUSTRY has proven to be a boon in the PAST_DECADE. this paper \
+presents a survey of DEEP_LEARNING (dl) models on NLP_FUNDAMENTALS for \
+BATTERY_MATERIALS_DOMAIN related research. VARIOUS_DL_MODELS like \
+CONVOLUTIONAL_NEURAL_NETWORKS, RECURSIVE_NEURAL_NETWORKS, \
+RECURRENT_NEURAL_NETWORKS, long short term memory networks, and \
+ATTENTION_NETWORKS have been discussed while comparing their efficacy for \
+DIFFERENT_NLP_TASKS. innovations in presented DL_MODELS provide enhanced \
+performance for the nlp based tasks. this paper will \
+ENLIGHTEN_RESEARCHERS, to get an insight into the CURRENT_PRACTICES and \
+scope for FUTURE_DEVELOPMENTS on BATTERY_MATERIALS. they can apply \
+NLP_TECHNIQUES for VARIOUS_APPLICATIONS like STRUCTURAL_RECOGNITION and \
+extraction, understanding of chemical features without a DOMAIN_EXPERT, \
+and understanding the CHEMICAL_STRUCTURE and SUMMARIZATION_APPROACHES. \
+moreover, this paper will help chemists and researchers in the \
+CHEMICAL_INDUSTRY to explore VARIOUS_AREAS to work upon. to empower this, \
+VARIOUS_APPLICATIONS and FUTURE_SCOPE is discussed in this paper.  2022 \
+iete.
+```
+
+--
+
+##: 47
+Record-No: 448
+Citations: 1
+Record-ID: Ajibade S-SM, 2023, CLEAN TECHNOL, V5, P497
+Title: MACHINE_LEARNING_APPLICATIONS in RENEWABLE_ENERGY (mlare) research: a \
+PUBLICATION_TREND and BIBLIOMETRIC_ANALYSIS_STUDY (20122021)
+Abstract:
+```
+this STUDY_EXAMINES the RESEARCH_CLIMATE on MACHINE_LEARNING_APPLICATIONS \
+in RENEWABLE_ENERGY (mlare). therefore, the PUBLICATION_TRENDS (pt) and \
+BIBLIOMETRIC_ANALYSIS (ba) on MLARE_RESEARCH published and indexed in the \
+ELSEVIER_SCOPUS_DATABASE between 2012 and 2021 were examined. the pt was \
+adopted to deduce the MAJOR_STAKEHOLDERS, top cited publications, and \
+funding organizations on mlare, WHEREAS_BA elucidated CRITICAL_INSIGHTS \
+into the RESEARCH_LANDSCAPE, SCIENTIFIC_DEVELOPMENTS, and \
+TECHNOLOGICAL_GROWTH. the pt revealed 1218 published documents comprising \
+46.9% articles, 39.7% conference papers, and 6.0% reviews on the topic. \
+SUBJECT_AREA_ANALYSIS revealed MLARE_RESEARCH_SPANS the areas of science, \
+technology, engineering, and mathematics among others, which indicates it \
+is a broad, multidisciplinary, and IMPACTFUL_RESEARCH_TOPIC. the most \
+PROLIFIC_RESEARCHER, affiliations, country, and funder are ravinesh c. \
+deo, NATIONAL_RENEWABLE_ENERGY_LABORATORY, united states, and the \
+NATIONAL_NATURAL_SCIENCE_FOUNDATION of china, respectively. the most \
+PROMINENT_JOURNALS on the top are applied energy and energies, which \
+indicates that JOURNAL_REPUTATION and open access are \
+CRITICAL_CONSIDERATIONS for the AUTHORS_CHOICE of PUBLICATION_OUTLET. the \
+HIGH_PRODUCTIVITY of the MAJOR_STAKEHOLDERS in mlare is due to \
+collaborations and research funding support. the keyword co occurrence \
+analysis identified four (4) clusters or THEMATIC_AREAS on mlare, which \
+broadly describe the systems, technologies, tools/technologies, and socio \
+technical dynamics of MLARE_RESEARCH. overall, the study showed that ml \
+is critical to the prediction, operation, and OPTIMIZATION of \
+RENEWABLE_ENERGY_TECHNOLOGIES (ret) along with the design and development \
+of re related materials.  2023 by the authors.
+```
+
+--
+
+##: 48
+Record-No: 425
+Citations: 1
+Record-ID: Hu E, 2023, J PHYS CHEM C, V127, P882
+Title: MACHINE_LEARNING assisted understanding and discovery of CO2_REDUCTION \
+reaction electrocatalyst
+Abstract:
+```
+electrochemical CO2_REDUCTION reaction (co2rr) is an IMPORTANT_PROCESS \
+which is a POTENTIAL_WAY to recycle excessive co2 in the atmosphere. \
+although the electrocatalyst is the key toward efficient co2rr, the \
+progress of discovering EFFECTIVE_CATALYSTS is lagging with \
+CURRENT_METHODS. because of the cost and TIME_EFFICIENCY of the \
+MODERN_MACHINE_LEARNING (ml) algorithm, an increasing number of \
+researchers have applied ml to accelerate the screening of \
+SUITABLE_CATALYSTS and to deepen our understanding in the mechanism. \
+hence, we reviewed RECENT_APPLICATIONS of ml in the research of co2rr by \
+the types of electrocatalyst. an introduction on the GENERAL_METHODOLOGY \
+and a discussion on the pros and cons for SUCH_APPLICATIONS are included. \
+2023 AMERICAN_CHEMICAL_SOCIETY.
+```
+
+--
+
+##: 49
+Record-No: 492
+Citations: 1
+Record-ID: Jailani NLM, 2023, PROCESS, V11
+Title: investigating the power of lstm based models in SOLAR_ENERGY forecasting
+Abstract:
+```
+solar is a SIGNIFICANT_RENEWABLE_ENERGY_SOURCE. SOLAR_ENERGY can provide \
+for the WORLDS_ENERGY_NEEDS while minimizing global warming from \
+TRADITIONAL_SOURCES. forecasting the output of RENEWABLE_ENERGY has a \
+CONSIDERABLE_IMPACT on decisions about the operation and management of \
+POWER_SYSTEMS. it is crucial to accurately forecast the output of \
+RENEWABLE_ENERGY_SOURCES in order to assure GRID_DEPENDABILITY and \
+sustainability and to reduce the risk and expense of ENERGY_MARKETS and \
+systems. RECENT_ADVANCEMENTS in LONG_SHORT_TERM_MEMORY (lstm) have \
+attracted researchers to the model, and its PROMISING_POTENTIAL is \
+reflected in the METHODS_RICHNESS and the growing number of papers about \
+it. to facilitate further research and development in this area, this \
+PAPER_INVESTIGATES_LSTM_MODELS for forecasting SOLAR_ENERGY by using time \
+series data. the paper is divided into two parts: (1) \
+INDEPENDENT_LSTM_MODELS and (2) HYBRID_MODELS that INCORPORATE_LSTM as \
+another type of technique. the root mean SQUARE_ERROR (rmse) and other \
+ERROR_METRICS are used as the REPRESENTATIVE_EVALUATION_METRICS for \
+comparing the accuracy of the selected methods. according to \
+EMPIRICAL_STUDIES, the two types of models (INDEPENDENT_LSTM and hybrid) \
+have DISTINCT_ADVANTAGES and disadvantages depending on the scenario. for \
+instance, LSTM_OUTPERFORMS the other STANDALONE_MODELS, but HYBRID_MODELS \
+generally OUTPERFORM_STANDALONE_MODELS despite their longer \
+DATA_TRAINING_TIME_REQUIREMENT. the most NOTABLE_DISCOVERY is the better \
+suitability of lstm as a PREDICTIVE_MODEL to forecast the amount of \
+SOLAR_RADIATION and PHOTOVOLTAIC_POWER compared with other \
+CONVENTIONAL_MACHINE_LEARNING_METHODS.  2023 by the authors.
+```
+
+--
+
+##: 50
+Record-No: 439
+Citations: 1
+Record-ID: Macharia VM, 2023, IET ELECTR SYST TRANSP, V13
+Title: a review of ELECTRIC_VEHICLE_TECHNOLOGY: architectures, \
+BATTERY_TECHNOLOGY and its MANAGEMENT_SYSTEM, RELEVANT_STANDARDS, \
+application of ARTIFICIAL_INTELLIGENCE, CYBER_SECURITY, and \
+INTEROPERABILITY challenges
+Abstract:
+```
+currently, there is an increased GLOBAL_CLIMATE change awareness, and the \
+world is tending towards NET_ZERO_EMISSIONS. the TRANSPORTATION_SECTOR is \
+leading in GREEN_HOUSE_GAS_EMISSIONS (ghg). furthermore, the diminishing \
+reserves of FOSSIL_FUELS, the need for cheaper MAINTENANCE_VEHICLES, more \
+EFFICIENT_DRIVE_TRAINS, and better PERFORMANCE_VEHICLES presents a \
+challenge in ice. ELECTRIC_VEHICLES (evs) offer the \
+PERFECT_MOBILITY_SOLUTION which can replace the CONVENTIONAL_ICE in the \
+NEAR_FUTURE. this article comprehensively reviews the components and \
+advances in the VARIOUS_TECHNOLOGIES employed in ELECTRIC_VEHICLES to \
+achieve efficiency in motion and OPTIMISE_ENERGY_MANAGEMENT in \
+ELECTRIC_VEHICLES. this article gives an analysis of the \
+CURRENT_EV_SCENARIO globally. it then details the \
+DIFFERENT_CONFIGURATIONS of ELECTRIC_VEHICLE_ARCHITECTURES available. the \
+battery is discussed, and the VARIOUS_ELECTROCHEMICAL_TECHNOLOGIES are \
+analysed. BATTERY_MANAGEMENT_SYSTEMS (bms) to efficiently MANAGE_ENERGY \
+are discussed. the CHARGING methods, VOLTAGE_LEVELS, and \
+RELEVANT_STANDARDS are outlined in detail. the TRACTION_MOTORS and \
+POWER_CONVERSION_TECHNOLOGIES are reported with advancements in \
+ELECTRIC_VEHICLE_APPLICATIONS. furthermore, this article gives a \
+COMPREHENSIVE_OVERVIEW of various emerging technologies, such as the \
+INTERNET_OF_THINGS (iot), ARTIFICIAL_INTELLIGENCE (ai) & MACHINE_LEARNING \
+(ml), to improve evs' performance through digitalisation. on the other \
+hand, cybersecurity has become an ever challenging issue in evs due to \
+the increasing use of DIGITAL_TECHNOLOGIES. this article thoroughly \
+OVERVIEWS_CYBERSECURITY challenges in EV_APPLICATIONS and explains \
+POSSIBLE_PROACTIVE_MEASURES. INTEROPERABILITY arising from \
+VARIOUS_EV_MANUFACTURERS' many different CHARGING designs is discussed. \
+2023 the authors. iet ELECTRICAL_SYSTEMS in transportation published by \
+JOHN_WILEY & SONS_LTD.
+```
+
+--
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 51
+Record-No: 466
+Citations: 1
+Record-ID: Samanta A, 2023, IEEJ J IND APPL, V12, P563
+Title: MACHINE_LEARNING based remaining USEFUL_LIFE_PREDICTION_TECHNIQUES for \
+lithium ion BATTERY_MANAGEMENT_SYSTEMS: a COMPREHENSIVE_REVIEW
+Abstract:
+```
+LITHIUM_ION_BATTERIES (libs) are used to POWER a range of applications \
+starting from PORTABLE_CONSUMER_ELECTRONICS to ELECTRIC_VEHICLES and grid \
+tied ENERGY_STORAGE_SYSTEMS. now, with the increasing application of lib \
+in HIGH_POWER and SOPHISTICATED_APPLICATIONS, it is of GREAT_SIGNIFICANCE \
+to predict the remaining USEFUL_LIFE (rul) for RELIABLE_OPERATION and to \
+protect the BATTERY_PACK from unwanted incidents including \
+CATASTROPHIC_FAILURE. real time information on rul is essential to \
+predict BATTERY_FAILURE_CONDITION resulting in EFFECTIVE_PREVENTION or at \
+least reduction of the damage that may cause by the BATTERY_FAILURE. \
+moreover, ACCURATE_RUL is extremely helpful for scheduling \
+ROUTINE_MAINTENANCE and NECESSARY_REPLACEMENT at the end of its \
+USEFUL_LIFE. consequently, RUL_PREDICTION has become a topic of interest \
+to researchers. there are several RUL_ESTIMATION_TECHNIQUES proposed in \
+the last decade where MACHINE_LEARNING (ml) based techniques showed \
+superiority in terms of accuracy, adaptability, and modeling. therefore, \
+ml based RUL_PREDICTION_METHODS are comprehensively reviewed based on \
+their ESSENTIAL_PERFORMANCE_PARAMETERS in this paper. a detailed \
+discussion on the issues, challenges, trends, and FUTURE_RESEARCH_SCOPES \
+are also presented to provide CLEAR_GUIDELINE to the researchers. c 2023 \
+the institute of ELECTRICAL_ENGINEERS of japan.
+```
+
+--
+
+##: 52
+Record-No: 477
+Citations: 1
+Record-ID: Shi D, 2023, ENERGIES, V16
+Title: CLOUD_BASED ARTIFICIAL_INTELLIGENCE_FRAMEWORK for \
+BATTERY_MANAGEMENT_SYSTEM
+Abstract:
+```
+as the popularity of ELECTRIC_VEHICLES (evs) and SMART_GRIDS continues to \
+rise, so does the demand for batteries. within the landscape of \
+BATTERY_POWERED ENERGY_STORAGE_SYSTEMS, the BATTERY_MANAGEMENT_SYSTEM \
+(bms) is crucial. it provides KEY_FUNCTIONS such as \
+BATTERY_STATE_ESTIMATION (including STATE_OF_CHARGE, STATE_OF_HEALTH, \
+BATTERY_SAFETY, and THERMAL_MANAGEMENT) as well as cell BALANCING. its \
+PRIMARY_ROLE is to ensure SAFE_BATTERY_OPERATION. however, due to the \
+limited memory and COMPUTATIONAL_CAPACITY of ONBOARD_CHIPS, achieving \
+this goal is challenging, as both theory and PRACTICAL_EVIDENCE suggest. \
+given the immense amount of BATTERY_DATA produced over its \
+OPERATIONAL_LIFE, the SCIENTIFIC_COMMUNITY is increasingly turning to \
+CLOUD computing for DATA_STORAGE and analysis. this CLOUD_BASED \
+DIGITAL_SOLUTION presents a more flexible and EFFICIENT_ALTERNATIVE to \
+TRADITIONAL_METHODS that often require SIGNIFICANT_HARDWARE_INVESTMENTS. \
+the integration of MACHINE_LEARNING is becoming an ESSENTIAL_TOOL for \
+extracting patterns and insights from VAST_AMOUNTS of OBSERVATIONAL_DATA. \
+as a result, the FUTURE_POINTS towards the development of a CLOUD_BASED \
+ARTIFICIAL_INTELLIGENCE (ai) enhanced bms. this will notably improve the \
+predictive and modeling capacity for long range connections across \
+VARIOUS_TIMESCALES, by combining the strength of PHYSICAL_PROCESS_MODELS \
+with the versatility of MACHINE_LEARNING_TECHNIQUES.  2023 by the \
+authors.
+```
+
+--
+
+##: 53
+Record-No: 497
+Citations: 1
+Record-ID: Zhu Z-W, 2022, J ELECTROCHEM, V28
+Title: application of ARTIFICIAL_INTELLIGENCE to LITHIUM_ION_BATTERY research \
+and development;
+Abstract:
+```
+lithium ion batteries (libs) have become one of the best solutions to the \
+ENERGY_STORAGE_ISSUE in MODERN_SOCIETY. however, the BATTERY_MATERIALS \
+and DEVICE_DEVELOPMENT are both complex, and involve \
+MULTIVARIABLE_PROBLEMS. traditional trial and error approach, which \
+relies on researchers to CONDUCT_EXPERIMENTS, has encountered bottlenecks \
+in the improvement of the BATTERY_PERFORMANCE. ARTIFICIAL_INTELLIGENCE \
+(ai) is the most POTENTIAL_TECHNOLOGY to deal with this issue due to its \
+powerful high speed and capabilities of processing MASSIVE_DATA. in \
+particular, the capability of MACHINE_LEARNING (ml) algorithms in \
+assessing MULTIDIMENSIONAL_DATA_VARIABLES and discovering patterns in the \
+sets are expected to assist researchers in discovering patterns and \
+elucidating the mechanisms of MATERIAL_SYNTHESIS and DEVICE_FABRICATION. \
+this REVIEW_SUMMARIZES various challenges encountered in \
+TRADITIONAL_RESEARCH_METHODS of libs and introduces the applications of \
+ai in BATTERY_MATERIAL_RESEARCH, BATTERY_DEVICE_DESIGN and manufacturing, \
+material and DEVICE_CHARACTERIZATIONS, and BATTERY_CYCLE_LIFE and \
+SAFETY_ASSESSMENT in detail. most importantly, we present the challenges \
+faced by ai and ml in BATTERY_RESEARCH, and discuss the shortcomings and \
+prospects of their applications. we believe that a closer collaboration \
+among experimentalists, modeling specialists, and AI_EXPERTS in the \
+future will greatly FACILITATE_AI and ML_METHODS for solving battery and \
+MATERIALS_PROBLEMS that are difficult to be solved by \
+TRADITIONAL_METHODS.  journal of electrochemistry 2022.
+```
+
+--
+
+##: 54
+Record-No: 428
+Citations: 0
+Record-ID: Ajith M, 2023, RENEWABLE SUSTAINABLE ENERGY , V182
+Title: DEEP_LEARNING_ALGORITHMS for very SHORT_TERM_SOLAR_IRRADIANCE \
+FORECASTING: a survey
+Abstract:
+```
+integrating SOLAR_ENERGY with existing GRID_SYSTEMS is difficult due to \
+its variability, which is impacted by factors such as the predicted \
+horizon, METEOROLOGICAL_CONDITIONS, and GEOGRAPHIC_POSITION. \
+ACCURATE_GLOBAL_HORIZONTAL_IRRADIANCE (ghi) estimates can help to address \
+this issue and allow for early and EFFECTIVE_PARTICIPATION in the \
+ENERGY_PLANNING and MANAGEMENT_MARKET. the existing models either use \
+TIME_SERIES_DATA or SKY_IMAGES in VARIOUS_NETWORK_TOPOLOGIES to perform \
+SOLAR_RADIANCE_FORECASTS. this STUDY_COMPARES three categories of \
+SOLAR_IRRADIANCE_FORECASTING models such as TIME_SERIES based, image \
+based and HYBRID_MODELS. here several state of the art methods are \
+compared against the proposed models, namely convolutional \
+LONG_SHORT_TERM_MEMORY fusion network (cnn l) and \
+MULTIPLE_IMAGE_CONVOLUTIONAL LONG_SHORT_TERM_MEMORY fusion network (micnn \
+l). both models use both infrared SKY_IMAGES as well as PAST_VALUES of \
+ghi for prediction. these METHODS_EXTRACT_SPATIAL features using \
+CONVOLUTIONAL_NEURAL_NETWORKS and temporal features using \
+LONG_SHORT_TERM_MEMORY networks. the extracted features are finally \
+concatenated and passed through a fully connected layer to obtain a \
+prediction. further analysis also included using a \
+FEATURE_EXTRACTION_METHOD such as OPTICAL_FLOW (of) on the IMAGE_DATA \
+before passing it to the HYBRID_MODEL micnn l (of). the results observed \
+in this COMPARATIVE_ANALYSIS denote that micnn l improves the efficacy of \
+the forecasts in CLOUDY_CONDITIONS compared to the rest of the state of \
+the art approaches.  2023 ELSEVIER_LTD
+```
+
+--
+
+##: 55
+Record-No: 440
+Citations: 0
+Record-ID: Assaf AM, 2023, APPL SCI, V13
+Title: a review on NEURAL_NETWORK based models for SHORT_TERM_SOLAR_IRRADIANCE \
+forecasting
+Abstract:
+```
+the accuracy of SOLAR_ENERGY forecasting is critical for \
+POWER_SYSTEM_PLANNING, management, and operation in the \
+GLOBAL_ELECTRIC_ENERGY_GRID. therefore, it is crucial to ensure a \
+constant and SUSTAINABLE_POWER supply to consumers. however, existing \
+statistical and MACHINE_LEARNING_ALGORITHMS are not reliable for \
+forecasting due to the SPORADIC_NATURE of SOLAR_ENERGY_DATA. several \
+factors influence the performance of SOLAR_IRRADIANCE, such as \
+forecasting horizon, WEATHER_CLASSIFICATION, and \
+PERFORMANCE_EVALUATION_METRICS. therefore, we provide a REVIEW_PAPER on \
+DEEP_LEARNING based SOLAR_IRRADIANCE_FORECASTING models. these models \
+include LONG_SHORT_TERM_MEMORY (ltsm), gated RECURRENT_UNIT (gru), \
+RECURRENT_NEURAL_NETWORK (rnn), CONVOLUTIONAL_NEURAL_NETWORK (cnn), \
+GENERATIVE_ADVERSARIAL_NETWORKS (gan), ATTENTION_MECHANISM (am), and \
+other existing HYBRID_MODELS. based on our analysis, DEEP_LEARNING_MODELS \
+perform better than CONVENTIONAL_MODELS in solar forecasting \
+applications, especially in combination with some techniques that enhance \
+the extraction of features. furthermore, the use of \
+DATA_AUGMENTATION_TECHNIQUES to improve DEEP_LEARNING_PERFORMANCE is \
+useful, especially for DEEP_NETWORKS. thus, this paper is expected to \
+provide a BASELINE_ANALYSIS for FUTURE_RESEARCHERS to select the most \
+APPROPRIATE_APPROACHES for PHOTOVOLTAIC_POWER forecasting, wind power \
+forecasting, and ELECTRICITY_CONSUMPTION forecasting in the MEDIUM_TERM \
+and LONG_TERM.  2023 by the authors.
+```
+
+--
+
+##: 56
+Record-No: 413
+Citations: 0
+Record-ID: He W, 2023, J ENERGY STORAGE, V70
+Title: RESEARCH_PROGRESS and application of DEEP_LEARNING in \
+REMAINING_USEFUL_LIFE, STATE_OF_HEALTH and BATTERY_THERMAL_MANAGEMENT of \
+LITHIUM_BATTERIES
+Abstract:
+```
+LITHIUM_BATTERIES are considered to be one of the most \
+PROMISING_GREEN_ENERGY_SOURCES in the future. however, the problems of \
+PROGNOSTIC_AND_HEALTH_MANAGEMENT are the MAIN_FACTORS restricting the \
+application and development of LITHIUM_BATTERIES. therefore, an efficient \
+and INTELLIGENT_BATTERY_MANAGEMENT_SYSTEM (bms) is very important. in \
+RECENT_YEARS, with the CONTINUOUS_DEVELOPMENT of DEEP_LEARNING (dl), it \
+has shown a GOOD_RESEARCH_PROSPECT in the bms. in this paper, the \
+application of dl in the prediction the of REMAINING_USEFUL_LIFE (rul), \
+STATE_OF_HEALTH (soh) and BATTERY_THERMAL_MANAGEMENT (btm) of \
+LITHIUM_BATTERIES of DIFFERENT_METHODS are systematically reviewed. this \
+REVIEW_EVALUATES DIFFERENT_DEEP_LEARNING_APPROACHES to BATTERY_ESTIMATION \
+and prediction in terms of PREDICTIVE_PERFORMANCE, advantages, and \
+disadvantages. in addition, the REVIEW_DISCUSSES the characteristics, \
+achievements, limitations, and directions for improvement of \
+DIFFERENT_ALGORITHMS in the ABOVE_APPLICATIONS for factors affecting \
+charge and DISCHARGE_CYCLES, COMPLEX_ENVIRONMENTS, DYNAMIC_CONDITIONS, \
+and DIFFERENT_BATTERY_TYPES. KEY_ISSUES and challenges in terms of \
+COMPUTATIONAL_COMPLEXITY and various internal and EXTERNAL_FACTORS are \
+identified. finally, the FUTURE_OPPORTUNITIES and directions are \
+discussed to design a more efficient and INTELLIGENT_ALGORITHM_MODEL, \
+which can adapt to more advanced bms.  2023 ELSEVIER_LTD
+```
+
+--
+
+##: 57
+Record-No: 446
+Citations: 0
+Record-ID: Hosseinpour M, 2023, FUEL, V353
+Title: MACHINE_LEARNING in absorption based POST_COMBUSTION_CARBON_CAPTURE \
+systems: a state of the art review
+Abstract:
+```
+the ENORMOUS_CONSUMPTION of FOSSIL_FUELS from VARIOUS_HUMAN_ACTIVITIES \
+leads to a SIGNIFICANT_AMOUNT of anthropogenic co2 emission into the \
+atmosphere, which has already massively contributed to CLIMATE_CHANGE and \
+caused HARMFUL_IMPACTS on HUMAN_LIFE. CARBON_CAPTURE_AND_STORAGE (ccs) \
+technologies have emerged as short to mid term solutions to reduce \
+atmospheric co2 concentrations. the absorption based \
+POST_COMBUSTION_CARBON_CAPTURE (pcc) technology is considered the most \
+established, traditional, and OPERATIONAL_APPROACH compared to other \
+CCS_TECHNOLOGIES. modelling and optimizing the PCC_PROCESS, such as \
+operating conditions, EQUIPMENT_CONFIGURATIONS, and SOLVENT_MANAGEMENT, \
+are time consuming and computationally expensive. MACHINE_LEARNING (ml) \
+has gained SIGNIFICANT_ATTRACTION as a POWERFUL_TOOL for conducting \
+COMPLEX_COMPUTATIONS that facilitate the training of COMPUTER_ALGORITHMS \
+to perform SPECIFIC_TASKS with EXCEPTIONAL_PRECISION, which is \
+unattainable through CONVENTIONAL_TOOLS. they have been used for \
+VARIOUS_APPLICATIONS in an efficient and cost effective approach, \
+including classification, prediction, clustering, ranking, and \
+DATA_OPTIMIZATION. in this article, we review the \
+RECENT_RESEARCH_PROGRESS on applying ML_METHODS to pcc absorption based \
+technologies. this review provides a practical guide to categorizing the \
+VARIOUS_ML_METHODS used in PCC_TECHNOLOGIES based on limits, \
+availability, and pros and cons. finally, we propose a roadmap for \
+COMMUNITY_EFFORTS to show the POSSIBLE_PATHWAYS and FUTURE_RESEARCH_AREAS \
+for developing the application of ML_METHODS in pcc absorption based \
+technologies.  2023
+```
+
+--
+
+##: 58
+Record-No: 529
+Citations: 0
+Record-ID: Hu S/1, 2023, BATTERIES, V9
+Title: MACHINE_LEARNING_APPROACHES for the discovery of ELECTROLYTE_MATERIALS \
+for SOLID_STATE_LITHIUM_BATTERIES
+Abstract:
+```
+SOLID_STATE_LITHIUM_BATTERIES have attracted \
+CONSIDERABLE_RESEARCH_ATTENTION for their POTENTIAL_ADVANTAGES over \
+CONVENTIONAL_LIQUID_ELECTROLYTE_LITHIUM_BATTERIES. the discovery of \
+lithium solid state electrolytes (sses) is still undergoing to solve the \
+remaining challenges, and MACHINE_LEARNING (ml) approaches could \
+potentially accelerate the process significantly. this REVIEW_INTRODUCES \
+COMMON_ML_TECHNIQUES employed in MATERIALS_DISCOVERY and an overview of \
+ML_APPLICATIONS in LITHIUM_SSE_DISCOVERY, with perspectives on the \
+KEY_ISSUES and FUTURE_OUTLOOKS.  2023 by the authors.
+```
+
+--
+
+##: 59
+Record-No: 538
+Citations: 0
+Record-ID: Hussin F, 2023, J CO2 UTIL, V71
+Title: a SYSTEMATIC_REVIEW of MACHINE_LEARNING_APPROACHES in CARBON_CAPTURE \
+applications
+Abstract:
+```
+CLIMATE_CHANGE and GLOBAL_WARMING are among of the most \
+IMPORTANT_ENVIRONMENTAL_ISSUES and require adequate and \
+IMMEDIATE_GLOBAL_ACTION to preserve the planet for FUTURE_GENERATIONS. \
+one of the ESSENTIAL_TECHNOLOGIES used to reduce co2 emissions and \
+mitigate the worst effects of CLIMATE_CHANGE is \
+CARBON_CAPTURE_TECHNOLOGY. many efforts have been made by scientists, \
+INDUSTRIAL_SECTORS, and policy makers in looking for NEW_TECHNOLOGY to \
+reduce GREENHOUSE_GAS_EMISSIONS and achieve net zero emission goals. \
+research and development in creating NEW_TECHNOLOGY involve \
+COMPLEX_PROCESSES and require a DIGITAL_SYSTEM to optimize \
+BIG_DATA_PREDICTION as well as to reduce PRODUCTION_TIME. a mathematical \
+and STATISTICAL_APPROACH such as MACHINE_LEARNING_PLAYS an IMPORTANT_ROLE \
+in solving RESEARCH_PROBLEMS, whereby this approach provides FAST_RESULTS \
+in predicting BIG_DATA and cost efficient tools. in this study, a \
+SYSTEMATIC_REVIEW and BIBLIOMETRIC_ANALYSIS were used to analyze the \
+RESEARCH_TREND, particularly on the keywords, number of publications, \
+citations, countries, and authorship. this information is important for \
+FUTURE_RESEARCH_DIRECTIONS for researchers who venture into this area. in \
+this study, the BIBLIOMETRIC_ANALYSIS_FOCUSES on 2 MAIN_CATEGORIES: co \
+authorship (countries and organizations) and keywords (AUTHOR_KEYWORD). \
+based on the RESEARCH_TREND, the united states (usa), china, iran, \
+canada, and the united kingdom are the leading countries contributing to \
+this field since they have the highest publications and citations. \
+furthermore, the most COMMON_KEYWORDS used in the selected articles \
+ranked according to the highest LINK_STRENGTH. the top 6 KEYWORD_LIST \
+includes MACHINE_LEARNING, ARTIFICIAL_NEURAL_NETWORK, co2 capture, co2 \
+solubility, metal organic frameworks (mofs) and CARBON_CAPTURE and \
+storage. the findings from this study can be used to open a wider \
+spectrum for the RESEARCH_COMMUNITIES by providing \
+GLOBAL_RESEARCH_TRENDS, CURRENT_INNOVATIONS and CURRENT_TECHNOLOGY on \
+MACHINE_LEARNING in CARBON_CAPTURE application, identifying the \
+ACTIVE_RESEARCH_AREAS or HOT_TOPICS and FUTURE_RESEARCH_DIRECTION to help \
+FIGHT_CLIMATE change issue using smart advanced technology.  2023 the \
+authors
+```
+
+--
+
+##: 60
+Record-No: 526
+Citations: 0
+Record-ID: Jha S, 2023, J MATER CHEM A, V11, P3904
+Title: MACHINE_LEARNING assisted MATERIALS_DEVELOPMENT and DEVICE_MANAGEMENT in \
+batteries and supercapacitors: PERFORMANCE_COMPARISON and challenges
+Abstract:
+```
+MACHINE_LEARNING (ml) has been the focus in RECENT_STUDIES aiming to \
+improve battery and SUPERCAPACITOR_TECHNOLOGY. its application in \
+MATERIALS_RESEARCH has demonstrated PROMISING_RESULTS for accelerating \
+the discovery of ENERGY_MATERIALS. additionally, \
+BATTERY_MANAGEMENT_SYSTEMS incorporating data driven techniques are \
+expected to provide ACCURATE_STATE_ESTIMATION and improve the \
+USEFUL_LIFETIME of batteries. this REVIEW_BRIEFS the ML_PROCESS, \
+COMMON_ALGORITHMS, advantages, disadvantages, and limitations of first \
+principles materials science research techniques. the focus of discussion \
+is on the latest approaches, algorithms, and MODEL_ACCURACIES for \
+screening materials, determining structure property relationships, \
+optimizing ELECTROCHEMICAL_PERFORMANCE, and monitoring \
+ELECTROCHEMICAL_DEVICE_HEALTH. we emphasize the current challenges of ml \
+based ENERGY_MATERIALS_RESEARCH, including limited DATA_AVAILABILITY, \
+SPARSE_DATASETS, and HIGH_DIMENSIONALITY, which can lead to \
+LOW_GENERALIZABILITY and overfitting. an analysis of ML_MODELS is \
+performed to identify the most ROBUST_ALGORITHMS and IMPORTANT_INPUT \
+features in SPECIFIC_APPLICATIONS for batteries and supercapacitors. the \
+accuracy of VARIOUS_ALGORITHMS for predicting remaining USEFUL_LIFE, \
+CYCLE_LIFE, state of charge, state of health, and capacitance has been \
+collected. given the WIDE_RANGE of methods for developing ML_MODELS, this \
+manuscript provides an overview of the most ROBUST_MODELS developed to \
+date and a starting point for FUTURE_RESEARCHERS at the intersection of \
+ml and ENERGY_MATERIALS. finally, an outlook on areas of high impact \
+research in ml based ENERGY_STORAGE is provided.  2023 the ROYAL_SOCIETY \
+of chemistry.
+```
+
+--
+
+**********************************************************************
+
+Improve and make more clear the explanation of the relationships among \
+the keywords:
+
+DEEP_LEARNING; ELECTRIC_AND_HYBRID_VEHICLES; LITHIUM_BATTERIES; \
+CHARGING_STRATEGIES; DIGITAL_STORAGE; BATTERY_MANAGEMENT_SYSTEMS; IONS; \
+CLIMATE_CHANGE; SECONDARY_BATTERIES; GREENHOUSE_GASES
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the \
+information provided in the records presented below. Add cites to the \
+added text using the corresponding Record-No value between brackets.
+
+Here are text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 61
+Record-No: 514
+Citations: 0
+Record-ID: Osman AI, 2023, ENVIRON CHEM LETT
+Title: MACHINE_LEARNING_AND_COMPUTATIONAL_CHEMISTRY to improve \
+BIOCHAR_FERTILIZERS: a review
+Abstract:
+```
+TRADITIONAL_FERTILIZERS are highly inefficient, with a MAJOR_LOSS of \
+nutrients and associated pollution. alternatively, biochar loaded with \
+phosphorous is a SUSTAINABLE_FERTILIZER that IMPROVES_SOIL_STRUCTURE, \
+STORES_CARBON in soils, and provides PLANT_NUTRIENTS in the LONG_RUN, yet \
+most biochars are not optimal because \
+MECHANISMS_RULING_BIOCHAR_PROPERTIES are poorly known. this issue can be \
+solved by RECENT_DEVELOPMENTS in \
+MACHINE_LEARNING_AND_COMPUTATIONAL_CHEMISTRY. here we review \
+PHOSPHORUS_LOADED_BIOCHAR with emphasis on COMPUTATIONAL_CHEMISTRY, \
+MACHINE_LEARNING, ORGANIC_ACIDS, drawbacks of CLASSICAL_FERTILIZERS, \
+BIOCHAR_PRODUCTION, phosphorus loading, and mechanisms of \
+PHOSPHOROUS_RELEASE. modeling techniques allow for deciphering the \
+influence of INDIVIDUAL_VARIABLES on biochar, employing various \
+supervised LEARNING_MODELS tailored to DIFFERENT_BIOCHAR_TYPES. \
+COMPUTATIONAL_CHEMISTRY provides knowledge on factors that \
+CONTROL_PHOSPHORUS binding, e.g., the type of PHOSPHORUS_COMPOUND, \
+SOIL_CONSTITUENTS, MINERAL_SURFACES, binding motifs, water, SOLUTION_PH, \
+and REDOX_POTENTIAL. PHOSPHORUS_RELEASE from biochar is controlled by \
+coexisting anions, ph, ADSORBENT_DOSAGE, \
+INITIAL_PHOSPHORUS_CONCENTRATION, and temperature. PYROLYSIS_TEMPERATURES \
+below 600 C_ENHANCE FUNCTIONAL_GROUP_RETENTION, while temperatures below \
+450 C_INCREASE plant available phosphorus. lower PH_VALUES promote \
+PHOSPHORUS_RELEASE, while higher PH_VALUES_HINDER it. \
+PHYSICAL_MODIFICATIONS, such as increasing SURFACE_AREA and PORE_VOLUME, \
+can maximize the ADSORPTION_CAPACITY of PHOSPHORUS_LOADED_BIOCHAR. \
+furthermore, the type of ORGANIC_ACID_AFFECTS_PHOSPHORUS_RELEASE, with \
+LOW_MOLECULAR_WEIGHT_ORGANIC_ACIDS being advantageous for \
+SOIL_UTILIZATION. lastly, biochar based FERTILIZERS_RELEASE_NUTRIENTS 24 \
+times slower than CONVENTIONAL_FERTILIZERS.  2023, the author(s).
+```
+
+--
+
+##: 62
+Record-No: 474
+Citations: 0
+Record-ID: Pan H/1, 2023, NANO-MICRO LETT, V15
+Title: boosting LEAN_ELECTROLYTE_LITHIUMSULFUR_BATTERY_PERFORMANCE with \
+TRANSITION_METALS: a COMPREHENSIVE_REVIEW
+Abstract:
+```
+abstract: lithiumsulfur (lis) batteries have received \
+WIDESPREAD_ATTENTION, and LEAN_ELECTROLYTE_LIS_BATTERIES have attracted \
+ADDITIONAL_INTEREST because of their higher ENERGY_DENSITIES. this review \
+systematically analyzes the effect of the electrolyte to SULFUR (e/s) \
+ratios on BATTERY_ENERGY_DENSITY and the challenges for \
+SULFUR_REDUCTION_REACTIONS (srr) under LEAN_ELECTROLYTE_CONDITIONS. \
+accordingly, we review the use of \
+VARIOUS_POLAR_TRANSITION_METAL_SULFUR_HOSTS as CORRESPONDING_SOLUTIONS to \
+FACILITATE_SRR_KINETICS at low e/s ratios (< 10 l mg1), and the strengths \
+and limitations of DIFFERENT_TRANSITION_METAL_COMPOUNDS are presented and \
+discussed from a FUNDAMENTAL_PERSPECTIVE. subsequently, three \
+PROMISING_STRATEGIES for SULFUR_HOSTS that act as anchors and catalysts \
+are proposed to boost LEAN_ELECTROLYTE_LIS_BATTERY_PERFORMANCE. finally, \
+an outlook is provided to guide FUTURE_RESEARCH on \
+HIGH_ENERGY_DENSITY_LIS_BATTERIES. GRAPHICAL_ABSTRACT: [figure not \
+available: see fulltext.]  2023, the author(s).
+```
+
+--
+
+##: 63
+Record-No: 447
+Citations: 0
+Record-ID: Xu J/2, 2023, MATER FUTURE, V2
+Title: HIGH_ENTROPY electrolytes in boosting BATTERY_PERFORMANCE
+Abstract:
+```
+entropy, once overlooked, is an ESSENTIAL_ASPECT of electrolytes. \
+recently emerged HIGH_ENTROPY electrolytes with MULTIPLE_COMPONENTS \
+provide VAST_COMPOSITIONAL_SPACE and INTERFACIAL_CHEMISTRY_POSSIBILITIES \
+for ELECTROLYTE_DESIGN. it is noteworthy that HIGH_ENTROPY electrolytes \
+exhibit extraordinarily HIGH_IONIC_CONDUCTIVITY at LOW_TEMPERATURES, \
+thereby creating a NEW_DIRECTION for BATTERIES to operate at ultra \
+LOW_TEMPERATURES. this COMMENTARY_DISCUSSES the underlying mechanism, \
+challenges encountered, and POTENTIAL_SOLUTIONS of HIGH_ENTROPY \
+ELECTROLYTE_DESIGN in the hope of sparking FUTURE_RESEARCH in this \
+subject.  2023 the author(s). published by iop publishing ltd on behalf \
+of the SONGSHAN_LAKE_MATERIALS_LABORATORY.
+```
+
+--
+
+##: 64
+Record-No: 512
+Citations: 0
+Record-ID: Kilic A, 2022, J BRAZ SOC MECH SCI ENG, V44
+Title: PREDICTIVE_DIAGNOSIS with ARTIFICIAL_NEURAL_NETWORK for automated \
+ELECTRIC_VEHICLE
+Abstract:
+```
+the requirements and availability of the ELECTRIC_POWERTRAIN will be \
+significantly increased with the introduction of AUTOMATED_DRIVING \
+functions. in this case, the MECHANICAL_FALLBACK_LEVEL of the driver must \
+be replaced by a fault tolerant system. NEW_CONCEPTS such as the \
+PREDICTIVE_DIAGNOSTIC or customized OPERATION_STRATEGIES_ENSURE the \
+FAULT_TOLERANCE. an ESSENTIAL_COMPONENT to realize the requirements is \
+the ELECTRIC_DRIVE. in the PRESENT_WORK, a method for the prediction of \
+the FAULT_CONDITION in PERMANENT_MAGNET_SYNCHRONOUS_MOTOR (pmsm) is \
+developed based on ARTIFICIAL_NEURAL_NETWORKS (ann). not only the \
+FAILURE_OCCURRENCE is detected, but also the severity of the failure is \
+predicted and classified. for this purpose, a SUITABLE_FAILURE_INDICATOR \
+is needed, which contradicts the severity of the failure and thus allows \
+both the prediction and degradation (protection) of the system. the \
+prerequisite for the use of MACHINE_LEARNING_METHODS, such as \
+ARTIFICIAL_NEURAL_NETWORKS, is the existence of a database. data is \
+obtained with the help of SIMULATION_MODEL of pmsm, which can be \
+corrected with failures. features from the PHASE_CURRENTS and the battery \
+current in the TIME_DOMAIN and in the FREQUENCY_DOMAIN are presented as \
+well as CLASSICAL_METHODS such as the WAVELET_ANALYSIS or the \
+decomposition into SYMMETRICAL_COMPONENTS. the selection of the features \
+has a GREAT_INFLUENCE on the DIAGNOSTIC_RESULT and on the performance of \
+the algorithm. the failures are represented by the features in the \
+FREQUENCY_DOMAIN. based on these aspects, several NEURAL_NETWORKS are \
+formed. to predict the failure, an accuracy of about 95% is achieved and \
+for the classification an accuracy of about 98.5%.  2022, the author(s), \
+under EXCLUSIVE_LICENCE to the BRAZILIAN_SOCIETY of MECHANICAL_SCIENCES \
+and engineering.
+```
+
+--
+
+

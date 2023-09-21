@@ -1,0 +1,2483 @@
+You are an automathic writer asistant. Write one list of bullets \
+summarizing the conclussions that are common in the following abstracts. \
+Generate an unique list, not a list per abstract. Use the Record-No value \
+between brackets to indicate the reference to the record. For example, \
+[1] means that the information is in the Record-No 1.
+
+Here are the records:
+
+##: 1
+Record-No: 7
+Citations: 632
+Record-ID: Vinuesa R, 2020, NAT COMMUN, V11
+Title: the role of ARTIFICIAL_INTELLIGENCE in achieving the \
+SUSTAINABLE_DEVELOPMENT_GOALS
+Abstract:
+```
+the emergence of ARTIFICIAL_INTELLIGENCE (ai) and its progressively wider \
+impact on many sectors requires an assessment of its effect on the \
+achievement of the SUSTAINABLE_DEVELOPMENT_GOALS. using a CONSENSUS based \
+EXPERT_ELICITATION_PROCESS, we find that ai can enable the accomplishment \
+of 134 targets across all the goals, but it may also inhibit 59 targets. \
+however, CURRENT_RESEARCH_FOCI_OVERLOOK IMPORTANT_ASPECTS. the \
+FAST_DEVELOPMENT of AI_NEEDS to be supported by the \
+NECESSARY_REGULATORY_INSIGHT and oversight for ai based technologies to \
+ENABLE_SUSTAINABLE_DEVELOPMENT. failure to do so could result in gaps in \
+transparency, safety, and ETHICAL_STANDARDS.  2020, the author(s).
+```
+
+--
+
+##: 2
+Record-No: 86
+Citations: 179
+Record-ID: Aghbashlo M, 2021, PROG ENERGY COMBUST SCI, V85
+Title: MACHINE_LEARNING_TECHNOLOGY in BIODIESEL_RESEARCH: a review
+Abstract:
+```
+BIODIESEL has the potential to significantly contribute to making \
+transportation fuels more sustainable. due to the complexity and \
+nonlinearity of processes for BIODIESEL_PRODUCTION and use, fast and \
+accurate MODELING tools are required for their design, optimization, \
+monitoring, and CONTROL. data driven MACHINE_LEARNING (ml) techniques \
+have demonstrated SUPERIOR_PREDICTIVE_CAPABILITY compared to \
+CONVENTIONAL_METHODS for MODELING such highly COMPLEX_PROCESSES. among \
+the AVAILABLE_ML_TECHNIQUES, the ARTIFICIAL_NEURAL_NETWORK (ann) \
+technology is the most widely used approach in BIODIESEL_RESEARCH. the \
+ANN_APPROACH is a COMPUTATIONAL_LEARNING_METHOD that mimics the human \
+brain's neurological processing ability to map input output relationships \
+of ill defined systems. given its HIGH_GENERALIZATION_CAPACITY, ann has \
+gained popularity in dealing with complex nonlinear real world \
+engineering and SCIENTIFIC_PROBLEMS. this paper is devoted to thoroughly \
+reviewing and critically discussing VARIOUS_ML_TECHNOLOGY_APPLICATIONS, \
+with a PARTICULAR_FOCUS on ann, to solve FUNCTION_APPROXIMATION, \
+optimization, monitoring, and CONTROL_PROBLEMS in BIODIESEL_RESEARCH. \
+moreover, the advantages and disadvantages of using ML_TECHNOLOGY in \
+BIODIESEL_RESEARCH are highlighted to DIRECT_FUTURE_R&D_EFFORTS in this \
+domain. ML_TECHNOLOGY has generally been used in BIODIESEL_RESEARCH for \
+MODELING (trans)ESTERIFICATION_PROCESSES, physico chemical \
+characteristics of BIODIESEL, and BIODIESEL fueled \
+INTERNAL_COMBUSTION_ENGINES. the PRIMARY_PURPOSE of introducing \
+ML_TECHNOLOGY to the BIODIESEL_INDUSTRY has been to monitor and \
+CONTROL_BIODIESEL_SYSTEMS in real time; however, these issues have rarely \
+been explored in the literature. therefore, FUTURE_STUDIES appear to be \
+directed towards the use of ML_TECHNIQUES for \
+REAL_TIME_PROCESS_MONITORING and CONTROL of BIODIESEL_SYSTEMS to \
+ENHANCE_PRODUCTION_EFFICIENCY, ECONOMIC_VIABILITY, and \
+ENVIRONMENTAL_SUSTAINABILITY.  2021 ELSEVIER_LTD
+```
+
+--
+
+##: 3
+Record-No: 8
+Citations: 161
+Record-ID: Gu GH, 2019, J MATER CHEM A, V7, P17096
+Title: MACHINE_LEARNING for RENEWABLE_ENERGY_MATERIALS
+Abstract:
+```
+achieving the 2016 PARIS_AGREEMENT_GOAL of limiting GLOBAL_WARMING below \
+2 c and securing a SUSTAINABLE_ENERGY future require \
+MATERIALS_INNOVATIONS in RENEWABLE_ENERGY_TECHNOLOGIES. while the window \
+of opportunity is closing, meeting these GOALS_NECESSITATES deploying \
+NEW_RESEARCH_CONCEPTS and strategies to ACCELERATE_MATERIALS_DISCOVERY by \
+an order of magnitude. RECENT_ADVANCEMENTS in MACHINE_LEARNING have \
+provided the SCIENCE_AND_ENGINEERING community with a flexible and \
+RAPID_PREDICTION_FRAMEWORK, showing a TREMENDOUS_POTENTIAL_IMPACT. here \
+we summarize the RECENT_PROGRESS in MACHINE_LEARNING_APPROACHES for \
+developing RENEWABLE_ENERGY_MATERIALS. we demonstrate applications of \
+MACHINE_LEARNING_METHODS for THEORETICAL_APPROACHES in key \
+RENEWABLE_ENERGY_TECHNOLOGIES including catalysis, batteries, \
+SOLAR_CELLS, and CRYSTAL_DISCOVERY. we also analyze NOTABLE_APPLICATIONS \
+resulting in SIGNIFICANT_REAL_DISCOVERIES and discuss CRITICAL_GAPS to \
+further ACCELERATE_MATERIALS_DISCOVERY.  the ROYAL_SOCIETY of chemistry.
+```
+
+--
+
+##: 4
+Record-No: 22
+Citations: 124
+Record-ID: Betiku E, 2015, RENEW ENERGY, V76, P408
+Title: PERFORMANCE_EVALUATION of ARTIFICIAL_NEURAL_NETWORK coupled with \
+GENERIC_ALGORITHM and RESPONSE_SURFACE_METHODOLOGY in \
+MODELING_AND_OPTIMIZATION of BIODIESEL_PRODUCTION_PROCESS_PARAMETERS from \
+SHEA_TREE (VITELLARIA_PARADOXA) NUT_BUTTER
+Abstract:
+```
+this work investigated the potential of SHEA_BUTTER_OIL (sbo) as \
+feedstock for synthesis of BIODIESEL. due to HIGH_FREE_FATTY_ACID (ffa) \
+of sbo used, RESPONSE_SURFACE_METHODOLOGY (rsm) was employed to model and \
+optimize the PRETREATMENT_STEP while its conversion to BIODIESEL was \
+modeled and optimized using rsm and ARTIFICIAL_NEURAL_NETWORK (ann). the \
+ACID_VALUE of the sbo was reduced to 1.19mg koh/g with oil/methanol \
+MOLAR_RATIO of 3.3, h2so4 of 0.15 v/v, time of 60min and temperature of \
+45c. OPTIMUM_VALUES predicted for the TRANSESTERIFICATION_REACTION by rsm \
+were temperature of 90c, koh of 0.6w/v, oil/methanol MOLAR_RATIO of 3.5, \
+and time of 30min with ACTUAL_SHEA_BUTTER_OIL_BIODIESEL (sbob) yield of \
+99.65% (w/w). ann combined with GENERIC_ALGORITHM gave the \
+OPTIMAL_CONDITION as temperature of 82c, koh of 0.40w/v, oil/methanol \
+MOLAR_RATIO of 2.62 and time of 30min with ACTUAL_SBOB_YIELD of 99.94% \
+(w/w). COEFFICIENT_OF_DETERMINATION (r2) and ABSOLUTE_AVERAGE_DEVIATION \
+(aad) of the models were 0.9923, 0.83% (rsm) and 0.9991, 0.15% (ann), \
+which demonstrated that ANN_MODEL was more efficient than RSM_MODEL. \
+properties of sbob produced were within BIODIESEL \
+STANDARD_SPECIFICATIONS.  2014 ELSEVIER_LTD.
+```
+
+--
+
+##: 5
+Record-No: 65
+Citations: 123
+Record-ID: Sharma P, 2022, ENERGY FUELS, V36, P6626
+Title: RECENT_ADVANCES in MACHINE_LEARNING_RESEARCH for nanofluid based \
+HEAT_TRANSFER in RENEWABLE_ENERGY_SYSTEM
+Abstract:
+```
+NANOFLUIDS have gained SIGNIFICANT_POPULARITY in the field of sustainable \
+and RENEWABLE_ENERGY_SYSTEMS. the HEAT_TRANSFER capacity of the \
+WORKING_FLUID has a HUGE_IMPACT on the efficiency of the \
+RENEWABLE_ENERGY_SYSTEM. the addition of a SMALL_AMOUNT of \
+HIGH_THERMAL_CONDUCTIVITY SOLID_NANOPARTICLES to a \
+BASE_FLUID_IMPROVES_HEAT transfer. even though a LARGE_AMOUNT of \
+RESEARCH_DATA is available in the literature, some results are \
+contradictory. many influencing factors, as well as nonlinearity and \
+refutations, make NANOFLUID_RESEARCH highly challenging and obstruct its \
+potentially VALUABLE_USES. on the other hand, data driven \
+MACHINE_LEARNING_TECHNIQUES would be very useful in NANOFLUID_RESEARCH \
+for forecasting thermophysical features and HEAT_TRANSFER rate, \
+identifying the most INFLUENTIAL_FACTORS, and assessing the efficiencies \
+of DIFFERENT_RENEWABLE_ENERGY_SYSTEMS. the PRIMARY_AIM of this \
+REVIEW_STUDY is to look at the features and applications of \
+DIFFERENT_MACHINE_LEARNING_TECHNIQUES employed in the nanofluid based \
+RENEWABLE_ENERGY_SYSTEM, as well as to reveal NEW_DEVELOPMENTS in \
+MACHINE_LEARNING_RESEARCH. a variety of \
+MODERN_MACHINE_LEARNING_ALGORITHMS for nanofluid based HEAT_TRANSFER \
+studies in renewable and SUSTAINABLE_ENERGY_SYSTEMS are examined, along \
+with their advantages and disadvantages. ARTIFICIAL_NEURAL networks based \
+MODEL_PREDICTION using CONTEMPORARY_COMMERCIAL_SOFTWARE is simple to \
+develop and the most popular. the PROGNOSTIC_CAPACITY may be further \
+improved by combining a MARINE_PREDATOR_ALGORITHM, GENETIC_ALGORITHM, \
+SWARM_INTELLIGENCE_OPTIMIZATION, and other \
+INTELLIGENT_OPTIMIZATION_APPROACHES. in addition to the well known \
+NEURAL_NETWORKS and fuzzy  and gene based MACHINE_LEARNING_TECHNIQUES, \
+newer ENSEMBLE_MACHINE_LEARNING_TECHNIQUES such as boosted \
+REGRESSION_TECHNIQUES, k means, k nearest neighbor (knn), catboost, and \
+xgboost are gaining popularity due to their improved architectures and \
+adaptabilities to DIVERSE_DATA_TYPES. the regularly used NEURAL_NETWORKS \
+and fuzzy based algorithms are mostly black box methods, with the user \
+having little or no understanding of how they function. this is the \
+reason for concern, and ETHICAL_ARTIFICIAL_INTELLIGENCE is required. \
+2022 AMERICAN_CHEMICAL_SOCIETY. all rights reserved.
+```
+
+--
+
+##: 6
+Record-No: 9
+Citations: 111
+Record-ID: Bermejo JF, 2019, APPL SCI, V9
+Title: a review of the use of ARTIFICIAL_NEURAL_NETWORK_MODELS for energy and \
+RELIABILITY_PREDICTION. a study of the SOLAR_PV, hydraulic and wind \
+ENERGY_SOURCES
+Abstract:
+```
+the generation of energy from RENEWABLE_SOURCES is subjected to very \
+DYNAMIC_CHANGES in ENVIRONMENTAL_PARAMETERS and asset operating \
+conditions. this is a very RELEVANT_ISSUE to be considered when \
+developing RELIABILITY_STUDIES, modeling ASSET_DEGRADATION and projecting \
+RENEWABLE_ENERGY_PRODUCTION. to that end, ARTIFICIAL_NEURAL_NETWORK (ann) \
+models have proven to be a very INTERESTING_TOOL, and there are many \
+relevant and INTERESTING_CONTRIBUTIONS using ANN_MODELS, with \
+DIFFERENT_PURPOSES, but somehow related to real time estimation of \
+ASSET_RELIABILITY and ENERGY_GENERATION. this document provides a \
+PRECISE_REVIEW of the literature related to the use of ann when \
+predicting behaviors in ENERGY_PRODUCTION for the referred \
+RENEWABLE_ENERGY_SOURCES. SPECIAL_ATTENTION is paid to describe the scope \
+of the DIFFERENT_CASE_STUDIES, the SPECIFIC_APPROACHES that were used \
+over time, and the MAIN_VARIABLES that were considered. among all \
+contributions, this PAPER_HIGHLIGHTS those incorporating intelligence to \
+ANTICIPATE_RELIABILITY_PROBLEMS and to develop ad hoc advanced \
+MAINTENANCE_POLICIES. the purpose is to offer the readers an \
+OVERALL_PICTURE per ENERGY_SOURCE, estimating the significance that this \
+tool has achieved over the last years, and identifying the potential of \
+these techniques for FUTURE_DEPENDABILITY_ANALYSIS.  2019 by the authors.
+```
+
+--
+
+##: 7
+Record-No: 49
+Citations: 99
+Record-ID: Hosseini S, 2019, INT J ELECTR POWER ENERGY SYS, V105, P110
+Title: development of a BAYESIAN_NETWORK_MODEL for OPTIMAL_SITE_SELECTION of \
+ELECTRIC_VEHICLE_CHARGING station
+Abstract:
+```
+fast CHARGING sites play a CRUCIAL_ROLE for PUBLIC_ACCEPTANCE of \
+ELECTRIC_VEHICLE (ev). selection of the most SUSTAINABLE_SITE positively \
+contributes to the LIFE_CYCLE of ELECTRIC_VEHICLE_CHARGING station \
+(evcs), which requires considering some conflicting criteria. \
+PREVIOUS_RESEARCHES mainly focused on utilizing OPTIMIZATION_MODELS to \
+deal with EVCS_SITE_SELECTION that only accounts for \
+QUANTITATIVE_FACTORS, while this paper proposes a BAYESIAN_NETWORK (bn) \
+model that considers not only QUANTITATIVE_FACTORS but also qualitative \
+(subjective) ones. based on ACADEMIC_LITERATURE and EXPERT_JUDGMENTS, the \
+ASSESSMENT_INDEX for EVCS_SITE_SELECTION was mainly made from \
+SUSTAINABILITY_POINT of view, which contains of economic, environmental, \
+and SOCIAL_CRITERIA with a total of eleven sub criteria. bns are \
+POWERFUL_TOOLS for handling RISK_ASSESSMENT and \
+DECISION_MAKING_UNDER_UNCERTAINTY. the developed BN_MODEL is validated \
+through SENSITIVITY_ANALYSIS_APPROACH. finally, \
+DIFFERENT_PROPAGATION_ANALYSES have been performed to make SPECIAL_TYPES \
+of reasoning. this paper provides a NEW_RESEARCH_PERSPECTIVE by \
+considering uncertainty, qualitative and QUANTITATIVE_FACTORS into the \
+SITE_SELECTION_ASSESSMENT, and presents the MAINSTREAM_PENETRATION of bn \
+as a POWERFUL_DECISION_MAKING_TOOL in the context of \
+ELECTRICAL_ENERGY_MANAGEMENT.  2018 ELSEVIER_LTD
+```
+
+--
+
+##: 8
+Record-No: 36
+Citations: 90
+Record-ID: Alvarez Fernandez R, 2018, RENEWABLE SUSTAINABLE ENERGY , V81, P655
+Title: FUEL_OPTIMIZATION_STRATEGY for HYDROGEN_FUEL_CELL_RANGE_EXTENDER_VEHICLES \
+applying GENETIC_ALGORITHMS
+Abstract:
+```
+whether or not ALTERNATIVE_FUEL_VEHICLES (afvs) will finally find a place \
+in the global mass market or even will dominate the VEHICLE_SEGMENT will \
+depend on several SUCCESS_FACTORS: reduction of CUSTOMER_ANXIETY, fast \
+recharging, better CHARGING infrastructure, \
+ENVIRONMENTAL_JUSTICE_POLICIES and some others. \
+CURRENT_TECHNOLOGICAL_ADVANCES in battery ELECTRIC_VEHICLES and hydrogen \
+fuelled ELECTRIC_VEHICLES could represent a hopefully option in the \
+NEAR_FUTURE. nevertheless, and until electric/hydrogen technological \
+barriers are not torn down, both POWER_ARCHITECTURE do not have an \
+opportunity to be fully introduced in the VEHICLE_MARKET. in this paper, \
+the authors present a POWERTRAIN_ARCHITECTURE_CONCEPT based in \
+CURRENT_FOSSIL_FUEL_EXTENDER_RANGE, but changing it to a \
+HYDROGEN_FUEL_CELL_STACK_SYSTEM that works as RANGE_EXTENDER. the \
+objective is to probe how OPTIMIZATION_TECHNIQUES, by the inclusion of \
+GENETIC_ALGORITHMS, could be a CRUCIAL_HELP when planning the fuel \
+consumption/selection. the PAPER_AMBITION is to highlight the \
+possibilities of this powertrain and its appropriated management to allow \
+hydrogen become an ENERGY_CARRIER feasible today in the AUTOMOTIVE_WORLD. \
+2017
+```
+
+--
+
+##: 9
+Record-No: 68
+Citations: 84
+Record-ID: Sewsynker-Sukai Y, 2017, BIOTECHNOL BIOTECHNOL EQUIP, V31, P221
+Title: ARTIFICIAL_NEURAL_NETWORKS: an EFFICIENT_TOOL for MODELLING and \
+OPTIMIZATION of BIOFUEL_PRODUCTION (a MINI_REVIEW)
+Abstract:
+```
+in view of the looming ENERGY_CRISIS as a result of depleting \
+FOSSIL_FUEL_RESOURCES and environmental concerns from \
+GREENHOUSE_GAS_EMISSIONS, the need for SUSTAINABLE_ENERGY_SOURCES has \
+secured GLOBAL_ATTENTION. research is currently focused towards \
+RENEWABLE_SOURCES of energy due to their availability and \
+ENVIRONMENTAL_FRIENDLINESS. BIOFUEL_PRODUCTION like other bioprocesses is \
+controlled by several PROCESS_PARAMETERS including ph, temperature and \
+SUBSTRATE_CONCENTRATION; however, the improvement of BIOFUEL_PRODUCTION \
+requires a ROBUST_PROCESS_MODEL that accurately relates the effect of \
+INPUT_VARIABLES to the PROCESS_OUTPUT. ARTIFICIAL_NEURAL_NETWORKS (anns) \
+have emerged as a tool for MODELLING complex, non linear processes. anns \
+are applied in the prediction of VARIOUS_PROCESSES; they are useful for \
+VIRTUAL_EXPERIMENTATIONS and can potentially ENHANCE_BIOPROCESS_RESEARCH \
+and development. in this study, RECENT_FINDINGS on the application of ann \
+for the MODELLING and OPTIMIZATION of biohydrogen, biogas, biodiesel, \
+MICROBIAL_FUEL_CELL_TECHNOLOGY and BIOETHANOL are reviewed. in addition, \
+COMPARATIVE_STUDIES on the MODELLING efficiency of ann and other \
+techniques such as the RESPONSE_SURFACE_METHODOLOGY are briefly \
+discussed. the REVIEW_HIGHLIGHTS the efficiency of anns as a MODELLING \
+and OPTIMIZATION_TOOL in BIOFUEL_PROCESS_DEVELOPMENT.  2016 the \
+author(s). published by INFORMA_UK limited, trading as taylor & \
+FRANCIS_GROUP.
+```
+
+--
+
+##: 10
+Record-No: 19
+Citations: 81
+Record-ID: Laghari JA, 2014, ENERGY CONVERS MANAGE, V88, P139
+Title: COMPUTATIONAL_INTELLIGENCE based techniques for ISLANDING_DETECTION of \
+distributed generation in DISTRIBUTION_NETWORK: a review
+Abstract:
+```
+accurate and fast ISLANDING_DETECTION of distributed generation is highly \
+important for its SUCCESSFUL_OPERATION in DISTRIBUTION_NETWORKS. up to \
+now, various ISLANDING_DETECTION technique based on communication, \
+passive, active and HYBRID_METHODS have been proposed. however, each \
+TECHNIQUE_SUFFERS from CERTAIN_DEMERITS that cause inaccuracies in \
+ISLANDING_DETECTION. COMPUTATIONAL_INTELLIGENCE based techniques, due to \
+their robustness and flexibility in dealing with \
+COMPLEX_NONLINEAR_SYSTEMS, is an option that might solve this problem. \
+this PAPER_AIMS to provide a COMPREHENSIVE_REVIEW of \
+COMPUTATIONAL_INTELLIGENCE based techniques applied for \
+ISLANDING_DETECTION of distributed generation. moreover, the \
+PAPER_COMPARES the accuracies of COMPUTATIONAL_INTELLIGENCE based \
+techniques over existing techniques to provide a handful of information \
+for industries and UTILITY_RESEARCHERS to determine the best method for \
+their RESPECTIVE_SYSTEM.  2014 ELSEVIER_LTD. all rights reserved.
+```
+
+--
+
+**********************************************************************
+
+Improve, complete and make more clear the following list of bullets. Adds \
+new conclussions that are common in the following abstracts or adds new \
+common conclusions. Generate an unique list, not a list per abstract. Use \
+the Record-No value between brackets to indicate the reference to the \
+record. For example, [1] means that the information is in the Record-No \
+1.
+
+Here is the list of bullets to improve, complete and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 11
+Record-No: 181
+Citations: 56
+Record-ID: Borunda M, 2016, RENEWABLE SUSTAINABLE ENERGY , V62, P32
+Title: BAYESIAN_NETWORKS in RENEWABLE_ENERGY_SYSTEMS: a BIBLIOGRAPHICAL_SURVEY
+Abstract:
+```
+for the last years, the RESEARCH_AND_DEVELOPMENT in the field of \
+RENEWABLE_ENERGY has been growing due to the need of RENEWABLE_ENERGY as \
+an extended and RELIABLE_SOURCE of energy. however, the implementation of \
+RENEWABLE_ENERGY has many COMPLEX_PROBLEMS not easily solved with \
+CONVENTIONAL_METHODS. recently, ARTIFICIAL_INTELLIGENCE_TECHNIQUES such \
+as ARTIFICIAL_NEURAL_NETWORKS, FUZZY_LOGIC and GENETIC_ALGORITHMS, have \
+been widely used to deal with these problems in the field of \
+RENEWABLE_ENERGY. nevertheless, issues with a degree of \
+UNCERTAINTY_NEED_BAYESIAN_NETWORKS since this is one of the most \
+EFFECTIVE_THEORIES to face them. this technique can contribute to the \
+RENEWABLE_ENERGY harnessing and other OPEN_ISSUES on this field. in this \
+work we show the state of the art of the applications of \
+BAYESIAN_NETWORKS in RENEWABLE_ENERGY, such as SOLAR_THERMAL, \
+photovoltaic, wind, geothermal, HYDROELECTRIC_ENERGIES and biomass. \
+additionally, we include related topics such as ENERGY_STORAGE, \
+SMART_GRIDS and ENERGY_ASSESSMENT. we classify the literature by areas \
+considering three MAIN_SUBJECTS: RESOURCE_EVALUATION, operation, and \
+applications, and in each section we describe the POSSIBLE_DIRECTIONS to \
+be taken in the research of the field. we find that the MAIN_APPLICATIONS \
+are done for forecasting, FAULT_DIAGNOSIS, maintenance, operation, \
+planning, sizing and RISK_MANAGEMENT. we conclude that BAYESIAN_NETWORKS \
+are a PROMISING_TOOL for the field of RENEWABLE_ENERGY with \
+POTENTIAL_APPLICATIONS due to their versatility.  2016 ELSEVIER_LTD. all \
+rights reserved.
+```
+
+--
+
+##: 12
+Record-No: 200
+Citations: 55
+Record-ID: Ascher S, 2022, RENEWABLE SUSTAINABLE ENERGY , V155
+Title: MACHINE_LEARNING_METHODS for modelling the GASIFICATION and PYROLYSIS of \
+BIOMASS and WASTE
+Abstract:
+```
+over the past two decades, the use of MACHINE_LEARNING (ml) methods to \
+MODEL_BIOMASS and WASTE_GASIFICATION/PYROLYSIS has increased rapidly. \
+only 70 papers were published in the 2000s compared to a total of 549 \
+publications in the 2010s. however, the approaches and findings have yet \
+to be systematically reviewed. in this work, the MACHINE_LEARNING_METHODS \
+most commonly employed for modelling GASIFICATION and PYROLYSIS_PROCESSES \
+are discussed with reference to their applications, merits, and \
+limitations. WHILST_COEFFICIENTS of determination (r2) can be difficult \
+to compare directly, due to some studies having greatly \
+DIFFERENT_APPROACHES and aims, most studies consistently achieved a \
+HIGH_PREDICTION_ACCURACY with r2 > 0.90. ARTIFICIAL_NEURAL_NETWORKS have \
+been most widely used due to their potential to learn highly NON_LINEAR \
+input output relationships. however, a variety of methods (e.g. \
+REGRESSION_METHODS, tree based methods, and SUPPORT_VECTOR_MACHINES) are \
+appropriate depending on the application, DATA_AVAILABILITY, MODEL_SPEED, \
+etc. it is concluded that ml has GREAT_POTENTIAL for the development of \
+models with greater accuracy. some advantages of MACHINE_LEARNING_MODELS \
+over existing models are their ability to incorporate relevant non \
+numerical parameters and the power to generate a multitude of solutions \
+for a WIDE_RANGE of INPUT_PARAMETERS. more emphasis should be placed on \
+MODEL_INTERPRETABILITY in order to better understand the processes being \
+studied.  2021 ELSEVIER_LTD
+```
+
+--
+
+##: 13
+Record-No: 173
+Citations: 52
+Record-ID: Wang Z/3, 2022, BIORESOUR TECHNOL, V343
+Title: the role of MACHINE_LEARNING to boost the BIOENERGY and \
+BIOFUELS_CONVERSION
+Abstract:
+```
+the development and application of BIOENERGY and \
+BIOFUELS_CONVERSION_TECHNOLOGY can play a SIGNIFICANT_ROLE for the \
+production of renewable and SUSTAINABLE_ENERGY_SOURCES in the future. \
+however, the complexity of BIOENERGY_SYSTEMS and the limitations of \
+HUMAN_UNDERSTANDING make it difficult to build models based on experience \
+or theory for ACCURATE_PREDICTIONS. RECENT_DEVELOPMENTS in DATA_SCIENCE \
+and MACHINE_LEARNING (ml), can provide NEW_OPPORTUNITIES. accordingly, \
+this CRITICAL_REVIEW provides a DEEP_INSIGHT into the application of ml \
+in the BIOENERGY_CONTEXT. the latest advances in ml assisted \
+BIOENERGY_TECHNOLOGY, including ENERGY_UTILIZATION of \
+LIGNOCELLULOSIC_BIOMASS, MICROALGAE_CULTIVATION, BIOFUELS_CONVERSION and \
+application, are reviewed in detail. the strengths and limitations of ml \
+in BIOENERGY_SYSTEMS are comprehensively analysed. moreover, we highlight \
+the capabilities and potential of advanced ML_METHODS when encountering \
+MULTIFARIOUS_TASKS in the FUTURE_PROSPECTS to advance a NEW_GENERATION of \
+BIOENERGY and BIOFUELS_CONVERSION_TECHNOLOGIES.  2021 ELSEVIER_LTD
+```
+
+--
+
+##: 14
+Record-No: 119
+Citations: 51
+Record-ID: Al-Othman A, 2022, ENERGY CONVERS MANAGE, V253
+Title: ARTIFICIAL_INTELLIGENCE and NUMERICAL_MODELS in hybrid \
+RENEWABLE_ENERGY_SYSTEMS with FUEL_CELLS: advances and prospects
+Abstract:
+```
+with the RAPID_ADVANCEMENT of technology in the ENERGY_SECTOR and the \
+demand for SUSTAINABLE_ENERGY_PRACTICES, the world is aiming at fostering \
+the HYDROGEN_ECONOMY and developing proper ENERGY_MANAGEMENT utilizing \
+GREEN_HYDROGEN. to ensure the SUCCESSFUL_ADOPTION of hydrogen driven \
+RENEWABLE_ENERGY_SYSTEMS, a THOROUGH_UNDERSTANDING of the degree to which \
+hybrid RENEWABLE_ENERGY_SYSTEMS (hress) can be optimized \
+WHILST_MEETING_COMMERCIAL and SOCIETAL_GOALS is critical. the work \
+presented here is comprehensive and geared towards reviewing the \
+application of ARTIFICIAL_INTELLIGENCE (ai) in hress, particularly \
+SOLAR_PHOTOVOLTAIC and wind energy that are integrated with FUEL_CELLS \
+(fcs). COMMON_AI_METHODS such as GENETIC_ALGORITHM, \
+PARTICLE_SWARM_OPTIMIZATION, SIMULATED_ANNEALING, RANDOM_FOREST, k \
+nearest neighbors, SUPPORT_VECTOR_MACHINE, and ARTIFICIAL_NEURAL_NETWORK \
+are introduced, CURRENT_FCS_TECHNOLOGY and MARKET_TRENDS are analyzed, \
+FCS_CONTROL_STRATEGIES using ai are discussed and \
+RECENT_DEMONSTRATION_HRESS are described. in addition, this \
+REVIEW_ENCAPSULATES VITAL_INFORMATION on the following (1) \
+technicaleconomic environmental optimizations studies on fc hres since \
+2015 (2) implementation of ai in designing \
+ROBUST_ENERGY_MANAGEMENT_SYSTEMS (3) a COMPREHENSIVE_LIST of studies on \
+optimization of proton exchange membrane fcs and SOLID_OXIDE_FCS (the \
+most addressed in the literature) using DIFFERENT_AI_METHODS. while there \
+is CONSIDERABLE_RESEARCH on fcs for MOBILE_APPLICATIONS, BLENDING \
+HYDROGEN_POWER generating systems into RENEWABLE_ENERGY_SYSTEMS using \
+advanced computing and AI_METHODS has not been previously discussed. the \
+paper showed the ENORMOUS_CAPABILITY of ai based, and data driven \
+modeling in identifying the conditions required for \
+MAXIMUM_POWER_PRODUCTION. the MAIN_ADVANTAGES of ai enabled SOLUTIONS_LIE \
+in predicting the drawbacks of hres during UNEXPECTED_LOAD_PEAKS as well \
+as INTERMITTENT_ENERGY_PRODUCTION.  2021 ELSEVIER_LTD
+```
+
+--
+
+##: 15
+Record-No: 196
+Citations: 49
+Record-ID: Samanta A, 2021, ELECTRONICS (SWITZERLAND), V10
+Title: machine learning based data driven fault detection/diagnosis of lithium \
+ion battery: a critical review
+Abstract:
+```
+fault detection/diagnosis has become a crucial function of the battery \
+management system (bms) due to the increasing application of lithium ion \
+batteries (libs) in highly sophisticated and high power applications to \
+ensure the safe and reliable operation of the system. the application of \
+machine learning (ml) in the bms of lib has long been adopted for \
+efficient, reliable, ACCURATE_PREDICTION of several important states of \
+lib such as state of charge, state of health and remaining USEFUL_LIFE. \
+inspired by some of the promising features of ml based techniques over \
+the conven tional lib fault detection/diagnosis methods such as model \
+based, knowledge based and signal processing based techniques, ml based \
+data driven methods have been a prime research focus in the last few \
+years. this paper provides a comprehensive review exclusively on the \
+state of the art ml based data driven fault detection/diagnosis \
+techniques to provide a ready reference and direction to the research \
+community aiming towards developing an accurate, reliable, adaptive and \
+easy to implement fault diagnosis strategy for the lib system. current \
+issues of existing strategies and future challenges of lib fault \
+diagnosis are also explained for better understanding and guidance.  2021 \
+by the authors. licensee mdpi, basel, switzerland.
+```
+
+--
+
+##: 16
+Record-No: 105
+Citations: 43
+Record-ID: Lakshmi D, 2021, SCI TOTAL ENVIRON, V801
+Title: ARTIFICIAL_INTELLIGENCE (ai) applications in ADSORPTION of heavy metals \
+using modified BIOCHAR
+Abstract:
+```
+the process of removal of heavy metals is important due to their toxic \
+effects on LIVING_ORGANISMS and UNDESIRABLE_ANTHROPOGENIC effects. \
+conventional methods possess many IRRECONCILABLE_DISADVANTAGES pertaining \
+to cost and efficiency. as a result, the usage of BIOCHAR, which is \
+produced as a by product of BIOMASS_PYROLYSIS, has gained \
+SIZABLE_TRACTION in RECENT_TIMES for the removal of heavy metals. this \
+REVIEW_ELUCIDATES some widely recognized harmful heavy metals and their \
+removal using BIOCHAR. it also highlights and compares the variety of \
+feedstock available for preparation of BIOCHAR, PYROLYSIS_VARIABLES \
+involved and efficiency of BIOCHAR. VARIOUS_ADSORPTION_KINETICS and \
+isotherms are also discussed along with the process of desorption to \
+RECYCLE_BIOCHAR for REUSE as adsorbent. furthermore, this \
+REVIEW_ELUCIDATES the advancements in remediation of heavy metals using \
+BIOCHAR by emphasizing the importance and advantages in the usage of \
+MACHINE_LEARNING (ml) and ARTIFICIAL_INTELLIGENCE (ai) for the \
+optimization of ADSORPTION_VARIABLES and BIOCHAR_FEEDSTOCK_PROPERTIES. \
+the usage of ai and ml is cost and time effective and allows an \
+INTERDISCIPLINARY_APPROACH to remove heavy metals by BIOCHAR.  2021
+```
+
+--
+
+##: 17
+Record-No: 199
+Citations: 43
+Record-ID: Shamshirband S, 2015, RENEWABLE SUSTAINABLE ENERGY , V44, P457
+Title: a MULTI_OBJECTIVE_EVOLUTIONARY_ALGORITHM for ENERGY_MANAGEMENT of \
+AGRICULTURAL_SYSTEMS   a CASE_STUDY in iran
+Abstract:
+```
+ENERGY_CONSUMPTION and its NEGATIVE_ENVIRONMENTAL_IMPACTS are of \
+INTERESTING_TOPICS in the RECENT_CENTURIES. AGRICULTURAL_SYSTEMS are both \
+ENERGY_USERS and suppliers in the form of BIO_ENERGY and play a KEY_ROLE \
+in WORLD_ECONOMICS as well as FOOD_SECURITY. a HIGH_AMOUNT of energy from \
+DIFFERENT_SOURCES is used in this sector while researchers who \
+investigated ENERGY_FLOW in CROPS_PRODUCTION especially in \
+DEVELOPING_COUNTRIES, have reported a HIGH_DEGREE of inefficiency. it is \
+necessary for the MODERN_MANAGEMENT of cropping systems to have all \
+factors (economics, energy and environment) in the DECISION_MAKING \
+process simultaneously. accordingly, the application of multi objective \
+genetic algorithm (moga) was investigated in this study and it was \
+employed to find the best mix of AGRICULTURAL_INPUTS, which could be able \
+to MINIMIZE_GHG_EMISSIONS and MAXIMIZE_OUTPUT_ENERGY and \
+BENEFIT_COST_RATIO. the results revealed that on average 28% of the \
+TOTAL_ENERGY_INPUT in WATERMELON_PRODUCTION, as a CASE_STUDY, can be \
+reduced and simultaneously 33% of the TOTAL_GHG_EMISSIONS can be \
+decreased while the BENEFIT_COST_RATIO_SHOWS a SIGNIFICANT_INCREASE under \
+OPTIMUM_APPLICATION of inputs.  2015 ELSEVIER_LTD. all rights reserved.
+```
+
+--
+
+##: 18
+Record-No: 177
+Citations: 40
+Record-ID: Rahman MM, 2021, SUSTAINABILITY, V13, P1
+Title: PROSPECTIVE_METHODOLOGIES in hybrid RENEWABLE_ENERGY_SYSTEMS for energy \
+PREDICTION using artificial NEURAL_NETWORKS
+Abstract:
+```
+this paper presents a comprehensive review of MACHINE_LEARNING (ml) based \
+approaches, especially artificial NEURAL_NETWORKS (anns) in \
+TIME_SERIES_DATA_PREDICTION_PROBLEMS. according to literature, around 80% \
+of the WORLDS_TOTAL_ENERGY_DEMAND is supplied either through fuel based \
+sources such as oil, gas, and coal or through nuclear based sources. \
+literature also shows that a shortage of fossil fuels is inevitable and \
+the world will face this problem sooner or later. moreover, the remote \
+and RURAL_AREAS that suffer from not being able to reach \
+TRADITIONAL_GRID_POWER_ELECTRICITY_NEED ALTERNATIVE_SOURCES of energy. a \
+hybrid RENEWABLE_ENERGY system (hres) involving different renewable \
+resources can be used to supply SUSTAINABLE_POWER in these areas. the \
+UNCERTAIN_NATURE of RENEWABLE_ENERGY_RESOURCES and the \
+INTELLIGENT_ABILITY of the NEURAL_NETWORK_APPROACH to process complex \
+time series inputs have inspired the use of ANN_METHODS in \
+RENEWABLE_ENERGY forecasting. thus, this STUDY_AIMS to study the \
+different data driven models of ANN_APPROACHES that can provide \
+ACCURATE_PREDICTIONS of RENEWABLE_ENERGY, like solar, wind, or hydro \
+power generation. VARIOUS_REFINEMENT_ARCHITECTURES of NEURAL_NETWORKS, \
+such as multi layer perception (mlp), recurrent neural network (rnn), and \
+convolutional neural network (cnn), as well as long short term memory \
+(lstm) models, have been offered in the applications of RENEWABLE_ENERGY \
+forecasting. these models are able to perform short term time series \
+PREDICTION in RENEWABLE_ENERGY_SOURCES and to use prior information that \
+influences its value in future PREDICTION.  2021 by the authors. \
+LICENSEE_MDPI, basel, switzerland.
+```
+
+--
+
+##: 19
+Record-No: 191
+Citations: 36
+Record-ID: Liao M, 2021, GCB BIOENERGY, V13, P774
+Title: applications of ARTIFICIAL_INTELLIGENCE based MODELING for \
+BIOENERGY_SYSTEMS: a review
+Abstract:
+```
+BIOENERGY is widely considered a SUSTAINABLE_ALTERNATIVE to FOSSIL_FUELS. \
+however, LARGE_SCALE_APPLICATIONS of BIOMASS based ENERGY_PRODUCTS are \
+limited due to challenges related to FEEDSTOCK_VARIABILITY, \
+CONVERSION_ECONOMICS, and SUPPLY_CHAIN_RELIABILITY. \
+ARTIFICIAL_INTELLIGENCE (ai), an emerging concept, has been applied to \
+BIOENERGY_SYSTEMS in RECENT_DECADES to address those challenges. this \
+paper reviewed 164 articles published between 2005 and 2019 that applied \
+DIFFERENT_AI_TECHNIQUES to BIOENERGY_SYSTEMS. this REVIEW_FOCUSES on \
+identifying the UNIQUE_CAPABILITIES of VARIOUS_AI_TECHNIQUES in \
+addressing BIOENERGY related research challenges and improving the \
+performance of BIOENERGY_SYSTEMS. specifically, we characterized \
+AI_STUDIES by their INPUT_VARIABLES, OUTPUT_VARIABLES, AI_TECHNIQUES, \
+DATASET_SIZE, and performance. we examined AI_APPLICATIONS throughout the \
+LIFE_CYCLE of BIOENERGY_SYSTEMS. we identified four areas in which ai has \
+been mostly applied, including (1) the prediction of BIOMASS_PROPERTIES, \
+(2) the prediction of PROCESS_PERFORMANCE of BIOMASS_CONVERSION, \
+including DIFFERENT_CONVERSION_PATHWAYS and technologies, (3) the \
+prediction of BIOFUEL_PROPERTIES and the performance of BIOENERGY end use \
+systems, and (4) SUPPLY_CHAIN_MODELING and optimization. based on the \
+review, ai is particularly useful in generating data that are hard to be \
+measured directly, improving TRADITIONAL_MODELS of BIOMASS_CONVERSION and \
+BIOFUEL end uses, and overcoming the challenges of TRADITIONAL_COMPUTING \
+techniques for BIOENERGY SUPPLY_CHAIN design and optimization. for \
+FUTURE_RESEARCH, efforts are needed to develop standardized and \
+PRACTICAL_PROCEDURES for selecting AI_TECHNIQUES and determining \
+TRAINING_DATA_SAMPLES, to ENHANCE_DATA_COLLECTION, documentation, and \
+sharing across BIOENERGY related areas, and to explore the potential of \
+ai in supporting the SUSTAINABLE_DEVELOPMENT of BIOENERGY_SYSTEMS from \
+HOLISTIC_PERSPECTIVES.  2021 the authors. GCB_BIOENERGY published by \
+JOHN_WILEY & SONS_LTD
+```
+
+--
+
+##: 20
+Record-No: 158
+Citations: 32
+Record-ID: Umenweke GC, 2022, BIORESOUR TECHNOL REP, V17
+Title: MACHINE_LEARNING_METHODS for modeling conventional and \
+HYDROTHERMAL_GASIFICATION of WASTE_BIOMASS: a REVIEW
+Abstract:
+```
+conventional and HYDROTHERMAL_GASIFICATION are \
+PROMISING_THERMOCHEMICAL_TECHNOLOGIES for the production of syngas from \
+WASTE_BIOMASS. both GASIFICATION_PROCESSES are complex, with several \
+INTERMEDIATE_REACTIONS occurring simultaneously and at DIFFERENT_TIMES. \
+therefore, traditional modeling approaches, including thermodynamic and \
+KINETIC_MODELS, process modeling and COMPUTATION_FLUID_DYNAMICS (cfd), \
+are sometimes used to describe the process and study the influence of \
+PROCESS_PARAMETERS on SYNGAS_YIELD. however, most TRADITIONAL_MODELS are \
+impractical and often challenging to model the input output relationship. \
+MACHINE_LEARNING (ml) methods provide a PROMISING_ALTERNATIVE to \
+traditional modeling approaches. this study outlined the advancement in \
+the application of ml to GASIFICATION_RESEARCH. DIFFERENT_ML_ALGORITHMS, \
+including ARTIFICIAL_NEURAL_NETWORKS, DEEP_LEARNING and \
+SUPPORT_VECTOR_MACHINES, are briefly described. challenges and \
+limitations of ml based methods for GASIFICATION_RESEARCH are also \
+discussed. when implemented effectively, ml  approaches could foster the \
+development of NOVEL_HETEROGENEOUS_CATALYSTS for BIOMASS_GASIFICATION. \
+2022 ELSEVIER_LTD
+```
+
+--
+
+**********************************************************************
+
+Improve, complete and make more clear the following list of bullets. Adds \
+new conclussions that are common in the following abstracts or adds new \
+common conclusions. Generate an unique list, not a list per abstract. Use \
+the Record-No value between brackets to indicate the reference to the \
+record. For example, [1] means that the information is in the Record-No \
+1.
+
+Here is the list of bullets to improve, complete and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 21
+Record-No: 138
+Citations: 30
+Record-ID: Castillo-Villar KK, 2014, ENERGIES, V7, P7640
+Title: metaheuristic algorithms applied to bioenergy SUPPLY_CHAIN problems: \
+theory, review, challenges, and future
+Abstract:
+```
+bioenergy is a new source of energy that accounts for a \
+SUBSTANTIAL_PORTION of the RENEWABLE_ENERGY_PRODUCTION in many countries. \
+the production of bioenergy is expected to increase due to its \
+UNIQUE_ADVANTAGES, such as no harmful emissions and abundance. supply \
+related problems are the main obstacles precluding the increase of use of \
+biomass (which is bulky and has low energy density) to produce bioenergy. \
+to overcome this challenge, large scale optimization models are needed to \
+be solved to enable decision makers to plan, design, and manage bioenergy \
+SUPPLY_CHAINS. therefore, the use of effective optimization approaches is \
+of great importance. the TRADITIONAL_MATHEMATICAL_METHODS (such as \
+linear, integer, and mixed integer programming) frequently fail to find \
+optimal solutions for non convex and/or large scale models whereas \
+metaheuristics are efficient approaches for finding near optimal \
+solutions that use less computational resources. this paper presents a \
+comprehensive review by studying and analyzing the application of \
+metaheuristics to solve bioenergy SUPPLY_CHAIN models as well as the \
+exclusive challenges of the mathematical problems applied in the \
+bioenergy SUPPLY_CHAIN field. the reviewed metaheuristics include: (1) \
+POPULATION_APPROACHES, such as ANT_COLONY_OPTIMIZATION (aco), the genetic \
+algorithm (ga), particle swarm optimization (pso), and bee colony \
+algorithm (bca); and (2) TRAJECTORY_APPROACHES, such as the TABU_SEARCH \
+(ts) and SIMULATED_ANNEALING (sa). based on the outcomes of this \
+literature review, the integrated design and planning of bioenergy \
+SUPPLY_CHAINS problem has been solved primarily by implementing the ga. \
+the PRODUCTION_PROCESS_OPTIMIZATION was addressed primarily by using both \
+the ga and pso. the SUPPLY_CHAIN_NETWORK_DESIGN_PROBLEM was treated by \
+utilizing the ga and aco. the truck and TASK_SCHEDULING_PROBLEM was \
+solved using the sa and the ts, where the trajectory based methods proved \
+to outperform the population based methods.  2014 by the authors; \
+licensee mdpi, basel, switzerland.
+```
+
+--
+
+##: 22
+Record-No: 280
+Citations: 27
+Record-ID: Streich J, 2020, CURR OPIN BIOTECHNOL, V61, P217
+Title: can EXASCALE_COMPUTING and EXPLAINABLE_ARTIFICIAL_INTELLIGENCE applied to \
+PLANT_BIOLOGY deliver on the UNITED_NATIONS \
+SUSTAINABLE_DEVELOPMENT_GOALS?
+Abstract:
+```
+HUMAN_POPULATION_GROWTH and accelerated CLIMATE_CHANGE necessitate \
+AGRICULTURAL_IMPROVEMENTS using DESIGNER_CROP_IDEOTYPES (idealized PLANTS \
+that can grow in NICHE_ENVIRONMENTS). diverse and highly \
+SKILLED_RESEARCH_GROUPS must integrate efforts to bridge the gaps needed \
+to achieve INTERNATIONAL_GOALS toward SUSTAINABLE_AGRICULTURE. given the \
+scale of GLOBAL_AGRICULTURAL_NEEDS and the breadth of MULTIPLE_TYPES of \
+OMICS_DATA needed to optimize these efforts, \
+EXPLAINABLE_ARTIFICIAL_INTELLIGENCE (ai with a \
+DECIPHERABLE_DECISION_MAKING_PROCESS that provides a \
+MEANINGFUL_EXPLANATION to HUMANS) and EXASCALE_COMPUTING (computers that \
+can perform 1018 floating point operations per second, or exaflops) are \
+crucial. accurate phenotyping and daily resolution climatype associations \
+are equally important for refining IDEOTYPE_PRODUCTION to \
+SPECIFIC_ENVIRONMENTS at VARIOUS_LEVELS of granularity. we \
+REVIEW_ADVANCES toward tackling TECHNOLOGICAL_HURDLES to solve multiple \
+UNITED_NATIONS SUSTAINABLE_DEVELOPMENT_GOALS and discuss a vision to \
+overcome gaps between research and policy.  2020 ELSEVIER_LTD
+```
+
+--
+
+##: 23
+Record-No: 279
+Citations: 25
+Record-ID: He Q/1, 2022, ENERGY AI, V7
+Title: ARTIFICIAL_INTELLIGENCE_APPLICATION in a RENEWABLE_ENERGY driven \
+DESALINATION_SYSTEM: a CRITICAL_REVIEW
+Abstract:
+```
+ARTIFICIAL_INTELLIGENCE, an emerging technology, widely exists in the \
+field of ENGINEERING_SCIENCE and technology. due to its HIGH_EFFICIENCY \
+and precision, ARTIFICIAL_INTELLIGENCE is increasingly used in the \
+OPTIMAL_CONTROL of WATER_TREATMENT and SEAWATER_DESALINATION. generally, \
+the design of a DESALINATION_SYSTEM includes four processes: \
+SITE_SELECTION, ENERGY_PREDICTION, DESALINATION_TECHNOLOGY_SELECTION and \
+SYSTEMATIC_PARAMETER_OPTIMIZATION. to a LARGE_EXTENT, these choices \
+depend on the experience and RELEVANT_CRITERIA of researchers and \
+experts. however, facing the scientific and TECHNOLOGICAL_PROGRESS and \
+growing expectations, it is impossible to solve \
+SUCH_COMPLEX_NONLINEAR_PROBLEMS by SIMPLE_EXPERIENCE and \
+MATHEMATICAL_MODELS, but ARTIFICIAL_INTELLIGENCE is good at this. in this \
+paper, we synthetically analyzed and summarized the application of \
+ARTIFICIAL_INTELLIGENCE in the field of SEAWATER_DESALINATION with \
+RENEWABLE_ENERGY. ARTIFICIAL_INTELLIGENCE_APPLICATION in DESALINATION is \
+mainly divided into four aspects: expert DECISION_MAKING, optimization, \
+PREDICTION_AND_CONTROL by sequence. the features of \
+ARTIFICIAL_INTELLIGENCE employed in the design of DESALINATION_SYSTEMS \
+not only realize the maximum of efficiency and minimum of cost, but \
+release the HUMAN_RESOURCES. after analyzing the four processes of \
+DESALINATION, it is found that ARTIFICIAL_NEURAL_NETWORK and \
+GENETIC_ALGORITHM are more widespread and mature than other ALGORITHMS in \
+dealing with multi objective NONLINEAR_PROBLEMS. this paper overviewed \
+the application of ARTIFICIAL_INTELLIGENCE_TECHNOLOGIES in \
+DECISION_MAKING, optimization, PREDICTION_AND_CONTROL throughout the four \
+processes of DESALINATION_DESIGNS. finally, the application and \
+FUTURE_DEVELOPMENT_PROSPECT of ARTIFICIAL_INTELLIGENCE in the field of \
+SEAWATER_DESALINATION are summarized.  2021
+```
+
+--
+
+##: 24
+Record-No: 297
+Citations: 23
+Record-ID: He Z, 2022, RENEWABLE SUSTAINABLE ENERGY , V156
+Title: performance prediction, OPTIMAL_DESIGN and OPERATIONAL_CONTROL of \
+THERMAL_ENERGY_STORAGE using ARTIFICIAL_INTELLIGENCE_METHODS
+Abstract:
+```
+capable of storing and redistributing energy, THERMAL_ENERGY_STORAGE \
+(tes) shows a promising applicability in ENERGY_SYSTEMS. recently, \
+ARTIFICIAL_INTELLIGENCE (ai) technique is gradually playing an \
+IMPORTANT_ROLE in automation, INFORMATION_RETRIEVAL, DECISION_MAKING, \
+INTELLIGENT_RECOGNITION, monitoring and management. with the assistance \
+of AI_TECHNIQUES, TES_SYSTEMS can become more and more reasonable and \
+intelligent, which paves a NEW_PATH for the researches on tes. in the \
+present review, a COMPREHENSIVE_LITERATURE_SUMMARIZATION and analysis on \
+the application of AI_TECHNIQUES to tes is presented. performance \
+prediction, OPTIMAL_DESIGN, control and operation by means of ai for the \
+TES_SYSTEMS with VARIOUS_APPLICATIONS are discussed and compared. this \
+review shows that ai based prediction models, like \
+ARTIFICIAL_NEURAL_NETWORK and SUPPORT_VECTOR_MACHINE, can accurately \
+estimate the TES_PERFORMANCE and the properties of TES_MATERIALS in a \
+very fast fashion. ai based OPTIMIZATION_ALGORITHMS, such as \
+GENETIC_ALGORITHM, PARTICLE_SWARM_OPTIMIZATION, and teaching learning \
+based optimization are able to optimize the design and operation of the \
+TES_SYSTEMS towards the objectives like higher SYSTEM_EFFICIENCY, \
+COST_SAVINGS, more renewable ENERGY_UTILIZATION and less \
+ENVIRONMENTAL_IMPACTS. FUZZY_LOGIC can be utilized to properly \
+DESIGN_AND_CONTROL the TES_SYSTEMS where uncertain and IMPRECISE_FACTORS \
+are inevitably present. GENERAL_STRATEGIES of the ai based \
+TES_PERFORMANCE modelling and the completely ai based DESIGN_AND_CONTROL \
+of the tes are summarized, while the MAIN_LIMITATIONS are that ai cannot \
+be used to directly unveil the UNKNOWN_PHYSICAL_MECHANISM of the tes and \
+that the lack of the COMPREHENSIVE_TES_PERFORMANCE_DATABASE_HINDERS the \
+real world implementation. on the way to completely \
+INTELLIGENT_TES_SYSTEMS, further investigations on the enhancement of \
+adaptation and self improvement capability are necessary. in addition, \
+the potential research topics are pointed out for the FUTURE_DEVELOPMENT \
+and deployment referring to the needs of the FUTURE_SMART_ENERGY_SYSTEM, \
+intelligent and ZERO_ENERGY_BUILDING, and smart home.  2021 ELSEVIER_LTD
+```
+
+--
+
+##: 25
+Record-No: 296
+Citations: 21
+Record-ID: Cinar S, 2021, PROCESS, V9, P1
+Title: integration of ARTIFICIAL_INTELLIGENCE into BIOGAS_PLANT_OPERATION
+Abstract:
+```
+in the BIOGAS_PLANTS, ORGANIC_MATERIAL is converted to biogas under \
+ANAEROBIC_CONDITIONS through physical and BIOCHEMICAL_PROCESSES. from \
+supply of the RAW_MATERIAL to the arrival of the products to customers, \
+there are SERIAL_PROCESSES which should be sufficiently monitored for \
+optimizing the efficiency of the WHOLE_PROCESS. in particular, the \
+ANAEROBIC_DIGESTION_PROCESS, which consists of sequential \
+COMPLEX_BIOLOGICAL_REACTIONS, requires improved monitoring to prevent \
+inhibition. conventional implemented methods at the BIOGAS_PLANTS are not \
+adequate for monitoring the OPERATIONAL_PARAMETERS and finding the \
+correlation between them. as ARTIFICIAL_INTELLIGENCE has been integrated \
+in DIFFERENT_AREAS of life, the integration of it into the \
+BIOGAS_PRODUCTION_PROCESS will be inevitable for the future of the \
+BIOGAS_PLANT_OPERATION. this REVIEW_PAPER first examines the need for \
+monitoring at the BIOGAS_PLANTS with giving details about the process and \
+PROCESS_MONITORING as well. in the following sections, the \
+CURRENT_SITUATION of implementations of ARTIFICIAL_INTELLIGENCE in the \
+BIOGAS_PLANT_OPERATION and in the SIMILAR_INDUSTRIES will be represented. \
+moreover, considering that all the information gathered from literature \
+and OPERATIONAL_NEEDS, an IMPLEMENTATION_MODEL will be presented.  2021 \
+by the authors. LICENSEE_MDPI, basel, switzerland.
+```
+
+--
+
+##: 26
+Record-No: 278
+Citations: 20
+Record-ID: Vavrova K, 2017, RENEWABLE SUSTAINABLE ENERGY , V67, P426
+Title: short term boosting of BIOMASS_ENERGY_SOURCES_DETERMINATION of \
+BIOMASS_POTENTIAL for prevention of REGIONAL_CRISIS_SITUATIONS
+Abstract:
+```
+the ARTICLE_DEALS with the evaluation of the hypothesis that long term \
+SUSTAINABLE_POTENTIAL of SOLID_BIOMASS (the so called STANDARD_POTENTIAL) \
+for ENERGY_PURPOSES can be significantly increased in the SHORT_RUN when \
+breaking some constraints assumed for BIOMASS growing, collection and \
+utilization. evaluation of BIOMASS_POTENTIAL (both standard and \
+additional) is based on a developed methodology using detailed spatial \
+and EMPIRICAL_DATA (GIS). potential is determined for the defined area \
+using a bottom up approach where these yields are derived in relation to \
+climate and SOIL_CONDITIONS of each LAND_PLOT of agricultural and \
+FOREST_LAND. results of methodology testing have proven that \
+BIOMASS_POTENTIAL from agriculture and FOREST_LAND can be significantly \
+increased in the SHORT_RUN (typically from 18% up to 40% in our \
+CASE_STUDIES depending on BIOMASS_SOURCE and region). there are three \
+MAJOR_SOURCES of ADDITIONAL_BIOMASS_POTENTIAL: reduction of STRAW \
+ploughed into soil, changes in utilization of harvested timber from \
+forests and shortening of rotation of SRC_PLANTATIONS. performed analyses \
+show GREAT_VARIATIONS of BIOMASS_POTENTIAL between the regions depending \
+mainly on composition and AGE_DISTRIBUTION of the forests stands in \
+studied regions of SIMILAR_SIZE.  2016 ELSEVIER_LTD
+```
+
+--
+
+##: 27
+Record-No: 276
+Citations: 16
+Record-ID: Tsui T-H, 2023, BIORESOUR TECHNOL, V369
+Title: MACHINE_LEARNING and CIRCULAR_BIOECONOMY: building \
+NEW_RESOURCE_EFFICIENCY from DIVERSE_WASTE_STREAMS
+Abstract:
+```
+BIOREFINERY_SYSTEMS are playing PIVOTAL_ROLES in the \
+TECHNOLOGICAL_SUPPORT of RESOURCE_EFFICIENCY for CIRCULAR_BIOECONOMY. \
+meanwhile, ARTIFICIAL_INTELLIGENCE presents GREAT_POTENTIAL in handling \
+SCIENTIFIC_TASKS of HIGH_DIMENSIONAL complexity. this \
+REVIEW_ARTICLE_SCRUTINIZES the status of MACHINE_LEARNING (ml) \
+applications in four CRITICAL_BIOREFINERY_SYSTEMS (i.e. COMPOSTING, \
+FERMENTATION, ANAEROBIC_DIGESTION, and THERMOCHEMICAL_CONVERSIONS) as \
+well as their advancements against traditional modeling techniques of \
+MECHANISTIC_APPROACH. the contents cover their ALGORITHM_SELECTIONS, \
+modeling challenges, and PROSPECTIVE_IMPROVEMENTS. perspectives are \
+sketched to further inform COLLECTIVE_EFFORTS on CRUCIAL_ASPECTS. the \
+MULTIDISCIPLINARY_INTERCHANGE of modeling knowledge will enable a more \
+PROGRESSIVE_DIGITAL_TRANSFORMATION of SUSTAINABILITY_EFFORTS in \
+supporting SUSTAINABLE_DEVELOPMENT_GOALS.  2022 ELSEVIER_LTD
+```
+
+--
+
+##: 28
+Record-No: 248
+Citations: 16
+Record-ID: Xing Y, 2021, INT J CHEM ENG, V2021
+Title: a review on MACHINE_LEARNING_APPLICATION in BIODIESEL_PRODUCTION_STUDIES
+Abstract:
+```
+the consumption of FOSSIL_FUELS has exponentially increased in \
+RECENT_DECADES, despite SIGNIFICANT_AIR_POLLUTION, \
+ENVIRONMENTAL_DETERIORATION challenges, HEALTH_PROBLEMS, and limited \
+resources. biofuel can be used instead of FOSSIL_FUEL due to \
+ENVIRONMENTAL_BENEFITS and availability to produce VARIOUS_ENERGY_SORTS \
+like electricity, power, and heating or to SUSTAIN_TRANSPORTATION fuels. \
+BIODIESEL_PRODUCTION is an INTRICATE_PROCESS that requires identifying \
+UNKNOWN_NONLINEAR_RELATIONSHIPS between the SYSTEM_INPUT and OUTPUT_DATA; \
+therefore, accurate and swift modeling instruments like MACHINE_LEARNING \
+(ml) or ARTIFICIAL_INTELLIGENCE (ai) are necessary to design, handle, \
+control, optimize, and monitor the system. among the BIODIESEL_PRODUCTION \
+modeling methods, MACHINE_LEARNING provides better predictions with the \
+highest accuracy, inspired by the brain's autolearning and self improving \
+capability to solve the study's complicated questions; therefore, it is \
+beneficial for modeling (trans) ESTERIFICATION_PROCESSES, \
+PHYSICOCHEMICAL_PROPERTIES, and MONITORING BIODIESEL_SYSTEMS in real \
+time. MACHINE_LEARNING_APPLICATIONS in the PRODUCTION_PHASE include \
+QUALITY_OPTIMIZATION and estimation, PROCESS_CONDITIONS, and quantity. \
+EMISSIONS_COMPOSITION and TEMPERATURE_ESTIMATION and \
+MOTOR_PERFORMANCE_ANALYSIS investigate in the CONSUMPTION_PHASE. \
+FATTY_METHYL_ACID_ESTER_STANDS as the OUTPUT_PARAMETER, and the \
+INPUT_PARAMETERS include oil and CATALYST_TYPE, methanol to oil ratio, \
+CATALYST_CONCENTRATION, REACTION_TIME, domain, and frequency. this paper \
+will present a review and discuss VARIOUS_ML_TECHNOLOGY_ADVANTAGES, \
+disadvantages, and applications in BIODIESEL_PRODUCTION, mainly focused \
+on recently published articles from 2010 to 2021, to make decisions and \
+optimize, model, control, monitor, and forecast BIODIESEL_PRODUCTION. \
+2021 yuanzhi xing et al.
+```
+
+--
+
+##: 29
+Record-No: 267
+Citations: 16
+Record-ID: Vardiambasis IO, 2020, ENERGIES, V13
+Title: hydrochars as emerging BIOFUELS: RECENT_ADVANCES and application of \
+ARTIFICIAL_NEURAL_NETWORKS for the prediction of heating values
+Abstract:
+```
+in this study, the growing SCIENTIFIC_FIELD of ALTERNATIVE_BIOFUELS was \
+examined, with respect to hydrochars produced from RENEWABLE_BIOMASSES. \
+hydrochars are the SOLID_PRODUCTS of HYDROTHERMAL_CARBONIZATION (htc) and \
+their properties depend on the INITIAL_BIOMASS and the temperature and \
+duration of treatment. the basic (scopus) and advanced (CITESPACE) \
+analysis of literature showed that this is a DYNAMIC_RESEARCH_AREA, with \
+several sub fields of INTENSE_ACTIVITY. the focus of researchers on \
+SEWAGE_SLUDGE and FOOD_WASTE as HYDROCHAR_PRECURSORS was highlighted and \
+reviewed. it was established that hydrochars have improved behavior as \
+fuels compared to these FEEDSTOCKS. FOOD_WASTE can be particularly useful \
+in co HYDROTHERMAL_CARBONIZATION with ash rich materials. in the case of \
+SEWAGE_SLUDGE, SIMULTANEOUS_P_RECOVERY from the HTC_WASTEWATER may add \
+more value to the process. for both FEEDSTOCKS, results from large scale \
+htc are practically non existent. following the review, related data from \
+the years 2014 2020 were retrieved and fitted into four \
+DIFFERENT_ARTIFICIAL_NEURAL_NETWORKS (anns). based on the \
+ELEMENTAL_CONTENT, HTC_TEMPERATURE and time (as inputs), the higher \
+heating values (hhvs) and yields (as outputs) could be successfully \
+predicted, regardless of ORIGINAL_BIOMASS used for HYDROCHAR_PRODUCTION. \
+ann3 (based on c, o, H_CONTENT, and HTC_TEMPERATURE) showed the \
+OPTIMUM_HHV predicting performance (r2 0.917, root MEAN_SQUARE_ERROR \
+1.124), however, hydrochars' hhvs could also be satisfactorily predicted \
+by the C_CONTENT alone (ann1, r2 0.897, root MEAN_SQUARE_ERROR 1.289). \
+2020 by the authors.
+```
+
+--
+
+##: 30
+Record-No: 281
+Citations: 14
+Record-ID: Marquez FPG, 2022, ARCH COMPUT METHODS ENG, V29, P2935
+Title: a COMPREHENSIVE_REVIEW of ARTIFICIAL_INTELLIGENCE and wind energy
+Abstract:
+```
+support of ARTIFICIAL_INTELLIGENCE, RENEWABLE_ENERGY and sustainability \
+is currently increasing through the MAIN_POLICIES of DEVELOPED_COUNTRIES, \
+e.g., the WHITE_PAPER of the EUROPEAN_UNION. wind energy is one of the \
+most IMPORTANT_RENEWABLE_SOURCES, growing in both onshore and \
+OFFSHORE_TYPES. this PAPER_STUDIES the most \
+REMARKABLE_ARTIFICIAL_INTELLIGENCE_TECHNIQUES employed in WIND_TURBINES \
+monitoring systems. the PRINCIPAL_TECHNIQUES are analysed individually \
+and together: ARTIFICIAL_NEURAL_NETWORKS; FUZZY_LOGIC; \
+GENETIC_ALGORITHMS; PARTICLE_SWARM_OPTIMIZATION; \
+DECISION_MAKING_TECHNIQUES; and STATISTICAL_METHODS. the \
+MAIN_APPLICATIONS for WIND_TURBINES maintenance management are also \
+analysed, e.g., economic, FARM_LOCATION, non destructive testing, \
+ENVIRONMENTAL_CONDITIONS, schedules, OPERATOR_DECISIONS, \
+POWER_PRODUCTION, remaining USEFUL_LIFE, etc. finally, the \
+PAPER_DISCUSSES the MAIN_FINDINGS of the literature in the conclusions. \
+2021, the author(s) under EXCLUSIVE_LICENCE to INTERNATIONAL_CENTER for \
+NUMERICAL_METHODS in engineering (cimne).
+```
+
+--
+
+**********************************************************************
+
+Improve, complete and make more clear the following list of bullets. Adds \
+new conclussions that are common in the following abstracts or adds new \
+common conclusions. Generate an unique list, not a list per abstract. Use \
+the Record-No value between brackets to indicate the reference to the \
+record. For example, [1] means that the information is in the Record-No \
+1.
+
+Here is the list of bullets to improve, complete and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 31
+Record-No: 227
+Citations: 14
+Record-ID: Shamshirband S, 2016, RENEWABLE SUSTAINABLE ENERGY , V59, P429
+Title: assessing the proficiency of ADAPTIVE_NEURO_FUZZY_SYSTEM to estimate \
+WIND_POWER_DENSITY: CASE_STUDY of aligoodarz, iran
+Abstract:
+```
+the PRIME_AIM of this study is appraising the suitability of \
+ADAPTIVE_NEURO_FUZZY_INFERENCE framework (ANFIS) to compute the \
+MONTHLY_WIND_POWER_DENSITY. on this account, the extracted WIND_POWER \
+from WEIBULL_FUNCTIONS are utilized for TRAINING_AND_TESTING the \
+developed ANFIS_MODEL. the proficiency of the ANFIS_MODEL is certified by \
+providing thorough STATISTICAL_COMPARISONS with ARTIFICIAL_NEURAL_NETWORK \
+(ann) and GENETIC_PROGRAMMING (gp) techniques. the computed WIND_POWER by \
+all models are compared with those obtained using measured data. the \
+STUDY_RESULTS clearly indicate that the proposed ANFIS_MODEL enjoys \
+HIGH_CAPABILITY and reliability to estimate WIND_POWER_DENSITY so that it \
+presents HIGH_SUPERIORITY over the developed ann and GP_MODELS. based \
+upon RELATIVE_PERCENTAGE_ERROR (rpe) values, all estimated WIND_POWER \
+values via ANFIS_MODEL are within the acceptable range of 10% to 10%. \
+additionally, RELATIVE_ROOT MEAN_SQUARE_ERROR (rrmse) ANALYSIS_SHOWS that \
+ANFIS_MODEL has an EXCELLENT_PERFORMANCE for estimation of \
+WIND_POWER_DENSITY.  2016 ELSEVIER_LTD. all rights reserved.
+```
+
+--
+
+##: 32
+Record-No: 240
+Citations: 11
+Record-ID: Moses OA, 2021, MATER REP, V1
+Title: integration of data intensive, MACHINE_LEARNING and robotic \
+EXPERIMENTAL_APPROACHES for accelerated discovery of catalysts in \
+RENEWABLE_ENERGY related reactions
+Abstract:
+```
+TECHNOLOGICAL_ADVANCEMENTS in RECENT_DECADES have greatly transformed the \
+field of MATERIAL_CHEMISTRY. juxtaposing the accentuating ENERGY_DEMAND \
+with the pollution associated, URGENT_MEASURES are required to \
+ENSURE_ENERGY_MAXIMIZATION, while reducing the extended \
+EXPERIMENTAL_TIME_CYCLE involved in ENERGY_PRODUCTION. in lieu of this, \
+the prominence of catalysts in CHEMICAL_REACTIONS, particularly energy \
+related reactions cannot be undermined, and thus it is critical to \
+discover and DESIGN_CATALYST, towards the optimization of \
+CHEMICAL_PROCESSES and generation of SUSTAINABLE_ENERGY. most recently, \
+ARTIFICIAL_INTELLIGENCE (ai) has been incorporated into several fields, \
+particularly in advancing CATALYTIC_PROCESSES. the integration of \
+INTENSIVE_DATA set, MACHINE_LEARNING_MODELS and robotics, provides a very \
+POWERFUL_TOOL in modifying MATERIAL_SYNTHESIS and optimization by \
+generating MULTIFARIOUS_DATASET amenable with \
+MACHINE_LEARNING_TECHNIQUES. the employment of ROBOTS_AUTOMATES the \
+process of dataset and MACHINE_LEARNING_MODELS_INTEGRATION in screening \
+INTERMETALLIC_SURFACES of catalyst, with EXTREME_ACCURACY and swiftness \
+comparable to a number of HUMAN_RESEARCHERS. although, the utilization of \
+ROBOTS in CATALYST_DISCOVERY is still in its infancy, in this review we \
+summarize current sway of ARTIFICIAL_INTELLIGENCE in CATALYST_DISCOVERY, \
+briefly describe the application of databases, MACHINE_LEARNING_MODELS \
+and ROBOTS in this field, with emphasis on the consolidation of these \
+MONOMERIC_UNITS into a TRIPARTITE_FLOW_PROCESS. we point out \
+CURRENT_TRENDS of MACHINE_LEARNING and HYBRID_MODELS of first \
+PRINCIPLE_CALCULATIONS (dft) for generating dataset, which is integrable \
+into AUTONOMOUS_FLOW_PROCESS of CATALYST_DISCOVERY. also, we discuss \
+CATALYST_DISCOVERY for RENEWABLE_ENERGY related reactions using this \
+TRIPARTITE_FLOW_PROCESS with predetermined descriptors.  2021 the authors
+```
+
+--
+
+##: 33
+Record-No: 214
+Citations: 10
+Record-ID: Liu Y, 2021, ENERGIES, V14
+Title: a review of enhancement of BIOHYDROGEN_PRODUCTIONS by CHEMICAL_ADDITION \
+using a supervised MACHINE_LEARNING_METHOD
+Abstract:
+```
+in this work, the impact of CHEMICAL_ADDITIONS, especially NANOPARTICLES \
+(nps), was quan titatively analyzed using our constructed \
+ARTIFICIAL_NEURAL_NETWORKS (anns)RESPONSE_SURFACE_METHODOLOGY (rsm) \
+algorithm. febased and nibased nps and IONS, including mg2+, cu2+, na+, \
+nh4+, and k+, behave differently towards the response of HYDROGEN_YIELD \
+(hy) and HYDROGEN_EVOLUTION_RATE (her). manipulating the size and \
+concentration of nps was found to be effective in enhancing the hy for \
+febased nps and IONS, but not for nibased nps and IONS. an OPTIMAL_RANGE \
+of PARTICLE_SIZE (86120 nm) and niion/np concentration (81120 mg l1) \
+existed for her. meanwhile, the manipulation of the size and \
+concentration of nps was found to be ineffective for both iron and nickel \
+for the improvement of her. in fact, the variation in size of nps for the \
+enhancement of hy and her demonstrated an APPRECIABLE_DIFFERENCE. the \
+smaller (less than 42 nm) nps were found to definitely improve the hy, \
+whereas for the her, the relatively bigger size of nps (4050 nm) seemed \
+to significantly increase the h2 evolution rate. it was also found that \
+the variations in the concentration of the investigated IONS only \
+statistically influenced the her, not the hy. the level of response (the \
+enhanced her) towards inputs was underpinned and the order of \
+significance towards her was identified as the following: na+ > mg2+ > \
+cu2+ > nh4+ > k+.  2021 by the authors. LICENSEE_MDPI, basel, \
+switzerland.
+```
+
+--
+
+##: 34
+Record-No: 368
+Citations: 9
+Record-ID: Kishore SC, 2022, CATALYSTS, V12
+Title: a CRITICAL_REVIEW on ARTIFICIAL_INTELLIGENCE for FUEL_CELL_DIAGNOSIS
+Abstract:
+```
+in RECENT_YEARS, FUEL_CELL (fc) technology has seen a PROMISING_INCREASE \
+in its proportion in STATIONARY_POWER_PRODUCTION. several PILOT_PROJECTS \
+are in operation across the world, with the number of running hours \
+steadily rising, either as stand alone units or as part of integrated \
+GAS_TURBINEELECTRIC_ENERGY_PLANTS. fcs are a POTENTIAL_ENERGY_SOURCE with \
+GREAT_EFFICIENCY and ZERO_EMISSIONS. to ensure the best performance, they \
+normally function within a confined temperature and HUMIDITY_RANGE; \
+nevertheless, this makes the system difficult to regulate, resulting in \
+defects and hastened deterioration. for diagnosis, there are two \
+PRIMARY_APPROACHES: restricted INPUT_INFORMATION, which gives an \
+unobtrusive, rapid yet restricted examination, and advanced \
+characterization, which provides a more ACCURATE_DIAGNOSIS but frequently \
+NECESSITATES_INVASIVE or delayed tests. ARTIFICIAL_INTELLIGENCE (ai) \
+algorithms have shown considerable promise in providing \
+ACCURATE_DIAGNOSES with QUICK_DATA collecting. this WORK_FOCUSES on \
+SOFTWARE_MODELS that allow the user to evaluate many \
+DIFFERENT_POSSIBILITIES in the shortest amount of time and is a \
+VITAL_METHOD for proper and DYNAMIC_ANALYSIS of SUCH_ENTITIES. the \
+ARTIFICIAL_NEURAL_NETWORK, GENETIC_ALGORITHM, \
+PARTICLE_SWARM_OPTIMIZATION, RANDOM_FOREST, SUPPORT_VECTOR_MACHINE, and \
+EXTREME_LEARNING_MACHINE are COMMON_AI_APPROACHES discussed in this \
+review. this ARTICLE_EXAMINES the MODERN_PRACTICE and provides \
+recommendations for FUTURE_MACHINE_LEARNING_METHODOLOGIES in \
+FUEL_CELL_DIAGNOSTIC_APPLICATIONS. in this study, these six AI_TOOLS are \
+specifically explained with results for a better understanding of the \
+FUEL_CELL_DIAGNOSIS. the CONCLUSION_SUGGESTS that these approaches are \
+not only a popular and BENEFICIAL_TOOL for simulating the nature of an \
+FC_SYSTEM, but they are also appropriate for optimizing the \
+OPERATIONAL_PARAMETERS necessary for an IDEAL_FC_DEVICE. finally, \
+observations and ideas for FUTURE_RESEARCH, enhancements, and \
+investigations are offered.  2022 by the authors. LICENSEE_MDPI, basel, \
+switzerland.
+```
+
+--
+
+##: 35
+Record-No: 333
+Citations: 7
+Record-ID: Fajobi MO, 2022, ENERGY SOURCES RECOVERY UTIL , V44, P5314
+Title: effect of biomass co DIGESTION and application of ARTIFICIAL_INTELLIGENCE \
+in BIOGAS_PRODUCTION: a REVIEW
+Abstract:
+```
+ENERGY is an ESSENTIAL_BEDROCK, which plays a HIGH_IMPACT_ROLE in the \
+running of domestic and INDUSTRIAL_ACTIVITIES. most ENERGY used for these \
+activities is majorly from CONVENTIONAL_SOURCES, which after \
+COMBUSTION_RESULT in ECOLOGICAL_IMBALANCE, CLIMATIC_AFFRAY, \
+HEALTH_HAZARDS, and degradation of NATURAL_RESOURCES. therefore, the \
+quest for eco friendly ENERGY has made researchers to investigate on \
+ALTERNATIVE_ENERGY, such as BIOGAS. this REVIEW_STUDY presents a \
+COMPREHENSIVE_ANALYSIS of VARIOUS_BIOMASS used for BIOGAS_PRODUCTION \
+considering the effects that co DIGESTION of these materials has on \
+BIOGAS_YIELD, as well as the technology involved. it further evaluated \
+the applicability of ARTIFICIAL_INTELLIGENCE for modeling and \
+optimization of the ANAEROBIC_DIGESTION_PROCESS including the \
+BLEND_RATIOS, PROCESS_PARAMETERS and so on. these indices determine the \
+PERCENTAGE_METHANE_YIELD from biomaterial. the REVIEW_EFFORT revealed \
+that METHANE_CONTENT of biomaterials digested without pre treatment \
+varies from 3.6  0.7 to 443.55  13.68 (formula presented.) while the \
+YIELD from biomaterials pre treated using VARIOUS_METHODS_VARIES from \
+301.38 ml (formula presented.) /g (formula presented.) to 0.735.87 \
+l/week. ANAEROBIC_DIGESTION of the blends of COW_DUNG, MANGO_PULP, and \
+CHROMOLAENA_ODORATA was reportedly necessary, as information is scantily \
+available on it. the modeling of the resulting EXPERIMENTAL_DATA using \
+DIFFERENT_MACHINE_LEARNING_TECHNIQUES such as an adaptive neuro \
+FUZZY_INFERENCE system and anfis for predicting BIOGAS_YIELD is a \
+MAJOR_INFORMATION gathered in this study. the AI_MODELS reviewed have \
+HIGH_CORRELATION_FACTORS ranging from 0.8700 to 0.9998. this information \
+gathered in this paper will motivate the PRODUCTION of USEFUL_FUEL to \
+complement the existing ENERGY_SOURCES while offering a near term and \
+PRACTICAL_MEANS for reduction of ENVIRONMENTAL_POLLUTION.  2022 taylor & \
+FRANCIS_GROUP, llc.
+```
+
+--
+
+##: 36
+Record-No: 369
+Citations: 7
+Record-ID: Nor AFM, 2020, INT J POWER ELECTRON DRIVE SY, V11, P342
+Title: application of ARTIFICIAL_NEURAL_NETWORK in sizing a stand alone \
+photovoltaic system: a review
+Abstract:
+```
+ARTIFICIAL_NEURAL_NETWORK (ann) techniques are becoming useful in the \
+CURRENT_ERA due to the VAST_DEVELOPMENT of the \
+CURRENT_COMPUTER_TECHNOLOGIES. ann has been used in VARIOUS_FIELDS \
+especially in the field of science and technology. one of the advantage \
+that makes ann so interesting is the ANNS_ABILITY to learn the input and \
+OUTPUT_RELATIONSHIP even though the relationship is non linear. in \
+addition, ann is also useful for modelling, optimization, prediction, \
+forecasting, and controlling systems. the MAIN_OBJECTIVE of this paper is \
+to present a review of the ANN_TECHNIQUES for sizing a stand alone \
+photovoltaic (pv) system. the review in this PAPER_SHOWS the potential of \
+ann as a DESIGN_TOOL for a stand alone pv. in addition, ann is very \
+useful to improve the sizing process of the STAND_ALONE_PV_SYSTEM. the \
+sizing process is of PARAMOUNT_IMPORTANCE to a STAND_ALONE_PV_SYSTEM in \
+order to make sure the system can generate AMPLE_ELECTRICAL_ENERGY to \
+supply the LOAD_DEMAND.  2020, institute of advanced engineering and \
+science. all rights reserved.
+```
+
+--
+
+##: 37
+Record-No: 326
+Citations: 7
+Record-ID: Ahmad I/1, 2021, ENERGIES, V14
+Title: MACHINE_LEARNING_APPLICATIONS in BIOFUELS_LIFE_CYCLE: soil, feedstock, \
+production, consumption, and emissions
+Abstract:
+```
+MACHINE_LEARNING (ml) is one of the MAJOR_DRIVING_FORCES behind the \
+fourth INDUSTRIAL_REVOLUTION. this STUDY_REVIEWS the ML_APPLICATIONS in \
+the LIFE_CYCLE_STAGES of BIOFUELS, i.e., soil, feedstock, production, \
+consumption, and emissions. ML_APPLICATIONS in the SOIL_STAGE were mostly \
+used for SATELLITE_IMAGES of land to estimate the yield of BIOFUELS or a \
+SUITABILITY_ANALYSIS of AGRICULTURAL_LAND. the existing literature have \
+reported on the assessment of RHEOLOGICAL_PROPERTIES of the FEEDSTOCKS \
+and their effect on the quality of BIOFUELS. the ML_APPLICATIONS in the \
+PRODUCTION_STAGE include ESTIMATION_AND_OPTIMIZATION of quality, \
+quantity, and PROCESS_CONDITIONS. the FUEL_CONSUMPTION and \
+EMISSIONS_STAGE include analysis of ENGINE_PERFORMANCE and estimation of \
+EMISSIONS_TEMPERATURE and composition. this STUDY_IDENTIFIES the \
+following trends: the most DOMINANT_ML_METHOD, the stage of LIFE_CYCLE \
+getting the most usage of ml, the type of data used for the development \
+of the ml based models, and the frequently used input and \
+OUTPUT_VARIABLES for each stage. the findings of this article would be \
+beneficial for academia and industry related professionals involved in \
+MODEL_DEVELOPMENT in DIFFERENT_STAGES of BIOFUELS_LIFE_CYCLE.  2021 by \
+the authors. LICENSEE_MDPI, basel, switzerland.
+```
+
+--
+
+##: 38
+Record-No: 386
+Citations: 6
+Record-ID: Pandey AK, 2023, BIORESOUR TECHNOL, V370
+Title: MACHINE_LEARNING in FERMENTATIVE_BIOHYDROGEN_PRODUCTION: advantages, \
+challenges, and applications
+Abstract:
+```
+HYDROGEN can be produced in an environmentally FRIENDLY_MANNER through \
+BIOLOGICAL_PROCESSES using a variety of ORGANIC_WASTE and BIOMASS as \
+feedstock. however, the complexity of BIOLOGICAL_PROCESSES_LIMITS their \
+predictability and reliability, which hinders the scale up and \
+dissemination. this ARTICLE_REVIEWS CONTEMPORARY_RESEARCH and \
+perspectives on the application of MACHINE_LEARNING in \
+BIOHYDROGEN_PRODUCTION_TECHNOLOGY. several MACHINE_LEARNING_ALGORITHEMS \
+have recently been implemented for modeling the nonlinear and \
+COMPLEX_RELATIONSHIPS among operational and PERFORMANCE_PARAMETERS in \
+BIOHYDROGEN_PRODUCTION as well as predicting the PROCESS_PERFORMANCE and \
+MICROBIAL_POPULATION_DYNAMICS. REINFORCED_MACHINE_LEARNING methods \
+exhibited PRECISE_STATE_PREDICTION and retrieved the underlying kinetics \
+effectively. MACHINE_LEARNING based PREDICTION was also improved by using \
+microbial sequencing data as INPUT_PARAMETERS. further research on \
+MACHINE_LEARNING could be instrumental in designing a \
+PROCESS_CONTROL_TOOL to maintain RELIABLE_HYDROGEN_PRODUCTION_PERFORMANCE \
+and IDENTIFY_CONNECTION between the PROCESS_PERFORMANCE and the \
+MICROBIAL_POPULATION.  2022 ELSEVIER_LTD
+```
+
+--
+
+##: 39
+Record-No: 349
+Citations: 6
+Record-ID: Nachtane M, 2023, J COMPOS SCI, V7
+Title: an overview of the RECENT_ADVANCES in COMPOSITE_MATERIALS and \
+ARTIFICIAL_INTELLIGENCE for HYDROGEN_STORAGE_VESSELS_DESIGN
+Abstract:
+```
+the ENVIRONMENTAL_IMPACT of co2 emissions is widely acknowledged, making \
+the development of ALTERNATIVE_PROPULSION_SYSTEMS a priority. hydrogen is \
+a POTENTIAL_CANDIDATE to replace fossil fuels for TRANSPORT_APPLICATIONS, \
+with three technologies considered for the ONBOARD_STORAGE of hydrogen: \
+storage in the form of a compressed gas, storage as a CRYOGENIC_LIQUID, \
+and storage as a solid. these technologies are now competing to meet the \
+requirements of VEHICLE_MANUFACTURERS; each has its own unique challenges \
+that must be understood to DIRECT_FUTURE_RESEARCH and \
+DEVELOPMENT_EFFORTS. this PAPER_REVIEWS_TECHNOLOGICAL_DEVELOPMENTS for \
+HYDROGEN_STORAGE_VESSEL (hsv) designs, including their \
+TECHNICAL_PERFORMANCE, manufacturing costs, safety, and \
+ENVIRONMENTAL_IMPACT. more specifically, an up to date review of fiber \
+reinforced POLYMER_COMPOSITE_HSVS was explored, including the end of life \
+RECYCLING options. a review of CURRENT_NUMERICAL_MODELS for hsvs was \
+conducted, including the use of ARTIFICIAL_INTELLIGENCE_TECHNIQUES to \
+assess the performance of COMPOSITE_HSVS, leading to more \
+SOPHISTICATED_DESIGNS for achieving a more SUSTAINABLE_FUTURE.  2023 by \
+the authors.
+```
+
+--
+
+##: 40
+Record-No: 304
+Citations: 6
+Record-ID: Olabi AG, 2023, THERM SCI ENG PROG, V39
+Title: application of ARTIFICIAL_INTELLIGENCE for prediction, OPTIMIZATION, and \
+control of THERMAL_ENERGY_STORAGE_SYSTEMS
+Abstract:
+```
+ENERGY_STORAGE is one of the CORE_CONCEPTS demonstrated incredibly \
+REMARKABLE_EFFECTIVENESS in VARIOUS_ENERGY_SYSTEMS. \
+ENERGY_STORAGE_SYSTEMS are vital for maximizing the \
+AVAILABLE_ENERGY_SOURCES, thus lowering ENERGY_CONSUMPTION and costs, \
+reducing ENVIRONMENTAL_IMPACTS, and enhancing the POWER_GRIDS' \
+flexibility and reliability. ARTIFICIAL_INTELLIGENCE (ai) progressively \
+plays a PIVOTAL_ROLE in designing and optimizing \
+THERMAL_ENERGY_STORAGE_SYSTEMS (tess). recently, plenty of studies have \
+been conducted to examine the feasibility of applying \
+ARTIFICIAL_INTELLIGENCE_TECHNIQUES, such as PARTICLE_SWARM_OPTIMIZATION \
+(pso), ARTIFICIAL_NEURAL_NETWORKS (ann), SQUARE_VECTOR_MACHINE (svm) and \
+adaptive neuro FUZZY_INFERENCE system (anfis), in the \
+ENERGY_STORAGE_SECTOR. this STUDY_INTRODUCES the classifications, roles, \
+and EFFICIENT_DESIGN_OPTIMIZATION of ENERGY_SYSTEMS in \
+VARIOUS_APPLICATIONS using DIFFERENT_ARTIFICIAL_INTELLIGENCE_APPROACHES. \
+this STUDY_DISCUSSES the progress made regarding implementing \
+ARTIFICIAL_INTELLIGENCE and its sub categories for optimizing, \
+predicting, and controlling the PERFORMANCE of ENERGY_SYSTEMS that \
+contain THERMAL_ENERGY_STORAGE_FACILITIES. in addition, the PERFORMANCE \
+of these technologies is thoroughly analyzed, highlighting their \
+NOTICEABLE_ACCURACY while carrying out DIFFERENT_OBJECTIVES. \
+recommendations and FUTURE_RESEARCH_POINTS are introduced to offer \
+NEW_CONCEPTS and inspiration for the application of ai in tess.  2023 \
+ELSEVIER_LTD
+```
+
+--
+
+**********************************************************************
+
+Improve, complete and make more clear the following list of bullets. Adds \
+new conclussions that are common in the following abstracts or adds new \
+common conclusions. Generate an unique list, not a list per abstract. Use \
+the Record-No value between brackets to indicate the reference to the \
+record. For example, [1] means that the information is in the Record-No \
+1.
+
+Here is the list of bullets to improve, complete and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 41
+Record-No: 354
+Citations: 6
+Record-ID: Li T/1, 2022, CHEM SCI, V13, P4740
+Title: MACHINE_LEARNING for FLOW_BATTERIES: opportunities and challenges
+Abstract:
+```
+with increased COMPUTATIONAL_ABILITY of MODERN_COMPUTERS, the \
+RAPID_DEVELOPMENT of MATHEMATICAL_ALGORITHMS and the \
+CONTINUOUS_ESTABLISHMENT of MATERIAL_DATABASES, ARTIFICIAL_INTELLIGENCE \
+(ai) has shown TREMENDOUS_POTENTIAL in chemistry. MACHINE_LEARNING (ml), \
+as one of the most IMPORTANT_BRANCHES of ai, plays an IMPORTANT_ROLE in \
+accelerating the discovery and design of KEY_MATERIALS for FLOW_BATTERIES \
+(fbs), and the optimization of FB_SYSTEMS. in this perspective, we first \
+provide a FUNDAMENTAL_UNDERSTANDING of the workflow of ml in fbs. \
+moreover, RECENT_PROGRESS on applications of the state of art ml in both \
+ORGANIC_FBS and VANADIUM_FBS are discussed. finally, the challenges and \
+FUTURE_DIRECTIONS of ML_RESEARCH in fbs are proposed.  2022 the \
+ROYAL_SOCIETY of chemistry.
+```
+
+--
+
+##: 42
+Record-No: 380
+Citations: 5
+Record-ID: Sharma V, 2023, SCI TOTAL ENVIRON, V886
+Title: advances in MACHINE_LEARNING_TECHNOLOGY for \
+SUSTAINABLE_BIOFUEL_PRODUCTION_SYSTEMS in LIGNOCELLULOSIC_BIOREFINERIES
+Abstract:
+```
+in view of the GLOBAL_CLIMATE change concerns, the society is approaching \
+towards the development of green and RENEWABLE_ENERGIES for \
+SUSTAINABLE_FUTURE. the non renewable FOSSIL_FUELS may be largely \
+replaced by RENEWABLE_ENERGY_SOURCES, which could facilitate \
+SUSTAINABLE_GROWTH, ENERGY_DEVELOPMENT and lessen the reliance on \
+CONVENTIONAL_ENERGY_SOURCES. the TRADITIONAL_METHODS employed in \
+BIOREFINERIES to estimate the DATA_VALUES for the \
+BIOFUEL_PRODUCTION_SYSTEMS are often complicated, time consuming and \
+labour intensive. MODERN_MACHINE_LEARNING (ml) technologies hold \
+ENORMOUS_POTENTIAL in managing high dimensional COMPLEX_SCIENTIFIC_TASKS \
+and improving DECISION_MAKING in ENERGY_DISTRIBUTION_NETWORKS and \
+systems. the data driven probabilistic ml algorithms could be applied to \
+SMART_BIOFUEL_SYSTEMS and networks that may reduce the cost of \
+EXPERIMENTAL_RESEARCH while providing ACCURATE_ESTIMATES of \
+PRODUCT_YIELDS. the CURRENT_REVIEW_DEMONSTRATES a THOROUGH_UNDERSTANDING \
+of the application of DIFFERENT_ML_MODELS to regulate and monitor the \
+production of BIOFUELS from WASTE_BIOMASS through PREDICTION, \
+OPTIMIZATION and real time monitoring. the in depth analysis of the most \
+RECENT_ADVANCEMENTS in ml assisted BIOFUEL_PRODUCTION_METHODS, including \
+thermochemical and BIOCHEMICAL_PROCESSES is provided. moreover, the \
+ML_MODELS in addressing the issues of BIOFUEL SUPPLY_CHAINS, \
+CASE_STUDIES, scientific challenges and FUTURE_DIRECTION in \
+ML_APPLICATIONS are also summarized.  2023 elsevier b.v.
+```
+
+--
+
+##: 43
+Record-No: 310
+Citations: 5
+Record-ID: Zhao L/1, 2022, ENVIRON SCI POLLUT RES, V29, P43690
+Title: a review on proliferation of ARTIFICIAL_INTELLIGENCE in WIND_ENERGY \
+FORECASTING and INSTRUMENTATION_MANAGEMENT
+Abstract:
+```
+energy is the source of ECONOMIC_GROWTH, and ENERGY_CONSUMPTION indicates \
+the COUNTRYS_STATE of development. ENERGY_ENGINEERING is a relatively \
+NEW_TECHNICAL_DISCIPLINE. it is increasingly considered as a \
+SIGNIFICANT_STEP in meeting CARBON_REDUCTION_TARGETS, which can produce a \
+variety of appealing outcomes that are useful to HUMANITYS_EVOLUTION. \
+many countries have adopted NATIONAL_POLICIES to decrease pollution by \
+reducing FOSSIL_FUEL_USE and increasing RENEWABLE_ENERGY_USAGE by \
+alleviating climate change (wind and solar, etc.). the ever growing need \
+for RENEWABLE_SOURCES has led to economic and TECHNOLOGICAL_PROBLEMS, \
+such as WIND_ENERGY, essential for EFFECTIVE_GRID_CONTROL, and the design \
+of a WIND_PROJECT. PRECISE_ESTIMATES offer NETWORK_OPERATORS and \
+POWER_SYSTEM_DESIGNERS VITAL_INFORMATION for the generation of an \
+APPROPRIATE_WIND_TURBINE and controlling demand and supply power. this \
+work provides an in depth study of the proliferation of \
+ARTIFICIAL_INTELLIGENCE (ai) in the prediction of WIND_ENERGY generation. \
+the devices employed to calculate wind speed are examined and discussed, \
+with a focus on studies recently published. this REVIEWS_FINDINGS show \
+that ai is being employed in power WIND_ENERGY measurement and forecasts. \
+when compared to INDIVIDUAL_SYSTEMS, the HYBRID_AI_SYSTEM gives more \
+ACCURATE_FINDINGS. the discussion also found that correct handling and \
+calibration of the anemometer can increase predicting accuracy. this \
+CONCLUSION_SUGGESTS that increasing the accuracy of wind FORECASTING can \
+be accomplished by lowering EQUIPMENT_ERRORS that measure the \
+METEOROLOGICAL_PARAMETER and MITIGATE_CARBON_EMISSION.  2022, the \
+author(s), under EXCLUSIVE_LICENCE to springer verlag gmbh germany, part \
+of SPRINGER_NATURE.
+```
+
+--
+
+##: 44
+Record-No: 305
+Citations: 5
+Record-ID: Mirzaei M, 2021, INT J AMBIENT ENERGY, V42, P227
+Title: NEURAL_NETWORK_MODELLING for ACCURATE_PREDICTION of THERMAL_EFFICIENCY of \
+a FLAT_PLATE_SOLAR_COLLECTOR working with nanofluids
+Abstract:
+```
+in the PRESENT_STUDY, the performance of the FLAT_PLATE_SOLAR_COLLECTOR \
+with three different WORKING_FLUIDS (PURE_WATER, al2o3/water NANOFLUID \
+and cuo/water NANOFLUID) is simulated using ARTIFICIAL_NEURAL_NETWORK \
+(ann). the SOLAR_RADIATION_HEAT_FLUX varied between 650 and 950 w/m2 and \
+the FLOW_RATE varied from 1 to 4 l/min. the effect of \
+RADIATION_HEAT_FLUX, MASS_FLOW_RATE, ambient and INLET_TEMPERATURE on the \
+THERMAL_EFFICIENCY was analysed. the predicted results of the three above \
+mentioned WORKING_FLUIDS are compared and validated with those of the \
+measurements. the output of ann for all three WORKING_FLUIDS was found to \
+be reasonably capable of estimating the performance of the \
+FLAT_PLATE_COLLECTOR_SYSTEM with the deviation less than 2%, while the \
+trend of each working fluid is different against the MASS_FLOW_RATE. \
+EXPERIMENTAL_INVESTIGATIONS are usually time consuming and their \
+equipment is expensive. therefore, the advantages of the ANN_MODEL \
+compared to the CONVENTIONAL_TESTING methods are speed, simplicity and \
+the capacity of the ann to learn from limited EXPERIMENTAL_DATA.  2018 \
+INFORMA_UK limited, trading as taylor & FRANCIS_GROUP.
+```
+
+--
+
+##: 45
+Record-No: 383
+Citations: 4
+Record-ID: Alagumalai A, 2023, BIOFUEL RES J, V10, P1844
+Title: MACHINE_LEARNING in BIOHYDROGEN_PRODUCTION: a review
+Abstract:
+```
+BIOHYDROGEN is emerging as a promising carbon neutral and \
+SUSTAINABLE_ENERGY_CARRIER with HIGH_ENERGY_YIELD to replace \
+CONVENTIONAL_FOSSIL fuels. however, BIOHYDROGEN_COMMERCIAL_UPTAKE is \
+mainly hindered by the SUPPLY_SIDE. as a result, various operating \
+parameters must be optimized to realize BIOHYDROGEN_COMMERCIAL_UPTAKE on \
+a large scale. recently, MACHINE_LEARNING_ALGORITHMS have demonstrated \
+the ability to handle LARGE_AMOUNTS of data while requiring less in depth \
+knowledge of the system and being capable of adapting to evolving \
+circumstances. this review critically reviews the role of \
+MACHINE_LEARNING in categorizing and predicting data related to \
+BIOHYDROGEN_PRODUCTION. the accuracy and potential of \
+DIFFERENT_MACHINE_LEARNING_ALGORITHMS are reported. also, the \
+PRACTICAL_IMPLICATIONS of MACHINE_LEARNING_MODELS to realize \
+BIOHYDROGEN_UPTAKE by the TRANSPORTATION_SECTOR are discussed. the review \
+indicates that MACHINE_LEARNING_ALGORITHMS can successfully model non \
+linear and COMPLEX_INTERACTIONS between operational and \
+PERFORMANCE_PARAMETERS in BIOHYDROGEN_PRODUCTION. additionally, \
+MACHINE_LEARNING_ALGORITHMS can help RESEARCHERS_IDENTIFY the most \
+EFFICIENT_METHODS for producing BIOHYDROGEN, leading to a more \
+sustainable and cost effective energy source.  2023 brteam. all rights \
+reserved.
+```
+
+--
+
+##: 46
+Record-No: 345
+Citations: 4
+Record-ID: Oruganti RK, 2023, SCI TOTAL ENVIRON, V876
+Title: ARTIFICIAL_INTELLIGENCE and MACHINE_LEARNING_TOOLS for high PERFORMANCE \
+microalgal WASTEWATER_TREATMENT and ALGAL_BIOREFINERY: a CRITICAL_REVIEW
+Abstract:
+```
+the increased WATER_SCARCITY, DEPLETION of FRESHWATER_RESOURCES, and \
+rising ENVIRONMENTAL_AWARENESS are stressing for the development of \
+SUSTAINABLE_WASTEWATER_TREATMENT_PROCESSES. MICROALGAE based \
+WASTEWATER_TREATMENT has resulted in a PARADIGM_SHIFT in our approach \
+toward NUTRIENT_REMOVAL and SIMULTANEOUS_RESOURCE_RECOVERY from \
+WASTEWATER. WASTEWATER_TREATMENT and the generation of BIOFUELS and \
+bioproducts from MICROALGAE can be coupled to promote the \
+CIRCULAR_ECONOMY synergistically. a \
+MICROALGAL_BIOREFINERY_TRANSFORMS_MICROALGAL_BIOMASS into BIOFUELS, \
+BIOACTIVE_CHEMICALS, and biomaterials. the large scale cultivation of \
+MICROALGAE is essential for the commercialization and industrialization \
+of MICROALGAE_BIOREFINERY. however, the INHERENT_COMPLEXITY of \
+MICROALGAL_CULTIVATION_PARAMETERS regarding physiological and \
+ILLUMINATION_PARAMETERS_RENDERS it challenging to facilitate a smooth and \
+cost effective operation. ARTIFICIAL_INTELLIGENCE (ai)/MACHINE_LEARNING \
+algorithms (mla) offer INNOVATIVE_STRATEGIES for assessing, predicting, \
+and regulating uncertainties in ALGAL_WASTEWATER_TREATMENT and \
+BIOREFINERY. the CURRENT_STUDY presents a CRITICAL_REVIEW of the most \
+promising ai/mlas that demonstrate a potential to be applied in \
+MICROALGAL_TECHNOLOGIES. the most commonly used mlas include \
+ARTIFICIAL_NEURAL_NETWORKS, SUPPORT_VECTOR_MACHINE, GENETIC_ALGORITHMS, \
+DECISION_TREE, and RANDOM_FOREST_ALGORITHMS. RECENT_DEVELOPMENTS in ai \
+have made it possible to combine cutting edge techniques from \
+AI_RESEARCH_FIELDS with MICROALGAE for ACCURATE_ANALYSIS of \
+LARGE_DATASETS. mlas have been extensively studied for their potential in \
+MICROALGAE_DETECTION and CLASSIFICATION. however, the ML_APPLICATION in \
+MICROALGAL_INDUSTRIES, such as optimizing MICROALGAE_CULTIVATION for \
+increased BIOMASS_PRODUCTIVITY, is still in its infancy. incorporating \
+smart ai/ml enabled INTERNET_OF_THINGS (iot) based technologies can help \
+the MICROALGAL_INDUSTRIES to operate effectively with MINIMUM_RESOURCES. \
+FUTURE_RESEARCH_DIRECTIONS are also highlighted, and some of the \
+challenges and perspectives of ai/ml are outlined. as the world is \
+entering the digitalized INDUSTRIAL_ERA, this REVIEW provides an \
+INSIGHTFUL_DISCUSSION about INTELLIGENT_MICROALGAL_WASTEWATER_TREATMENT \
+and BIOREFINERY for researchers in the field of MICROALGAE.  2023
+```
+
+--
+
+##: 47
+Record-No: 331
+Citations: 3
+Record-ID: Velidandi A, 2023, J ENERGY CHEM, V81, P42
+Title: STATE_OF_THE_ART and FUTURE_DIRECTIONS of MACHINE_LEARNING for \
+BIOMASS_CHARACTERIZATION and for SUSTAINABLE_BIOREFINERY
+Abstract:
+```
+MACHINE_LEARNING (ml) has emerged as a SIGNIFICANT_TOOL in the field of \
+BIOREFINERY, offering the capability to analyze and predict \
+COMPLEX_PROCESSES with efficiency. this ARTICLE_REVIEWS the CURRENT_STATE \
+of BIOREFINERY and its CLASSIFICATION, highlighting various commercially \
+SUCCESSFUL_BIOREFINERIES. further, we delve into DIFFERENT_CATEGORIES of \
+ML_MODELS, including their ALGORITHMS and applications in VARIOUS_STAGES \
+of BIOREFINERY_LIFECYCLE, such as BIOMASS_CHARACTERIZATION, PRETREATMENT, \
+LIGNIN_VALORIZATION, chemical, thermochemical and \
+BIOCHEMICAL_CONVERSION_PROCESSES, SUPPLY CHAIN_ANALYSIS, and \
+LIFE_CYCLE_ASSESSMENT. the benefits and limitations of each of these \
+ALGORITHMS are discussed in detail. finally, the ARTICLE_CONCLUDES with a \
+discussion of the limitations and FUTURE_PROSPECTS of ml in the field of \
+BIOREFINERIES.  2023 SCIENCE_PRESS and DALIAN_INSTITUTE of \
+CHEMICAL_PHYSICS, CHINESE_ACADEMY of sciences
+```
+
+--
+
+##: 48
+Record-No: 475
+Citations: 3
+Record-ID: Prete P, 2022, CURR OPIN GREEN SUSTAIN CHEM, V35
+Title: GLYCIDOL_SYNTHESES and valorizations: boosting the GLYCEROL_BIOREFINERY
+Abstract:
+```
+the SYNTHESIS of BIO_BASED FUNCTIONAL_MOLECULES and their further \
+conversion to VALUE_ADDED_PRODUCTS are among the most investigated \
+RESEARCH_FIELDS within the GREEN_CHEMISTRY_COMMUNITY. in this work, we \
+review the preparation of BIO_BASED GLYCIDOL and its use as starting \
+material for other chemicals. herein, we discuss the CATALYTIC_APPROACH \
+for the SYNTHESIS of several classes of GLYCIDOL derived ORGANICS \
+characterized by relevant INDUSTRIAL_APPLICATIONS. in detail, \
+GLYCIDOL_CONVERSION to 1,2 and 1,3 propanediol, GLYCEROL_CARBONATE, \
+solketal, MONOALKYL_GLYCERYL_ETHERS, and polymers is reported and \
+FUTURE_PERSPECTIVES in this context are proposed.  2022 elsevier b.v.
+```
+
+--
+
+##: 49
+Record-No: 453
+Citations: 2
+Record-ID: Aniza R, 2023, ENVIRON POLLUT, V324
+Title: a REVIEW of BIOWASTE_REMEDIATION and VALORIZATION for \
+ENVIRONMENTAL_SUSTAINABILITY: ARTIFICIAL_INTELLIGENCE_APPROACH
+Abstract:
+```
+BIOWASTE_REMEDIATION and VALORIZATION for \
+ENVIRONMENTAL_SUSTAINABILITY_FOCUSES on prevention rather than cleanup of \
+WASTE_GENERATION by applying the FUNDAMENTAL_RECOVERY_CONCEPT through \
+biowaste to BIOENERGY conversion systems   an APPROPRIATE_APPROACH in a \
+CIRCULAR_BIOECONOMY. BIOMASS_WASTE (biowaste) is discarded \
+ORGANIC_MATERIALS made of BIOMASS (e.g., AGRICULTURE_WASTE and \
+ALGAL_RESIDUE). biowaste is widely studied as one of the \
+POTENTIAL_FEEDSTOCKS in the BIOWASTE_VALORIZATION_PROCESS due to its \
+being abundantly available. in terms of PRACTICAL_IMPLEMENTATIONS, \
+FEEDSTOCK_VARIABILITY from biowaste, CONVERSION_COSTS and supply \
+CHAIN_STABILITY prevent the WIDESPREAD_USAGE of BIOENERGY_PRODUCTS. \
+BIOWASTE_REMEDIATION and VALORIZATION have used ARTIFICIAL_INTELLIGENCE \
+(ai), a newly developed idea, to overcome these difficulties. this report \
+analyzed 118 works that applied VARIOUS_AI_ALGORITHMS to \
+BIOWASTE_REMEDIATION and VALORIZATION related research published between \
+2007 and 2022. four COMMON_AI_TYPES are utilized in BIOWASTE_REMEDIATION \
+and VALORIZATION: NEURAL_NETWORKS, BAYESIAN_NETWORKS, DECISION_TREE, and \
+MULTIVARIATE_REGRESSION. the NEURAL_NETWORK is the most FREQUENT_AI for \
+PREDICTION_MODELS, the BAYESIAN_NETWORK is utilized for \
+PROBABILISTIC_GRAPHICAL_MODELS, and the DECISION_TREE is trusted for \
+providing tools to assist DECISION_MAKING. meanwhile, \
+MULTIVARIATE_REGRESSION is employed to identify the relationship between \
+EXPERIMENTAL_VARIABLES. ai is a remarkably EFFECTIVE_TOOL in predicting \
+data, which is reportedly better than the CONVENTIONAL_APPROACH owing to \
+its characteristics of time saving and HIGH_ACCURACY. the challenge and \
+FUTURE_WORK in BIOWASTE_REMEDIATION and VALORIZATION are briefly \
+discussed to maximize the model's performance.  2023 ELSEVIER_LTD
+```
+
+--
+
+##: 50
+Record-No: 463
+Citations: 2
+Record-ID: Naveenkumar R, 2023, BIORESOUR TECHNOL, V379
+Title: a STRATEGIC_REVIEW on SUSTAINABLE_APPROACHES in \
+MUNICIPAL_SOLID_WASTE_MANAGEMENT and ENERGY_RECOVERY: role of \
+ARTIFICIAL_INTELLIGENCE, ECONOMIC_STABILITY and LIFE_CYCLE_ASSESSMENT
+Abstract:
+```
+the CONSUMPTION_OF_ENERGY levels has increased in association with \
+ECONOMIC_GROWTH and concurrently increased the ENERGY_DEMAND from \
+RENEWABLE_SOURCES. the need under SUSTAINABLE_DEVELOPMENT_GOALS (sdg) \
+intends to explore VARIOUS_TECHNOLOGICAL_ADVANCEMENTS for the utilization \
+of WASTE_TO_ENERGY. MUNICIPAL_SOLID_WASTE (msw) has been reported as \
+CONSTRUCTIVE_FEEDSTOCK to produce BIOFUELS, BIOFUEL_CARRIERS and \
+biochemicals using energy efficient technologies in RISK_FREEWAYS. the \
+PRESENT_REVIEW_CONTEMPLATES_RISK_ASSESSMENT and challenges in sorting and \
+transportation of msw and DIFFERENT_ASPECTS of conversion of msw into \
+energy are critically analysed. the CIRCULAR_BIOECONOMY of \
+ENERGY_PRODUCTION_STRATEGIES and management of waste are also analysed. \
+the CURRENT_SCENARIO on msw and its impacts on the environment are \
+elucidated in conjunction with VARIOUS_POLICIES and amendments equipped \
+for the COMPETENT_MANAGEMENT of msw in order to fabricate a sustained \
+environment.  2023 ELSEVIER_LTD
+```
+
+--
+
+**********************************************************************
+
+Improve, complete and make more clear the following list of bullets. Adds \
+new conclussions that are common in the following abstracts or adds new \
+common conclusions. Generate an unique list, not a list per abstract. Use \
+the Record-No value between brackets to indicate the reference to the \
+record. For example, [1] means that the information is in the Record-No \
+1.
+
+Here is the list of bullets to improve, complete and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 51
+Record-No: 478
+Citations: 2
+Record-ID: Zhang W/2, 2023, BIOCHAR, V5
+Title: SYNTHESIS_OPTIMIZATION and ADSORPTION modeling of BIOCHAR for \
+POLLUTANT_REMOVAL via MACHINE_LEARNING
+Abstract:
+```
+due to LARGE_SPECIFIC_SURFACE_AREA, abundant FUNCTIONAL_GROUPS and \
+LOW_COST, BIOCHAR is widely used for POLLUTANT_REMOVAL. the \
+ADSORPTION_PERFORMANCE of BIOCHAR is related to BIOCHAR_SYNTHESIS and \
+ADSORPTION_PARAMETERS. but the influence factor is numerous, the \
+TRADITIONAL_EXPERIMENTAL_ENUMERATION is powerless. in RECENT_YEARS, \
+MACHINE_LEARNING has been gradually employed for BIOCHAR, but there is no \
+COMPREHENSIVE_REVIEW on the WHOLE_PROCESS_REGULATION of \
+BIOCHAR_ADSORBENTS, covering SYNTHESIS_OPTIMIZATION and ADSORPTION \
+modeling. this REVIEW_ARTICLE systematically summarized the application \
+of MACHINE_LEARNING in BIOCHAR_ADSORBENTS from the perspective of all \
+round regulation for the first time, including the SYNTHESIS_OPTIMIZATION \
+and ADSORPTION modeling of BIOCHAR_ADSORBENTS. firstly, the overview of \
+MACHINE_LEARNING was introduced. then, the latest advances of \
+MACHINE_LEARNING in BIOCHAR_SYNTHESIS for POLLUTANT_REMOVAL were \
+summarized, including prediction of BIOCHAR_YIELD and \
+PHYSICOCHEMICAL_PROPERTIES, OPTIMAL_SYNTHETIC_CONDITIONS and \
+ECONOMIC_COST. and the application of MACHINE_LEARNING in \
+POLLUTANT_ADSORPTION by BIOCHAR was reviewed, covering prediction of \
+ADSORPTION_EFFICIENCY, optimization of EXPERIMENTAL_CONDITIONS and \
+revelation of ADSORPTION_MECHANISM. GENERAL_GUIDELINES for the \
+application of MACHINE_LEARNING in whole process optimization of BIOCHAR \
+from synthesis to ADSORPTION were presented. finally, the existing \
+problems and FUTURE_PERSPECTIVES of MACHINE_LEARNING for \
+BIOCHAR_ADSORBENTS were put forward. we hope that this review can promote \
+the integration of MACHINE_LEARNING and BIOCHAR, and thus light up the \
+industrialization of BIOCHAR. GRAPHICAL_ABSTRACT: [figure not available: \
+see fulltext.]  2023, the author(s).
+```
+
+--
+
+##: 52
+Record-No: 411
+Citations: 2
+Record-ID: Lopez-Vargas A, 2022, ENERGY BUILD, V268
+Title: methods, DATA_SOURCES and applications of the ARTIFICIAL_INTELLIGENCE in \
+the ENERGY_POVERTY_CONTEXT: a review
+Abstract:
+```
+ENERGY_POVERTY (ep) is a WIDESPREAD_PROBLEM in europe. EP_DETECTION is \
+hampered by a lack of data and GLOBAL_METRICS. recently, \
+INNOVATIVE_APPROACHES using ARTIFICIAL_INTELLIGENT (ai) techniques have \
+been increasingly applied for the EP_ALLEVIATION. in this work, studies \
+focused on the application of ai on ep were studied. it was identified \
+that there is not a HIGH_NUMBER of works that apply ai to fight against \
+ep (considering this problem as a MULTIDIMENSIONAL_PHENOMENON). \
+ARTIFICIAL_NEURAL networks based algorithms and DECISION_TREES were the \
+most used algorithms in the reviewed literature focused on \
+EP_ALLEVIATION. however, several AI_APPLICATIONS focused on \
+PARTIAL_ASPECTS of the ep or on areas intimately related to ep (low \
+income, high ENERGY_PRICE and low ENERGY_EFFICIENCY of buildings) that \
+allow the characterization of the problem in an EFFICIENT_WAY have been \
+published in RECENT_YEARS; the last 7 years published literature have \
+been reviewed in this work. it was found that NEURAL_NETWORKS_ALGORITHMS \
+were the most used models for low income, ENERGY_PRICE and \
+POOR_ENERGY_EFFICIENCY_CHARACTERIZATIONS. SUPPORT_VECTOR_MACHINES based \
+algorithms were the most POPULAR_AI_METHOD applied on ENERGY_CONSUMPTION \
+related problems. DEEP_LEARNING was the most POPULAR_TECHNIQUE for \
+detecting ENERGY_BILLING_IRREGULARITIES and UNPAID_ENERGY_BILLS.  2022 \
+elsevier b.v.
+```
+
+--
+
+##: 53
+Record-No: 494
+Citations: 1
+Record-ID: Akinpelu DA, 2023, DIGIT CHEM ENG, V8
+Title: MACHINE_LEARNING_APPLICATIONS in BIOMASS_PYROLYSIS: from biorefinery to \
+end of life product management
+Abstract:
+```
+the THERMOCHEMICAL_CONVERSION of biomass is a PROMISING_TECHNOLOGY due to \
+its cost effectiveness and FEEDSTOCK_FLEXIBILITY, with PYROLYSIS being a \
+particularly NOTEWORTHY_METHOD for its DIVERSE_PRODUCT_RANGE. despite the \
+potential of PYROLYSIS, commercialization remains elusive, and there is a \
+growing need to fully understand its dynamics to FACILITATE_PROCESS \
+scaling up. however, WASTE_BIOMASS_PYROLYSIS is complex, time consuming, \
+and capital intensive. MACHINE_LEARNING (ml) has emerged as a \
+POSSIBLE_MEANS of supporting and accelerating PYROLYSIS_RESEARCH despite \
+these challenges. this study provides a COMPREHENSIVE_OVERVIEW of the use \
+of ml in PYROLYSIS, from biorefinery to end of life product management. \
+in addition, the success of ml in PROCESS_OPTIMIZATION and control, \
+predicting PRODUCT_YIELD, real time monitoring, LIFE_CYCLE_ASSESSMENT \
+(lca), and TECHNO_ECONOMIC_ANALYSIS (tea) during BIOMASS_PYROLYSIS is \
+highlighted. several ML_METHODS have been utilized in a bid to study \
+PYROLYSIS; the potentiality of ARTIFICIAL_NEURAL_NETWORKS (anns) to learn \
+extremely non linear input output correlations has led to the \
+WIDESPREAD_ADOPTION of these networks. furthermore, the \
+CURRENT_KNOWLEDGE_GAPS in ML_RESEARCH in PYROLYSIS and \
+FUTURE_RECOMMENDATIONS for its application are identified. finally, this \
+STUDY_DEMONSTRATES the potential of ml in accelerating research and \
+development as well as the scalability of PYROLYSIS of biomass.  2023 the \
+author(s)
+```
+
+--
+
+##: 54
+Record-No: 486
+Citations: 1
+Record-ID: Rex P, 2023, CHEMENGINEERING, V7
+Title: AGRICULTURAL_BIOMASS_WASTE to BIOCHAR: a review on BIOCHAR_APPLICATIONS \
+using MACHINE_LEARNING_APPROACH and CIRCULAR_ECONOMY
+Abstract:
+```
+BIOCHAR has gained attention as an ALTERNATIVE_SOURCE of SOLID_ENERGY and \
+for the PROPER_DISPOSAL of AGRICULTURAL_BIOMASS_WASTE (abw). microwave \
+assisted pyrolysis (map) is a PROMISING_APPROACH for the production of \
+BIOCHAR. this REVIEW_ARTICLE presents the BENEFICIAL_USE of BIOCHAR for \
+SOIL_FERTILIZATION, MACHINE_LEARNING (ml), the CIRCULAR_BIOECONOMY, and \
+the TECHNOLOGY_READINESS_LEVEL. the use of MACHINE_LEARNING_TECHNIQUES \
+helps to design, predict, and optimize the process. it can also improve \
+the accuracy and efficacy of the BIOCHAR_PRODUCTION_PROCESS, thereby \
+reducing costs. furthermore, the use of BIOCHAR as a SOIL_AMENDMENT can \
+be an ATTRACTIVE_OPTION for farmers. the incorporation of BIOCHAR into \
+soil has been shown to improve SOIL_FERTILITY, WATER_RETENTION, and \
+CROP_PRODUCTIVITY. this can lead to reduced dependence on \
+SYNTHETIC_FERTILIZERS and increased AGRICULTURAL_YIELDS. the development \
+of a BIOCHAR_ECONOMY has the potential to create NEW_JOB_OPPORTUNITIES \
+and increase the NATIONAL_GROSS_DOMESTIC_PRODUCT (gdp). small scale \
+enterprises can play a SIGNIFICANT_ROLE in the production and \
+distribution of BIOCHAR, providing value added products and helping to \
+promote SUSTAINABLE_AGRICULTURE.  2023 by the authors.
+```
+
+--
+
+##: 55
+Record-No: 407
+Citations: 1
+Record-ID: Su D, 2023, ENERGIES, V16
+Title: application of MACHINE_LEARNING in FUEL_CELL_RESEARCH
+Abstract:
+```
+a FUEL_CELL is an ENERGY_CONVERSION_DEVICE that UTILIZES_HYDROGEN_ENERGY \
+through an ELECTROCHEMICAL_REACTION. despite their many advantages, such \
+as HIGH_EFFICIENCY, ZERO_EMISSIONS, and FAST_STARTUP, FUEL_CELLS have not \
+yet been fully commercialized due to deficiencies in SERVICE_LIFE, cost, \
+and performance. EFFICIENT_EVALUATION_METHODS for performance and \
+SERVICE_LIFE are critical for the design and optimization of FUEL_CELLS. \
+the purpose of this paper was to review the application of \
+COMMON_MACHINE_LEARNING_ALGORITHMS in FUEL_CELLS. the significance and \
+status of MACHINE_LEARNING_APPLICATIONS in FUEL_CELLS are briefly \
+described. COMMON_MACHINE_LEARNING_ALGORITHMS, such as \
+ARTIFICIAL_NEURAL_NETWORKS, SUPPORT_VECTOR_MACHINES, and RANDOM_FORESTS \
+are introduced, and their applications in \
+FUEL_CELL_PERFORMANCE_PREDICTION and optimization are comprehensively \
+elaborated. the review revealed that MACHINE_LEARNING_ALGORITHMS can be \
+successfully used for PERFORMANCE_PREDICTION, SERVICE_LIFE_PREDICTION, \
+and FAULT_DIAGNOSIS in FUEL_CELLS, with GOOD_ACCURACY in solving \
+NONLINEAR_PROBLEMS. combined with OPTIMIZATION_ALGORITHMS, \
+MACHINE_LEARNING_MODELS can further carry out the optimization of design \
+and operating parameters to achieve MULTIPLE_OPTIMIZATION_GOALS with \
+GOOD_ACCURACY and efficiency. it is expected that this REVIEW_PAPER could \
+help the READER_COMPREHEND the state of the art of \
+MACHINE_LEARNING_APPLICATIONS in fuel fuels and shed light on further \
+DEVELOPMENT_DIRECTIONS in FUEL_CELL_RESEARCH.  2023 by the authors.
+```
+
+--
+
+##: 56
+Record-No: 520
+Citations: 0
+Record-ID: Awogbemi O, 2023, FRONT ENERGY RES, V11
+Title: application of MACHINE_LEARNING_TECHNOLOGIES in \
+BIODIESEL_PRODUCTION_PROCESSA_REVIEW
+Abstract:
+```
+the search for renewable, affordable, sustainable, and ecologically \
+benign fuels to substitute fossil based diesel fuels has led to increased \
+traction in the search for BIODIESEL_PRODUCTION and utilization in \
+RECENT_TIMES. BIODIESEL, a form of LIQUID_BIOFUEL, has been found to \
+ALLEVIATE_ENVIRONMENTAL_DEGRADATION, ENHANCE_ENGINE_PERFORMANCE, and \
+reduce emissions of TOXIC_GASES in transportation and other \
+INTERNAL_COMBUSTION_ENGINES. however, BIODIESEL_PRODUCTION_PROCESSES have \
+been dogged with various challenges and complexities which have limited \
+its expected progression. the introduction of data based technologies is \
+one of the remedies aimed at deescalating the challenges associated with \
+BIODIESEL_SYNTHESIS. in this study, the application of MACHINE_LEARNING \
+(ml) based technologies including ARTIFICIAL_NEURAL_NETWORK (ann), \
+RESPONSE_SURFACE_METHODOLOGY (rsm), \
+ADAPTIVE_NETWORK_BASED_FUZZY_INFERENCE_SYSTEM (anfis), etc. as tools for \
+the prediction, modeling, and OPTIMIZATION of the \
+BIODIESEL_PRODUCTION_PROCESS was interrogated based on the outcomes of \
+PREVIOUS_STUDIES in the RESEARCH_DOMAIN. specifically, we review the \
+influence of INPUT_VARIABLES like alcohol: OIL_MOLAR_RATIO, \
+CATALYST_CONCENTRATION, REACTION_TEMPERATURE, RESIDENCE_TIME, and \
+AGITATION_SPEED on the BIODIESEL_YIELD (output variable). the outcome of \
+this INVESTIGATION_SHOWS that the usage of ann, rsm, anfis, and other \
+MACHINE_LEARNING_TECHNOLOGIES raised BIODIESEL_YIELD to between 84% and \
+98% while the STATISTICAL_VERIFICATION_SHOWS that the \
+PEARSON_CORRELATION_COEFFICIENT and coefficient of determination are \
+close to 1. going forward, more targeted and COLLABORATIVE_RESEARCH is \
+needed to escalate the use of INNOVATIVE_TECHNOLOGIES for the \
+ENTIRE_BIODIESEL_VALUE_CHAIN to ENHANCE_PRODUCTION_EFFICIENCY, ensure \
+ECONOMIC_FEASIBILITY, and promote sustainability. copyright  2023 \
+awogbemi and kallon.
+```
+
+--
+
+##: 57
+Record-No: 533
+Citations: 0
+Record-ID: Bhatti S, 2023, ADV ENERGY SUSTAIN RES
+Title: revolutionizing LOW_COST_SOLAR_CELLS with MACHINE_LEARNING: a \
+SYSTEMATIC_REVIEW of OPTIMIZATION_TECHNIQUES
+Abstract:
+```
+MACHINE_LEARNING (ml) and ARTIFICIAL_INTELLIGENCE (ai) methods are \
+emerging as PROMISING_TECHNOLOGIES for enhancing the performance of low \
+cost photovoltaic (pv) cells in miniaturized ELECTRONIC_DEVICES. indeed, \
+ml is set to significantly contribute to the development of more \
+efficient and cost effective SOLAR_CELLS. this SYSTEMATIC_REVIEW offers \
+an EXTENSIVE_ANALYSIS of RECENT_ML_TECHNIQUES in designing \
+NOVEL_SOLAR_CELL_MATERIALS and structures, highlighting their potential \
+to transform the low cost solar CELL_RESEARCH and DEVELOPMENT_LANDSCAPE. \
+the REVIEW_ENCOMPASSES a variety of ML_APPROACHES, such as \
+GAUSSIAN_PROCESS_REGRESSION (gpr), BAYESIAN_OPTIMIZATION (bo), and \
+DEEP_NEURAL_NETWORKS (dnns), which have proven effective in boosting the \
+efficiency, stability, and affordability of SOLAR_CELLS. the findings of \
+this review indicate that gpr combined with bo is the most \
+PROMISING_METHOD for developing LOW_COST_SOLAR_CELLS. these techniques \
+can significantly speed up the discovery of NEW_PV_MATERIALS and \
+structures while enhancing the efficiency and stability of \
+LOW_COST_SOLAR_CELLS. the REVIEW_CONCLUDES with insights on the \
+challenges, prospects, and FUTURE_DIRECTIONS of ml in low cost solar \
+CELL_RESEARCH and development.  2023 the authors. advanced energy and \
+SUSTAINABILITY_RESEARCH published by wiley vch gmbh.
+```
+
+--
+
+##: 58
+Record-No: 518
+Citations: 0
+Record-ID: Chen M-W, 2023, SCI PROG, V106
+Title: MACHINE_LEARNING in the evaluation and PREDICTION_MODELS of \
+BIOCHAR_APPLICATION: a review
+Abstract:
+```
+this ARTICLE_REVIEWS RECENT_STUDIES applying MACHINE_LEARNING (ml) \
+approaches to BIOCHAR_APPLICATIONS. we first briefly introduce the \
+GENERAL_BIOCHAR_PRODUCTION_PROCESS. VARIOUS_ASPECTS are contained, \
+including the BIOCHAR_APPLICATION in the elimination of HEAVY_METALS \
+and/or organic compounds and the BIOCHAR_APPLICATION in environmental and \
+ECONOMIC_SCOPES, for instance, FOOD_SECURITY, energy, and \
+CARBON_EMISSION. the utilization of ML_METHODS, including ann, rf, and \
+nn, plays a VITAL_ROLE in evaluating and predicting the efficiency of \
+BIOCHAR_ABSORPTION. it has been proved that ML_METHODS can validly \
+predict the ADSORPTION_EFFECTIVENESS of biochar for water HEAVY_METALS \
+with higher accuracy. moreover, the literature proposed a comprehensive \
+data driven model to forecast BIOCHAR_YIELD and compositions under \
+VARIOUS_BIOMASS_INPUT_FEEDSTOCK and DIFFERENT_PYROLYSIS_CRITERIA. they \
+said a 12.7% improvement in PREDICTION_ACCURACY compared to the existing \
+literature. however, it might need further optimization in this \
+direction. in summary, this REVIEW_CONCLUDES increasing studies that a \
+well trained ML_METHOD can sufficiently reduce the number of \
+EXPERIMENT_TRIALS and working times associated with higher \
+PREDICTION_ACCURACY. moreover, further studies on ML_APPLICATIONS are \
+needed to optimize the trade off between BIOCHAR_YIELD and its \
+composition.  the author(s) 2023.
+```
+
+--
+
+##: 59
+Record-No: 508
+Citations: 0
+Record-ID: Cheng Y, 2023, ENERGIES, V16
+Title: applicability and trend of the ARTIFICIAL_INTELLIGENCE (ai) on \
+BIOENERGY_RESEARCH between 19912021: a BIBLIOMETRIC_ANALYSIS
+Abstract:
+```
+the BIBLIOMETRIC_ANALYSIS investigated the impact of publications on \
+trends in the literature and BIOENERGY_RESEARCH using \
+ARTIFICIAL_INTELLIGENCE (ai) from 1991 to 2021. in this study, 1721 \
+publications were extracted from the WEB_OF_SCIENCE, and an analysis of \
+the countries, authorship, institutions, journals, and keywords was \
+visualised. in the RECENT_DECADES, this field has entered an \
+OUTBREAK_PHASE. india was the most PRODUCTIVE_COUNTRY in this area, \
+followed by china, iran, and the us. it also noted several \
+NOTABLE_DIFFERENCES between trends and subjects in developed and \
+DEVELOPING_COUNTRIES. the former led this field at the INITIAL_STAGE and \
+later attached importance to using ai for RESEARCH_FEEDSTOCK and \
+IMPACT_ASSESSMENT. DEVELOPING_COUNTRIES encouraged the advancement of \
+this area and emphasised the FEEDSTOCK_USAGE of PHASE_TREATMENT and \
+PROCESS_OPTIMISATION. in addition, a co authorship and INSTITUTES_STUDY \
+revealed that authors and institutes in DISTANT_REGIONS rarely \
+collaborated. the JOURNAL_ANALYSIS_SHOWS STRONG_LINKS between ENERGY, \
+fuel, and ENERGY_CONVERSION and management. MACHINE_LEARNING is by far \
+the most COMMON_APPLICATION of ARTIFICIAL_INTELLIGENCE (ai) technology in \
+BIOENERGY_RESEARCH, with 53% of the articles using it. in these ai \
+related publications, the keyword ARTIFICIAL_NEURAL_NETWORK (ANN) \
+appeared most frequently in the articles.  2023 by the authors.
+```
+
+--
+
+##: 60
+Record-No: 523
+Citations: 0
+Record-ID: Cosgun A, 2023, GREEN CHEM, V25, P3354
+Title: MACHINE_LEARNING for ALGAL_BIOFUELS: a CRITICAL_REVIEW and perspective \
+for the future
+Abstract:
+```
+in this work, MACHINE_LEARNING (ml) applications in \
+MICROALGAL_BIOFUEL_PRODUCTION are reviewed. first, the BASIC_STEPS of \
+ALGAL_BIOFUEL_PRODUCTION are summarized followed by a \
+BIBLIOMETRIC_ANALYSIS to demonstrate the MAJOR_RESEARCH_TRENDS in the \
+field. also, the major challenges related to the commercialization of \
+technology are identified. then, ML_APPLICATIONS for VARIOUS_STEPS in the \
+VALUE_CHAIN are reviewed and analyzed systematically. finally, a \
+FUTURE_PERSPECTIVE on the contribution of ml in the field is provided. \
+our analysis indicates that ML_APPLICATIONS should focus on screening and \
+selecting SUITABLE_STRAINS, preferably together with some other value \
+added products, requiring close collaborations among the researchers in \
+the field to construct an EXTENSIVE_MICROALGAL_STRAIN_DATABASE. \
+optimization of CULTIVATION_CONDITIONS appears to be another area where \
+ml can be helpful. although most published ml works on CULTIVATION are \
+not usually suitable to extract GENERALIZABLE_KNOWLEDGE (due to the \
+NONSTANDARD_NATURE of strains, wastewater, and irradiation), standard \
+testing and methodologies related to reporting protocols should also be \
+built through collaboration to build comparable and \
+GENERALIZABLE_ML_MODELS.  2023 the ROYAL_SOCIETY of chemistry.
+```
+
+--
+
+**********************************************************************
+
+Improve, complete and make more clear the following list of bullets. Adds \
+new conclussions that are common in the following abstracts or adds new \
+common conclusions. Generate an unique list, not a list per abstract. Use \
+the Record-No value between brackets to indicate the reference to the \
+record. For example, [1] means that the information is in the Record-No \
+1.
+
+Here is the list of bullets to improve, complete and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+##: 61
+Record-No: 531
+Citations: 0
+Record-ID: Gao F, 2023, J RENEW MATER, V11, P2771
+Title: GASIFICATION of ORGANIC_WASTE: parameters, mechanism and prediction with \
+the MACHINE_LEARNING_APPROACH
+Abstract:
+```
+GASIFICATION of ORGANIC_WASTE represents one of the most \
+EFFECTIVE_VALORIZATION_PATHWAYS for RENEWABLE_ENERGY and \
+RESOURCES_RECOVERY, while this process can be affected by multi factors \
+like temperature, feedstock, and STEAM_CONTENT, making the \
+PRODUCTS_PREDICTION_PROBLEMATIC. with the popularization and promotion of \
+ARTIFICIAL_INTELLIGENCE such as MACHINE_LEARNING (ml), \
+TRADITIONAL_ARTIFICIAL_NEURAL_NETWORKS have been paid more attention by \
+researchers from the DATA_SCIENCE_FIELD, which provides scientific and \
+ENGINEERING_COMMUNITIES with flexible and RAPID_PREDICTION_FRAMEWORKS in \
+the field of ORGANIC_WASTE_GASIFICATION. in this work, \
+CRITICAL_PARAMETERS including temperature, STEAM_RATIO, and feedstock \
+during GASIFICATION of ORGANIC_WASTE were reviewed in three scenarios \
+including STEAM_GASIFICATION, AIR_GASIFICATION, and oxygen riched \
+GASIFICATION, and the PRODUCT_DISTRIBUTION and involved mechanism were \
+elaborated. moreover, we presented the details of ML_METHODS like \
+REGRESSION_ANALYSIS, ARTIFICIAL_NEURAL_NETWORKS, DECISION_TREES, and \
+related methods, which are expected to REVOLUTIONIZE_DATA_ANALYSIS and \
+modeling of the GASIFICATION of ORGANIC_WASTE. TYPICAL_OUTPUTS including \
+the SYNGAS_YIELD, composition, and hhvs were discussed with a better \
+understanding of the GASIFICATION_PROCESS and ML_APPLICATION. this review \
+focused on the combination of GASIFICATION and ml, and it is of \
+IMMEDIATE_SIGNIFICANCE for the resource and ENERGY_UTILIZATION of \
+ORGANIC_WASTE.  2023, TECH_SCIENCE_PRESS. all rights reserved.
+```
+
+--
+
+##: 62
+Record-No: 467
+Citations: 0
+Record-ID: Godvin Sharmila V, 2023, BIORESOUR TECHNOL, V387
+Title: a REVIEW on the lignocellulosic derived BIOCHAR_BASED_CATALYST in \
+WASTEWATER_REMEDIATION: advanced TREATMENT_TECHNOLOGIES and \
+MACHINE_LEARNING_TOOLS
+Abstract:
+```
+WASTEWATER_DISPOSAL in the ECOSYSTEM_AFFECTS_AQUATIC and HUMAN_LIFE, \
+which necessitates the removal of the contaminants. eliminating \
+WASTEWATER_CONTAMINANTS using BIOCHAR produced through the \
+THERMAL_DECOMPOSITION of LIGNOCELLULOSIC_BIOMASS (lcb) is sustainable. \
+due to its HIGH_SPECIFIC_SURFACE_AREA, POROUS_STRUCTURE, oxygen \
+FUNCTIONAL_GROUPS, and LOW_COST, BIOCHAR has emerged as an \
+ALTERNATE_CONTENDER in catalysis. VARIOUS_INNOVATIVE advanced \
+technologies were combined with BIOCHAR for \
+EFFECTIVE_WASTEWATER_TREATMENT. this REVIEW_EXAMINES the use of lcb for \
+the SYNTHESIS of BIOCHAR along with its ACTIVATION_METHODS. it also \
+elaborates on using advanced BIOCHAR based technologies in \
+WASTEWATER_TREATMENT and the mechanism for forming oxidizing species. the \
+research also highlights the use of MACHINE_LEARNING in POLLUTANT_REMOVAL \
+and identifies the obstacles of BIOCHAR based CATALYSTS in both real time \
+and cutting edge technologies. probable and restrictions for further \
+exploration are discussed.  2023 ELSEVIER_LTD
+```
+
+--
+
+##: 63
+Record-No: 426
+Citations: 0
+Record-ID: Jaime-Barquero E, 2023, BATTERIES, V9
+Title: ARTIFICIAL_INTELLIGENCE_OPPORTUNITIES to DIAGNOSE_DEGRADATION_MODES for \
+SAFETY_OPERATION in LITHIUM_BATTERIES
+Abstract:
+```
+the DEGRADATION and SAFETY_STUDY of LITHIUM_ION_BATTERIES is becoming \
+increasingly important given that these batteries are widely used not \
+only in ELECTRONIC_DEVICES but also in AUTOMOTIVE_VEHICLES. consequently, \
+the detection of DEGRADATION_MODES that could lead to SAFETY_ALERTS is \
+essential. existing methodologies are diverse, experimental based, model \
+based, and the NEW_TRENDS of ARTIFICIAL_INTELLIGENCE. this REVIEW_AIMS to \
+analyze the existing methodologies and compare them, opening the spectrum \
+to those based on ARTIFICIAL_INTELLIGENCE (ai). ai based studies are \
+increasing in number and have a WIDE_VARIETY of applications, but no \
+classification, in depth analysis, or comparison with existing \
+methodologies is yet available.  2023 by the authors.
+```
+
+--
+
+##: 64
+Record-No: 434
+Citations: 0
+Record-ID: Jeon PR, 2023, CHEM ENG J, V471
+Title: RECENT_ADVANCES and FUTURE_PROSPECTS of \
+THERMOCHEMICAL_BIOFUEL_CONVERSION_PROCESSES with MACHINE_LEARNING
+Abstract:
+```
+BIOFUELS have been widely recognized as POTENTIAL_SOLUTIONS to addressing \
+the CLIMATE_CRISIS and STRENGTHENING_ENERGY_SECURITY and sustainability. \
+however, techno economic and environmental challenges for the production \
+of BIOFUELS remain and complicated CONVERSION_PROCESSES and factors, such \
+as materials and PROCESS_DESIGN, need to be taken into consideration for \
+solving the challenges, which is not easy. MACHINE_LEARNING (ml) has been \
+combined with the theories of THERMOCHEMICAL_BIOFUEL_CONVERSION_PROCESSES \
+to achieve accurate and EFFICIENT_BIOFUEL_PROCESS modelling. in this \
+review, existing ML_APPLICATIONS to predict BIOFUEL_YIELD and composition \
+are critically reviewed. the details of the input and OUTPUT_VARIABLES of \
+the developed models for THERMOCHEMICAL_BIOFUEL_CONVERSION_PROCESSES were \
+summarized, and their DEVELOPMENT_PROCEDURES were compared. \
+TECHNO_ECONOMIC_ANALYSIS results incorporating ML_APPLICATIONS in \
+BIOFUELS were also reviewed. although developed models in literature \
+showed GOOD_PERFORMANCE for their targets, respectively, they can hardly \
+be applied to other feedstocks or operating conditions. to overcome the \
+challenge and develop UNIVERSAL_MODEL, PERSPECTIVE_APPROACHES were \
+suggested in this study. it was suggested that it is essential to develop \
+SYSTEMATIC_DATASETS to support more COMPREHENSIVE_MACHINE learning based \
+modelling towards PRACTICAL_APPLICATIONS. potential PROSPECTIVE_RESEARCH \
+and DEVELOPMENT_DIRECTIONS on MACHINE_LEARNING based \
+THERMOCHEMICAL_BIOFUEL_CONVERSION_PROCESS modeling were recommended, so \
+that it can assist in the commercialization and optimization of \
+VARIOUS_BIOFUEL_CONVERSIONS leading to a sustainable and \
+CIRCULAR_SOCIETY.  2023 elsevier b.v.
+```
+
+--
+
+##: 65
+Record-No: 450
+Citations: 0
+Record-ID: Nanehkaran YA, 2023, WATER, V15
+Title: RIVERSIDE_LANDSLIDE_SUSCEPTIBILITY_OVERVIEW: leveraging \
+ARTIFICIAL_NEURAL_NETWORKS and MACHINE_LEARNING in accordance with the \
+UNITED_NATIONS (un) SUSTAINABLE_DEVELOPMENT_GOALS
+Abstract:
+```
+RIVERSIDE_LANDSLIDES present a SIGNIFICANT_GEOHAZARD globally, posing \
+threats to infrastructure and HUMAN_LIVES. in line with the \
+UNITED_NATIONS_SUSTAINABLE_DEVELOPMENT_GOALS (sdgs), which aim to address \
+GLOBAL_CHALLENGES, professionals in the field have developed \
+DIVERSE_METHODOLOGIES to analyze, assess, and predict the occurrence of \
+LANDSLIDES, including quantitative, qualitative, and semi quantitative \
+approaches. with the advent of COMPUTER_PROGRAMS, QUANTITATIVE_TECHNIQUES \
+have gained prominence, with COMPUTATIONAL_INTELLIGENCE and knowledge \
+based methods like ARTIFICIAL_NEURAL_NETWORKS (anns) achieving \
+REMARKABLE_SUCCESS in LANDSLIDE_SUSCEPTIBILITY_ASSESSMENTS. this article \
+offers a COMPREHENSIVE_REVIEW of the literature concerning the \
+utilization of anns for LANDSLIDE_SUSCEPTIBILITY_ASSESSMENT, focusing \
+specifically on RIVERSIDE_AREAS, in alignment with the sdgs. through a \
+SYSTEMATIC_SEARCH and analysis of VARIOUS_REFERENCES, it has become \
+evident that anns have emerged as the preferred method for these \
+assessments, surpassing TRADITIONAL_APPROACHES. the application of \
+ANNS_ALIGNS with the sdgs, particularly goal 11: SUSTAINABLE_CITIES and \
+communities, which emphasizes the importance of inclusive, safe, \
+resilient, and SUSTAINABLE_URBAN_ENVIRONMENTS. by effectively assessing \
+RIVERSIDE_LANDSLIDE_SUSCEPTIBILITY using anns, communities can better \
+MANAGE_RISKS and enhance the resilience of cities and communities to \
+GEOHAZARDS. while the number of ann based studies in \
+LANDSLIDE_SUSCEPTIBILITY modeling has grown in RECENT_YEARS, the \
+overarching objective remains consistent: researchers strive to develop \
+more accurate and detailed procedures. by leveraging the power of anns \
+and incorporating RELEVANT_SDGS, this SURVEY_FOCUSES on the most commonly \
+employed NEURAL_NETWORK_METHODS for RIVERSIDE_LANDSLIDE_SUSCEPTIBILITY \
+mapping, contributing to the OVERALL_SDG_AGENDA of promoting \
+SUSTAINABLE_DEVELOPMENT, resilience, and DISASTER_RISK_REDUCTION. through \
+the integration of anns in \
+RIVERSIDE_LANDSLIDE_SUSCEPTIBILITY_ASSESSMENTS, in line with the sdgs, \
+this REVIEW_AIMS to advance our knowledge and understanding of this \
+field. by providing insights into the effectiveness of anns and their \
+alignment with the sdgs, this RESEARCH_CONTRIBUTES to the development of \
+improved RISK_MANAGEMENT_STRATEGIES, sustainable urban planning, and \
+RESILIENT_COMMUNITIES in the face of RIVERSIDE_LANDSLIDES.  2023 by the \
+authors.
+```
+
+--
+
+##: 66
+Record-No: 415
+Citations: 0
+Record-ID: Peng W/1, 2023, J RENEWABLE SUSTAINABLE ENERG, V15
+Title: a review on the application of MACHINE_LEARNING in production of \
+WOODY_BIOMASS from natural and planted forests
+Abstract:
+```
+the forest is considered as a SIGNIFICANT_SOURCE of \
+WOODY_BIOMASS_PRODUCTION. SUSTAINABLE_PRODUCTION of WOOD, lower emittance \
+of co2 from burning, and lower amount of sulfur and HEAVY_METALS are the \
+advantages of woods rather than FOSSIL_FUELS. the utilization of BIOMASS, \
+as an ENERGY_RESOURCE, is required four MAIN_STEPS of production, \
+pretreatment, bio refinery, and upgrading. this \
+WORK_REVIEWS_MACHINE_LEARNING_APPLICATIONS in the production of the \
+WOODY_BIOMASS RAW_MATERIAL in forests because investigating numerous \
+RELATED_WORKS concluded that there is a considerable reviewing gap in \
+analyzing and collecting the applications of MACHINE_LEARNING in the \
+WOODY_BIOMASS. to fill this gap in the CURRENT_WORK, the origin of woods \
+is explained and the application of MACHINE_LEARNING in this section is \
+scrutinized. then, the MULTIDISCIPLINARY_ENHANCEMENT_APPROACHES in the \
+production of plants as well as the role of MACHINE_LEARNING in each of \
+them are reviewed. meanwhile, the role of natural and planted forests in \
+the production of WOODY_BIOMASS is explained and the application of \
+MACHINE_LEARNING in these areas is surveyed. summarily, after analysis of \
+NUMEROUS_PAPERS, it is concluded that MACHINE_LEARNING and DEEP_LEARNING \
+is widely utilized in the production of WOODY_BIOMASS to enhance the \
+WOOD_PRODUCTION_QUANTITY and quality, improve the predictions, enhance \
+the HARVESTING_TECHNIQUES, and diminish the losses.  2023 author(s).
+```
+
+--
+
+##: 67
+Record-No: 442
+Citations: 0
+Record-ID: Peng W/1, 2023, BIOMASS BIOENERGY, V175
+Title: enhancement of QUALITY and QUANTITY of WOODY_BIOMASS produced in forests \
+using MACHINE_LEARNING_ALGORITHMS
+Abstract:
+```
+FOREST is considered a SIGNIFICANT_SOURCE of WOODY_BIOMASS_PRODUCTION. \
+SUSTAINABLE_PRODUCTION of wood, lower emittance of co2 from burning, and \
+lower amount of sulfur and HEAVY_METALS are the advantages of wood rather \
+than fossil fuels. the QUALITY and QUANTITY of WOODY_BIOMASS_PRODUCTION \
+are a function of some operations including GENETIC_MODIFICATIONS, high \
+QUALITY FORESTRY, evaluation, monitoring, storage, and transportation. \
+due to surveying numerous related works, it was found that there is a \
+considerable reviewing gap in analyzing and collecting the applications \
+of MACHINE_LEARNING in the QUALITY and QUANTITY of WOODY_BIOMASS. to fill \
+this gap in the CURRENT_WORK, the above mentioned operations are \
+explained followed by the applications of MACHINE_LEARNING_ALGORITHMS. \
+conclusively, MACHINE_LEARNING and DEEP_LEARNING can be employed in \
+estimating MAIN_EFFECTIVE_FACTORS on TREES_GROWTH, CLASSIFICATION of \
+seeds, trees, and regions, as well as providing DECISION_MAKING tools for \
+farmers or governors, evaluation of BIOMASS, understanding the relation \
+between the WOODY_BIMASS INTERNAL_STRUCTURE and bio fuel production, the \
+ultimate and PROXIMATE_ANALYSES, prediction of WOOD_CONTENTS and \
+dimensions, determination of the proportion of mixed WOODY_MATERIALS, \
+monitoring for EARLY_DISEASE_IDENTIFICATION and CLASSIFICATION, \
+classifying TREES_DISEASES, estimating evapotranspiration, collecting \
+information about FOREST_REGIONS and its QUALITY, NITROGEN_CONCENTRATION \
+in trees, choosing VIABLE_STORAGE_SITES for STORAGE_DEPOTS and improving \
+the solution, classifying DIFFERENT_FILLING_LEVELS in silage, estimating \
+ACETIC_ACID_SYNTHESIS and AEROBIC_REACTIONS in silage, determining \
+CROP_QUANTITY in silo, estimating the METHANE_PRODUCTION, and monitoring \
+and predicting WATER_CONTENT, QUALITY and QUANTITY of stored BIOMASS, \
+FORECASTING the demand, PATH_WAY and on time performance predicting, \
+TRUCK_TRAFFIC predicting, and BEHAVIORAL_ANALYSIS and FACILITY_PLANNING. \
+2023 ELSEVIER_LTD
+```
+
+--
+
+##: 68
+Record-No: 461
+Citations: 0
+Record-ID: Priya AK, 2023, SCI TOTAL ENVIRON, V886
+Title: ARTIFICIAL_INTELLIGENCE enabled CARBON_CAPTURE: a REVIEW
+Abstract:
+```
+carbon capturing is imperative to fight CLIMATE_CHANGE as much \
+CARBON_EMISSIONS are liberated into the atmosphere, leading to adversely \
+NEGATIVE_ENVIRONMENTAL_IMPACTS. today's world addresses all the issues \
+with the aid of DIGITAL_TECHNOLOGIES like DATA_POOLING and \
+ARTIFICIAL_INTELLIGENCE (ai). accordingly, this study is articulated \
+based on ai assisted carbon capturing. techniques including \
+MACHINE_LEARNING (ml), DEEP_LEARNING (dl), and HYBRID_TECHNIQUES being \
+adopted in CARBON_CAPTURE are discussed. the role of AI_TOOLS, \
+frameworks, and MATHEMATICAL_MODELS are also discussed herein. \
+furthermore, the confluence of AI_IN_CARBON_CAPTURE PATENT_LANDSCAPE is \
+explored. this study would allow researchers to envision the growth of ai \
+assisted CARBON_CAPTURE in mitigating CLIMATE_CHANGE and MEETING_SDG 13 \
+CLIMATE_ACTION.  2023 elsevier b.v.
+```
+
+--
+
+##: 69
+Record-No: 472
+Citations: 0
+Record-ID: Sareen K, 2023, EXPERT SYS APPL, V231
+Title: a short term SOLAR_IRRADIANCE forecasting modelling approach based on \
+three decomposition algorithms and ADAPTIVE_NEURO_FUZZY_INFERENCE_SYSTEM
+Abstract:
+```
+in this study, a case study of four indian cities i.e. ajmer, jaipur, \
+jodhpur and kota in the state of rajasthan are considered wherein 30 min \
+ahead data have been obtained via the data site of the national institute \
+of wind energy and wind resource (niwe) on which a proposed global \
+horizontal irradiance (ghi) PREDICTION_TECHNIQUE for all seasons is \
+applied. here, data has been pre processed using three different signal \
+decomposition algorithms in parallel i.e. empirical mode decomposition \
+(emd), complete ensemble empirical mode decomposition with adaptive noise \
+(ceemdan) and ensemble empirical mode decomposition (eemd). further, \
+based on pearson's correlation coefficient (pcc), corresponding imfs & \
+corresponding residual obtained using the three decomposition algorithms \
+are compared amongst each other respectively and that corresponding imfs \
+& corresponding residual are chosen for SIGNAL_RECONSTRUCTION which are \
+having highest correlation coefficient values. thereafter, these selected \
+imfs and residual from each algorithm are combined to form single input. \
+in this way, three inputs formed from three decomposition algorithms \
+based on the pcc values are fed to ADAPTIVE_NEURO_FUZZY_INFERENCE_SYSTEM \
+(anfis) for SOLAR_IRRADIANCE forecasting. the proposed TECHNIQUE_SHOWS \
+significantly higher ACCURATE_RESULTS with less than 2 % mape for \
+different seasons considered at the SITE_LOCATIONS considered. further, \
+it terms of performance, the proposed technique is found to be \
+independent of SITE_LOCATION.  2023 elsevier ltd
+```
+
+--
+
+##: 70
+Record-No: 522
+Citations: 0
+Record-ID: Senadjki A, 2023, J ASIA-PACIFIC BUS, V24, P149
+Title: harnessing ARTIFICIAL_INTELLIGENCE for BUSINESS_COMPETITIVENESS in \
+achieving SUSTAINABLE_DEVELOPMENT_GOALS
+Abstract:
+```
+this STUDY_INVESTIGATES ARTIFICIAL_INTELLIGENCE (awareness, knowledge, \
+empowerment, implementation) on COMPETITIVENESS and the mediating role of \
+innovations (SOCIAL_INNOVATION, ENVIRONMENTAL_INNOVATION, and \
+TECHNOLOGICAL_INNOVATION). we employed the OPEN_INNOVATION_THEORY (oit). \
+the data from 480 smes were analyzed using smartpls. the \
+FINDINGS_ELUCIDATE that the relationship between ai (awareness, \
+empowerment, implementation) and COMPETITIVENESS is positively \
+significant. also, there is a PARTIAL_MEDIATION_EFFECT between \
+AI_AWARENESS and COMPETITIVENESS. TECHNOLOGICAL_INNOVATION partially \
+mediates between ai (implementation and knowledge) and COMPETITIVENESS. \
+policymakers should INITIATE_STRATEGIES to integrate AI_INNOVATIONS. the \
+study extends the oit to create NEW_TECHNOLOGICAL, social and \
+ENVIRONMENTAL_INNOVATIONS.  2023 taylor & FRANCIS_GROUP, llc.
+```
+
+--
+
+##: 71
+Record-No: 452
+Citations: 0
+Record-ID: Supraja KV, 2023, BIORESOUR TECHNOL, V387
+Title: BIOCHAR_PRODUCTION and its ENVIRONMENTAL_APPLICATIONS: \
+RECENT_DEVELOPMENTS and MACHINE_LEARNING_INSIGHTS
+Abstract:
+```
+BIOCHAR_PRODUCTION through THERMOCHEMICAL_PROCESSING is a \
+SUSTAINABLE_BIOMASS_CONVERSION and WASTE_MANAGEMENT_APPROACH. however, \
+commercializing BIOCHAR faces challenges requiring further research and \
+development to maximize its potential for addressing environmental \
+concerns and promoting SUSTAINABLE_RESOURCE_MANAGEMENT. this \
+COMPREHENSIVE_REVIEW presents the state of the art in BIOCHAR_PRODUCTION, \
+emphasizing QUANTITATIVE_YIELD and QUALITATIVE_PROPERTIES with varying \
+feedstocks. it discusses the TECHNOLOGY_READINESS_LEVEL and \
+COMMERCIALIZATION_STATUS of DIFFERENT_PRODUCTION_STRATEGIES, highlighting \
+their environmental and ECONOMIC_IMPACTS. the REVIEW_FOCUSES on \
+integrating MACHINE_LEARNING_ALGORITHMS for PROCESS_CONTROL and \
+optimization in BIOCHAR_PRODUCTION, improving efficiency. additionally, \
+it explores BIOCHAR's ENVIRONMENTAL_APPLICATIONS, including \
+SOIL_AMENDMENT, CARBON_SEQUESTRATION, and WASTEWATER_TREATMENT, \
+showcasing RECENT_ADVANCEMENTS and CASE_STUDIES. advances in \
+BIOCHAR_TECHNOLOGIES and their ENVIRONMENTAL_BENEFITS in VARIOUS_SECTORS \
+are discussed herein.  2023 ELSEVIER_LTD
+```
+
+--
+
+
